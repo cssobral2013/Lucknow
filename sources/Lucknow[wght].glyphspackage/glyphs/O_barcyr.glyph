@@ -2,7 +2,7 @@
 glyphname = Obarcyr;
 layers = (
 {
-layerId = "84F707B8-E6F6-4560-9E91-EBCBB3F7C032";
+layerId = "268DAC57-E2A2-4703-9B87-2E4F83AD2FBF";
 shapes = (
 {
 closed = 1;
@@ -66,16 +66,16 @@ nodes = (
 closed = 1;
 nodes = (
 (146,279,l),
-(146,423,l),
+(635,279,l),
 (635,423,l),
-(635,279,l)
+(146,423,l)
 );
 }
 );
 width = 780;
 },
 {
-layerId = "DF169942-312F-4CB9-BFF4-C95DA1EFA8DD";
+layerId = "295DBF72-63CE-4360-AA06-723F1178BFCA";
 shapes = (
 {
 closed = 1;
@@ -139,16 +139,16 @@ nodes = (
 closed = 1;
 nodes = (
 (111,307,l),
-(111,396,l),
+(671,307,l),
 (671,396,l),
-(671,307,l)
+(111,396,l)
 );
 }
 );
 width = 781;
 },
 {
-layerId = "85DC3871-BA98-4DCB-A963-6B42D2E15F96";
+layerId = "3548BA04-AEF4-4D65-BB36-2983657EE332";
 shapes = (
 {
 closed = 1;
@@ -212,9 +212,9 @@ nodes = (
 closed = 1;
 nodes = (
 (94,321,l),
-(94,383,l),
+(689,321,l),
 (689,383,l),
-(689,321,l)
+(94,383,l)
 );
 }
 );

@@ -2,28 +2,52 @@
 glyphname = equal;
 layers = (
 {
-layerId = "DF169942-312F-4CB9-BFF4-C95DA1EFA8DD";
+layerId = "3548BA04-AEF4-4D65-BB36-2983657EE332";
 shapes = (
 {
-closed = 1;
-nodes = (
-(629,241,l),
-(84,241,l),
-(84,157,l),
-(629,157,l)
-);
+alignment = -1;
+pos = (0,125);
+ref = minus;
 },
 {
-closed = 1;
-nodes = (
-(629,482,l),
-(84,482,l),
-(84,398,l),
-(629,398,l)
-);
+alignment = -1;
+pos = (0,-115);
+ref = minus;
 }
 );
-width = 0;
+width = 713;
+},
+{
+layerId = "268DAC57-E2A2-4703-9B87-2E4F83AD2FBF";
+shapes = (
+{
+alignment = -1;
+pos = (0,125);
+ref = minus;
+},
+{
+alignment = -1;
+pos = (0,-115);
+ref = minus;
+}
+);
+width = 713;
+},
+{
+layerId = "295DBF72-63CE-4360-AA06-723F1178BFCA";
+shapes = (
+{
+alignment = -1;
+pos = (0,125);
+ref = minus;
+},
+{
+alignment = -1;
+pos = (0,-115);
+ref = minus;
+}
+);
+width = 713;
 }
 );
 unicode = 61;
