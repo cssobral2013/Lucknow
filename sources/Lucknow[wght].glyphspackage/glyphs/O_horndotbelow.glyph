@@ -1,0 +1,83 @@
+{
+glyphname = Ohorndotbelow;
+layers = (
+{
+anchors = (
+{
+name = m.uni0941_2;
+position = "{438, -263}";
+},
+{
+name = t.uni031B_3;
+position = "{776, 646}";
+}
+);
+layerId = "62CCE428-27AF-4174-8C32-8EDF06C2E6AE";
+shapes = (
+{
+alignment = -1;
+ref = Ohorn;
+},
+{
+alignment = -1;
+pos = (736,-5);
+ref = dotbelowcomb;
+}
+);
+width = 859;
+},
+{
+anchors = (
+{
+name = t.uni031B_3;
+position = "{776, 646}";
+},
+{
+name = b.uni0941_2;
+position = "{402, -246}";
+}
+);
+layerId = "7A295977-FA7A-4808-B07F-0795E8A98AF6";
+shapes = (
+{
+alignment = -1;
+ref = Ohorn;
+},
+{
+alignment = -1;
+pos = (700,12);
+ref = dotbelowcomb;
+}
+);
+width = 859;
+},
+{
+anchors = (
+{
+name = t.uni031B_3;
+position = "{776, 646}";
+},
+{
+name = b.uni0941_2;
+position = "{384, -238}";
+}
+);
+layerId = "FBBD23DC-4A32-4E17-882F-E93472546798";
+shapes = (
+{
+alignment = -1;
+ref = Ohorn;
+},
+{
+alignment = -1;
+pos = (682,20);
+ref = dotbelowcomb;
+}
+);
+width = 859;
+}
+);
+leftKerningGroup = C;
+rightKerningGroup = D;
+unicode = 7906;
+}

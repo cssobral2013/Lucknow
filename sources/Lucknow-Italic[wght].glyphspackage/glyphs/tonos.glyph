@@ -1,0 +1,80 @@
+{
+glyphname = tonos;
+layers = (
+{
+hints = (
+{
+horizontal = 1;
+place = (554,203);
+type = Stem;
+},
+{
+place = (92,266);
+type = Stem;
+}
+);
+layerId = "7A4E2608-894C-42C3-A821-B6FEA079E459";
+shapes = (
+{
+closed = 1;
+nodes = (
+(121,554,l),
+(261,554,l),
+(415,757,l),
+(266,757,l)
+);
+}
+);
+width = 406;
+},
+{
+hints = (
+{
+horizontal = 1;
+place = (539,202);
+type = Stem;
+}
+);
+layerId = "2FEAAE27-63B5-41AA-B98F-0872FA373B5B";
+shapes = (
+{
+closed = 1;
+nodes = (
+(117,539,l),
+(196,539,l),
+(354,741,l),
+(265,741,l)
+);
+}
+);
+width = 378;
+},
+{
+hints = (
+{
+horizontal = 1;
+place = (531,202);
+type = Stem;
+},
+{
+place = (89,181);
+type = Stem;
+}
+);
+layerId = "BBA9C4CC-16BF-4D96-9809-7FD759381829";
+shapes = (
+{
+closed = 1;
+nodes = (
+(115,531,l),
+(164,531,l),
+(324,733,l),
+(264,733,l)
+);
+}
+);
+width = 364;
+}
+);
+unicode = 900;
+}

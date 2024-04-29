@@ -1,0 +1,170 @@
+{
+glyphname = dotaccentcomb;
+layers = (
+{
+anchors = (
+{
+name = _t.uni0302_1;
+position = "{-218, 463}";
+},
+{
+name = _t.uni0302_1_2;
+position = "{-218, 463}";
+},
+{
+name = _m.uni0302_1;
+position = "{-218, 463}";
+},
+{
+name = _t.uni0302;
+position = "{-218, 463}";
+},
+{
+name = t.uni0302;
+position = "{-195, 638}";
+}
+);
+hints = (
+{
+horizontal = 1;
+place = (563,143);
+type = Stem;
+},
+{
+place = (-371,157);
+type = Stem;
+}
+);
+layerId = "7A4E2608-894C-42C3-A821-B6FEA079E459";
+shapes = (
+{
+closed = 1;
+nodes = (
+(-216,563,o),
+(-180,593,o),
+(-174,634,cs),
+(-168,677,o),
+(-196,706,o),
+(-242,706,cs),
+(-288,706,o),
+(-325,675,o),
+(-331,634,cs),
+(-337,592,o),
+(-307,563,o),
+(-262,563,cs)
+);
+}
+);
+width = 0;
+},
+{
+anchors = (
+{
+name = _t.uni0302_1;
+position = "{-218, 463}";
+},
+{
+name = _t.uni0302_1_2;
+position = "{-218, 463}";
+},
+{
+name = _m.uni0302_1;
+position = "{-218, 463}";
+},
+{
+name = _t.uni0302;
+position = "{-218, 463}";
+},
+{
+name = t.uni0302;
+position = "{-195, 638}";
+}
+);
+hints = (
+{
+horizontal = 1;
+place = (557,124);
+type = Stem;
+}
+);
+layerId = "2FEAAE27-63B5-41AA-B98F-0872FA373B5B";
+shapes = (
+{
+closed = 1;
+nodes = (
+(-191,557,o),
+(-162,582,o),
+(-157,618,cs),
+(-152,655,o),
+(-173,681,o),
+(-210,681,cs),
+(-247,681,o),
+(-276,655,o),
+(-282,618,cs),
+(-287,583,o),
+(-264,557,o),
+(-227,557,cs)
+);
+}
+);
+width = 0;
+},
+{
+anchors = (
+{
+name = _t.uni0302_1;
+position = "{-218, 463}";
+},
+{
+name = _t.uni0302_1_2;
+position = "{-218, 463}";
+},
+{
+name = _m.uni0302_1;
+position = "{-218, 463}";
+},
+{
+name = _t.uni0302;
+position = "{-218, 463}";
+},
+{
+name = t.uni0302;
+position = "{-195, 638}";
+}
+);
+hints = (
+{
+horizontal = 1;
+place = (554,114);
+type = Stem;
+},
+{
+place = (-294,109);
+type = Stem;
+}
+);
+layerId = "BBA9C4CC-16BF-4D96-9809-7FD759381829";
+shapes = (
+{
+closed = 1;
+nodes = (
+(-179,554,o),
+(-153,576,o),
+(-148,610,cs),
+(-144,643,o),
+(-161,668,o),
+(-194,668,cs),
+(-226,668,o),
+(-252,644,o),
+(-257,610,cs),
+(-262,578,o),
+(-243,554,o),
+(-210,554,cs)
+);
+}
+);
+width = 0;
+}
+);
+unicode = 775;
+}

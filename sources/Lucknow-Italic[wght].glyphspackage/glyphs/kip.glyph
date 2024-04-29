@@ -1,0 +1,193 @@
+{
+glyphname = kip;
+layers = (
+{
+hints = (
+{
+horizontal = 1;
+place = (0,21);
+target = up;
+type = BottomGhost;
+},
+{
+horizontal = 1;
+place = (329,84);
+type = Stem;
+},
+{
+place = (198,166);
+type = Stem;
+},
+{
+place = (198,74);
+type = Stem;
+}
+);
+layerId = "7A4E2608-894C-42C3-A821-B6FEA079E459";
+shapes = (
+{
+closed = 1;
+nodes = (
+(87,413,l),
+(75,329,l),
+(269,329,l),
+(281,413,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(247,700,l),
+(149,0,l),
+(315,0,l),
+(413,700,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(822,700,l),
+(603,700,l),
+(357,371,l),
+(535,0,l),
+(753,0,l),
+(498,371,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(464,413,l),
+(452,329,l),
+(731,329,l),
+(743,413,l)
+);
+}
+);
+width = 880;
+},
+{
+hints = (
+{
+horizontal = 1;
+place = (0,21);
+target = up;
+type = BottomGhost;
+},
+{
+horizontal = 1;
+place = (337,68);
+type = Stem;
+}
+);
+layerId = "2FEAAE27-63B5-41AA-B98F-0872FA373B5B";
+shapes = (
+{
+closed = 1;
+nodes = (
+(86,405,l),
+(76,337,l),
+(262,337,l),
+(272,405,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(262,700,l),
+(164,0,l),
+(267,0,l),
+(365,700,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(774,700,l),
+(638,700,l),
+(324,371,l),
+(569,0,l),
+(705,0,l),
+(427,371,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(384,405,l),
+(375,337,l),
+(654,337,l),
+(663,405,l)
+);
+}
+);
+width = 833;
+},
+{
+hints = (
+{
+horizontal = 1;
+place = (0,21);
+target = up;
+type = BottomGhost;
+},
+{
+horizontal = 1;
+place = (341,60);
+type = Stem;
+},
+{
+place = (220,72);
+type = Stem;
+},
+{
+place = (220,40);
+type = Stem;
+}
+);
+layerId = "BBA9C4CC-16BF-4D96-9809-7FD759381829";
+shapes = (
+{
+closed = 1;
+nodes = (
+(85,401,l),
+(77,341,l),
+(259,341,l),
+(267,401,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(269,700,l),
+(171,0,l),
+(243,0,l),
+(341,700,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(750,700,l),
+(655,700,l),
+(308,371,l),
+(586,0,l),
+(681,0,l),
+(391,371,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(344,401,l),
+(336,341,l),
+(615,341,l),
+(623,401,l)
+);
+}
+);
+width = 809;
+}
+);
+unicode = 8365;
+}

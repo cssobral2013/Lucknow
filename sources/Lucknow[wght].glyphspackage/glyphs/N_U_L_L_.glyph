@@ -1,0 +1,13 @@
+{
+glyphname = NULL;
+layers = (
+{
+layerId = "7A295977-FA7A-4808-B07F-0795E8A98AF6";
+width = 629;
+},
+{
+layerId = "FBBD23DC-4A32-4E17-882F-E93472546798";
+width = 629;
+}
+);
+}

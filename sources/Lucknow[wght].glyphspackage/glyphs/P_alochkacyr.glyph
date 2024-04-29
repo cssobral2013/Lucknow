@@ -1,0 +1,51 @@
+{
+glyphname = Palochkacyr;
+layers = (
+{
+layerId = "62CCE428-27AF-4174-8C32-8EDF06C2E6AE";
+shapes = (
+{
+closed = 1;
+nodes = (
+(72,0,l),
+(217,0,l),
+(217,700,l),
+(72,700,l)
+);
+}
+);
+width = 289;
+},
+{
+layerId = "7A295977-FA7A-4808-B07F-0795E8A98AF6";
+shapes = (
+{
+closed = 1;
+nodes = (
+(91,0,l),
+(182,0,l),
+(182,700,l),
+(91,700,l)
+);
+}
+);
+width = 274;
+},
+{
+layerId = "FBBD23DC-4A32-4E17-882F-E93472546798";
+shapes = (
+{
+closed = 1;
+nodes = (
+(101,0,l),
+(165,0,l),
+(165,700,l),
+(101,700,l)
+);
+}
+);
+width = 266;
+}
+);
+unicode = 1216;
+}

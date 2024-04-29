@@ -1,0 +1,213 @@
+{
+glyphname = ibreve;
+layers = (
+{
+anchors = (
+{
+name = b.uni0321_2;
+position = "{62, 0}";
+},
+{
+name = m.uni0302_1;
+position = "{152, 650}";
+},
+{
+name = b.uni0328;
+position = "{77, 0}";
+}
+);
+hints = (
+{
+horizontal = 1;
+place = (0,21);
+target = up;
+type = BottomGhost;
+},
+{
+horizontal = 1;
+place = (570,85);
+type = Stem;
+},
+{
+place = (-36,85);
+type = Stem;
+},
+{
+place = (57,159);
+type = Stem;
+},
+{
+place = (228,85);
+type = Stem;
+}
+);
+layerId = "7A4E2608-894C-42C3-A821-B6FEA079E459";
+shapes = (
+{
+closed = 1;
+nodes = (
+(78,500,l),
+(8,0,l),
+(167,0,l),
+(237,500,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(280,718,l),
+(274,677,o),
+(241,655,o),
+(182,655,cs),
+(124,655,o),
+(95,677,o),
+(101,718,c),
+(16,718,l),
+(3,624,o),
+(57,570,o),
+(170,570,cs),
+(283,570,o),
+(352,624,o),
+(365,718,c)
+);
+}
+);
+width = 273;
+},
+{
+anchors = (
+{
+name = b.uni0321_2;
+position = "{62, 0}";
+},
+{
+name = m.uni0302_1;
+position = "{152, 650}";
+},
+{
+name = b.uni0328;
+position = "{77, 0}";
+}
+);
+hints = (
+{
+horizontal = 1;
+place = (0,21);
+target = up;
+type = BottomGhost;
+},
+{
+horizontal = 1;
+place = (565,61);
+type = Stem;
+}
+);
+layerId = "2FEAAE27-63B5-41AA-B98F-0872FA373B5B";
+shapes = (
+{
+closed = 1;
+nodes = (
+(93,500,l),
+(23,0,l),
+(122,0,l),
+(192,500,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(276,713,l),
+(268,655,o),
+(228,626,o),
+(161,626,cs),
+(95,626,o),
+(62,655,o),
+(70,713,c),
+(9,713,l),
+(-4,618,o),
+(46,565,o),
+(152,565,cs),
+(258,565,o),
+(323,618,o),
+(337,713,c)
+);
+}
+);
+width = 241;
+},
+{
+anchors = (
+{
+name = b.uni0321_2;
+position = "{62, 0}";
+},
+{
+name = m.uni0302_1;
+position = "{152, 650}";
+},
+{
+name = b.uni0328;
+position = "{77, 0}";
+}
+);
+hints = (
+{
+horizontal = 1;
+place = (0,21);
+target = up;
+type = BottomGhost;
+},
+{
+horizontal = 1;
+place = (562,49);
+type = Stem;
+},
+{
+place = (-45,49);
+type = Stem;
+},
+{
+place = (79,69);
+type = Stem;
+},
+{
+place = (223,49);
+type = Stem;
+}
+);
+layerId = "BBA9C4CC-16BF-4D96-9809-7FD759381829";
+shapes = (
+{
+closed = 1;
+nodes = (
+(100,500,l),
+(30,0,l),
+(99,0,l),
+(169,500,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(274,710,l),
+(265,644,o),
+(221,611,o),
+(150,611,cs),
+(80,611,o),
+(46,644,o),
+(55,710,c),
+(6,710,l),
+(-8,614,o),
+(41,562,o),
+(143,562,cs),
+(246,562,o),
+(309,614,o),
+(323,710,c)
+);
+}
+);
+width = 225;
+}
+);
+unicode = 301;
+}

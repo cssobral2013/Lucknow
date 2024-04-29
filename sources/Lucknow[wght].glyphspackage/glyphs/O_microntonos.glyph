@@ -1,0 +1,69 @@
+{
+glyphname = Omicrontonos;
+layers = (
+{
+anchors = (
+{
+name = m.uni0946_2;
+position = "{408, 1007}";
+}
+);
+layerId = "62CCE428-27AF-4174-8C32-8EDF06C2E6AE";
+shapes = (
+{
+alignment = -1;
+ref = Omicron;
+},
+{
+alignment = -1;
+pos = (-217,-60);
+ref = tonos;
+}
+);
+width = 859;
+},
+{
+anchors = (
+{
+name = m.uni0946_2;
+position = "{314, 958}";
+}
+);
+layerId = "7A295977-FA7A-4808-B07F-0795E8A98AF6";
+shapes = (
+{
+alignment = -1;
+ref = Omicron;
+},
+{
+alignment = -1;
+pos = (-171,-43);
+ref = tonos;
+}
+);
+width = 859;
+},
+{
+anchors = (
+{
+name = m.uni0946_2;
+position = "{492, 1064}";
+}
+);
+layerId = "FBBD23DC-4A32-4E17-882F-E93472546798";
+shapes = (
+{
+alignment = -1;
+ref = Omicron;
+},
+{
+alignment = -1;
+pos = (-148,-34);
+ref = tonos;
+}
+);
+width = 859;
+}
+);
+unicode = 908;
+}

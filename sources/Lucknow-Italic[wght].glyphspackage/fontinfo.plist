@@ -1,0 +1,8323 @@
+{
+.formatVersion = 3;
+axes = (
+{
+name = Weight;
+tag = wght;
+}
+);
+classes = (
+{
+code = "slash A O a i o periodcentered Scedilla scedilla Tcedilla tcedilla zero.numr one.numr two.numr three.numr four.numr five.numr six.numr seven.numr eight.numr nine.numr";
+name = aalt;
+},
+{
+code = "fraction ordfeminine ordmasculine ordfeminine i.loclTRK ordmasculine periodcentered.loclCAT Scommaaccent scommaaccent Tcommaaccent tcommaaccent zero.dnom one.dnom two.dnom three.dnom four.dnom five.dnom six.dnom seven.dnom eight.dnom nine.dnom";
+name = aalt2;
+},
+{
+code = "zero one two three four five six seven eight nine zero.lf one.lf two.lf three.lf four.lf five.lf six.lf seven.lf eight.lf nine.lf";
+name = case;
+},
+{
+code = "zero.osf one.osf two.osf three.osf four.osf five.osf six.osf seven.osf eight.osf nine.osf zero.tosf one.tosf two.tosf three.tosf four.tosf five.tosf six.tosf seven.tosf eight.tosf nine.tosf";
+name = case_onum;
+},
+{
+code = "gravecomb acutecomb circumflexcomb tildecomb macroncomb brevecomb dotaccentcomb dieresiscomb ringcomb hungarumlautcomb caroncomb commaturnedabovecomb hookabovecomb dblgravecomb breveinvertedcomb";
+name = ccmp;
+},
+{
+code = "zero.dnom one.dnom two.dnom three.dnom four.dnom five.dnom six.dnom seven.dnom eight.dnom nine.dnom";
+name = dnom_frac;
+},
+{
+code = "zero one two three four five six seven eight nine";
+name = dnom_lnum_numr_ordn;
+},
+{
+code = "slash zero one two three four five six seven eight nine";
+name = frac;
+},
+{
+code = "fraction zero.numr one.numr two.numr three.numr four.numr five.numr six.numr seven.numr eight.numr nine.numr";
+name = frac2;
+},
+{
+code = "zero.numr one.numr two.numr three.numr four.numr five.numr six.numr seven.numr eight.numr nine.numr";
+name = frac_numr;
+},
+{
+code = "zero.osf one.osf two.osf three.osf four.osf five.osf six.osf seven.osf eight.osf nine.osf";
+name = lnum;
+},
+{
+code = "commaaccentcomb cedillacomb dotbelowcomb dieresisbelowcomb macronbelowcomb palatalhookcomb";
+name = mkmk;
+},
+{
+code = "gravecomb acutecomb circumflexcomb tildecomb macroncomb brevecomb dotaccentcomb dieresiscomb ringcomb hungarumlautcomb caroncomb commaturnedabovecomb hookabovecomb dblgravecomb breveinvertedcomb brevebelowcomb circumflexcomb_gravecomb circumflexcomb_acutecomb circumflexcomb_tildecomb circumflexcomb_hookabovecomb brevecomb_gravecomb brevecomb_acutecomb brevecomb_tildecomb brevecomb_hookabovecomb";
+name = mkmk2;
+},
+{
+code = "horncomb caroncomb.alt";
+name = mkmk3;
+},
+{
+code = "zero one two three four five six seven eight nine zero.tf one.tf two.tf three.tf four.tf five.tf six.tf seven.tf eight.tf nine.tf";
+name = onum;
+},
+{
+code = "zero.tf one.tf two.tf three.tf four.tf five.tf six.tf seven.tf eight.tf nine.tf zero.tosf one.tosf two.tosf three.tosf four.tosf five.tosf six.tosf seven.tosf eight.tosf nine.tosf";
+name = pnum_tnum;
+},
+{
+code = "zero one two three four five six seven eight nine zero.osf one.osf two.osf three.osf four.osf five.osf six.osf seven.osf eight.osf nine.osf";
+name = pnum_tnum2;
+}
+);
+familyName = Lucknow;
+customParameters = (
+{
+name = glyphOrder;
+value = (
+.notdef,
+CR,
+space,
+exclam,
+quotedbl,
+numbersign,
+dollar,
+percent,
+ampersand,
+quotesingle,
+parenleft,
+parenright,
+asterisk,
+plus,
+comma,
+hyphen,
+period,
+slash,
+zero,
+one,
+two,
+three,
+four,
+five,
+six,
+seven,
+eight,
+nine,
+colon,
+semicolon,
+less,
+equal,
+greater,
+question,
+at,
+A,
+B,
+C,
+D,
+E,
+F,
+G,
+H,
+I,
+J,
+K,
+L,
+M,
+N,
+O,
+P,
+Q,
+R,
+S,
+T,
+U,
+V,
+W,
+X,
+Y,
+Z,
+bracketleft,
+backslash,
+bracketright,
+asciicircum,
+underscore,
+grave,
+a,
+b,
+c,
+d,
+e,
+f,
+g,
+h,
+i,
+j,
+k,
+l,
+m,
+n,
+o,
+p,
+q,
+r,
+s,
+t,
+u,
+v,
+w,
+x,
+y,
+z,
+braceleft,
+bar,
+braceright,
+asciitilde,
+nbspace,
+exclamdown,
+cent,
+sterling,
+currency,
+yen,
+brokenbar,
+section,
+dieresis,
+copyright,
+ordfeminine,
+guillemotleft,
+logicalnot,
+uni00AD,
+registered,
+macron,
+degree,
+plusminus,
+twosuperior,
+threesuperior,
+acute,
+micro,
+paragraph,
+periodcentered,
+cedilla,
+onesuperior,
+ordmasculine,
+guillemotright,
+onequarter,
+onehalf,
+threequarters,
+questiondown,
+Agrave,
+Aacute,
+Acircumflex,
+Atilde,
+Adieresis,
+Aring,
+AE,
+Ccedilla,
+Egrave,
+Eacute,
+Ecircumflex,
+Edieresis,
+Igrave,
+Iacute,
+Icircumflex,
+Idieresis,
+Eth,
+Ntilde,
+Ograve,
+Oacute,
+Ocircumflex,
+Otilde,
+Odieresis,
+multiply,
+Oslash,
+Ugrave,
+Uacute,
+Ucircumflex,
+Udieresis,
+Yacute,
+Thorn,
+germandbls,
+agrave,
+aacute,
+acircumflex,
+atilde,
+adieresis,
+aring,
+ae,
+ccedilla,
+egrave,
+eacute,
+ecircumflex,
+edieresis,
+igrave,
+iacute,
+icircumflex,
+idieresis,
+eth,
+ntilde,
+ograve,
+oacute,
+ocircumflex,
+otilde,
+odieresis,
+divide,
+oslash,
+ugrave,
+uacute,
+ucircumflex,
+udieresis,
+yacute,
+thorn,
+ydieresis,
+Amacron,
+amacron,
+Abreve,
+abreve,
+Aogonek,
+aogonek,
+Cacute,
+cacute,
+Ccircumflex,
+ccircumflex,
+Cdotaccent,
+cdotaccent,
+Ccaron,
+ccaron,
+Dcaron,
+dcaron,
+Dcroat,
+dcroat,
+Emacron,
+emacron,
+Ebreve,
+ebreve,
+Edotaccent,
+edotaccent,
+Eogonek,
+eogonek,
+Ecaron,
+ecaron,
+Gcircumflex,
+gcircumflex,
+Gbreve,
+gbreve,
+Gdotaccent,
+gdotaccent,
+Gcommaaccent,
+gcommaaccent,
+Hcircumflex,
+hcircumflex,
+Hbar,
+hbar,
+Itilde,
+itilde,
+Imacron,
+imacron,
+Ibreve,
+ibreve,
+Iogonek,
+iogonek,
+Idotaccent,
+dotlessi,
+IJ,
+ij,
+Jcircumflex,
+jcircumflex,
+Kcommaaccent,
+kcommaaccent,
+kgreenlandic,
+Lacute,
+lacute,
+Lcommaaccent,
+lcommaaccent,
+Lcaron,
+lcaron,
+Ldot,
+ldot,
+Lslash,
+lslash,
+Nacute,
+nacute,
+Ncommaaccent,
+ncommaaccent,
+Ncaron,
+ncaron,
+Eng,
+eng,
+Omacron,
+omacron,
+Obreve,
+obreve,
+Ohungarumlaut,
+ohungarumlaut,
+OE,
+oe,
+Racute,
+racute,
+Rcommaaccent,
+rcommaaccent,
+Rcaron,
+rcaron,
+Sacute,
+sacute,
+Scircumflex,
+scircumflex,
+Scedilla,
+scedilla,
+Scaron,
+scaron,
+Tcedilla,
+tcedilla,
+Tcaron,
+tcaron,
+Tbar,
+tbar,
+Utilde,
+utilde,
+Umacron,
+umacron,
+Ubreve,
+ubreve,
+Uring,
+uring,
+Uhungarumlaut,
+uhungarumlaut,
+Uogonek,
+uogonek,
+Wcircumflex,
+wcircumflex,
+Ycircumflex,
+ycircumflex,
+Ydieresis,
+Zacute,
+zacute,
+Zdotaccent,
+zdotaccent,
+Zcaron,
+zcaron,
+Schwa,
+florin,
+Nhookleft,
+Ohorn,
+ohorn,
+Uhorn,
+uhorn,
+DZcaron,
+Dzcaron,
+dzcaron,
+LJ,
+Lj,
+lj,
+NJ,
+Nj,
+nj,
+Gcaron,
+gcaron,
+Oogonek,
+oogonek,
+DZ,
+Dz,
+dz,
+Aringacute,
+aringacute,
+AEacute,
+aeacute,
+Oslashacute,
+oslashacute,
+Adblgrave,
+adblgrave,
+Ainvertedbreve,
+ainvertedbreve,
+Edblgrave,
+edblgrave,
+Einvertedbreve,
+einvertedbreve,
+Idblgrave,
+idblgrave,
+Iinvertedbreve,
+iinvertedbreve,
+Odblgrave,
+odblgrave,
+Oinvertedbreve,
+oinvertedbreve,
+Rdblgrave,
+rdblgrave,
+Rinvertedbreve,
+rinvertedbreve,
+Udblgrave,
+udblgrave,
+Uinvertedbreve,
+uinvertedbreve,
+Scommaaccent,
+scommaaccent,
+Tcommaaccent,
+tcommaaccent,
+Odieresismacron,
+odieresismacron,
+Otildemacron,
+otildemacron,
+Odotaccentmacron,
+odotaccentmacron,
+Ymacron,
+ymacron,
+dotlessj,
+schwa,
+nhookleft,
+primemod,
+primedblmod,
+apostrophemod,
+circumflex,
+caron,
+macronmod,
+breve,
+dotaccent,
+ring,
+ogonek,
+tilde,
+hungarumlaut,
+gravecomb,
+acutecomb,
+circumflexcomb,
+tildecomb,
+macroncomb,
+brevecomb,
+dotaccentcomb,
+dieresiscomb,
+hookabovecomb,
+ringcomb,
+hungarumlautcomb,
+caroncomb,
+dblgravecomb,
+breveinvertedcomb,
+commaturnedabovecomb,
+horncomb,
+palatalhookcomb,
+dotbelowcomb,
+dieresisbelowcomb,
+commaaccentcomb,
+cedillacomb,
+ogonekcomb,
+brevebelowcomb,
+macronbelowcomb,
+strokeshortcomb,
+strokelongcomb,
+slashshortcomb,
+slashlongcomb,
+tonos,
+Alphatonos,
+Epsilontonos,
+Etatonos,
+Iotatonos,
+Omicrontonos,
+Upsilontonos,
+Omegatonos,
+iotadieresistonos,
+Alpha,
+Beta,
+Gamma,
+Delta,
+Epsilon,
+Zeta,
+Eta,
+Theta,
+Iota,
+Kappa,
+Lambda,
+Mu,
+Nu,
+Xi,
+Omicron,
+Pi,
+Rho,
+Sigma,
+Tau,
+Upsilon,
+Phi,
+Chi,
+Psi,
+Omega,
+Iotadieresis,
+Upsilondieresis,
+alphatonos,
+epsilontonos,
+etatonos,
+iotatonos,
+upsilondieresistonos,
+alpha,
+beta,
+gamma,
+delta,
+epsilon,
+zeta,
+eta,
+theta,
+iota,
+kappa,
+lambda,
+mu,
+nu,
+xi,
+omicron,
+pi,
+rho,
+sigmafinal,
+sigma,
+tau,
+upsilon,
+phi,
+chi,
+psi,
+omega,
+iotadieresis,
+upsilondieresis,
+omicrontonos,
+upsilontonos,
+omegatonos,
+Iegravecyr,
+Iocyr,
+Djecyr,
+Gjecyr,
+Eukrcyr,
+Dzecyr,
+Iukrcyr,
+Yukrcyr,
+Jecyr,
+Ljecyr,
+Njecyr,
+Tshecyr,
+Kjecyr,
+Igravecyr,
+Ushortcyr,
+Dzhecyr,
+Acyr,
+Becyr,
+Vecyr,
+Gecyr,
+Decyr,
+Iecyr,
+Zhecyr,
+Zecyr,
+Icyr,
+Ishortcyr,
+Kacyr,
+Elcyr,
+Emcyr,
+Encyr,
+Ocyr,
+Pecyr,
+Ercyr,
+Escyr,
+Tecyr,
+Ucyr,
+Efcyr,
+Hacyr,
+Tsecyr,
+Checyr,
+Shacyr,
+Shchacyr,
+Hardcyr,
+Ylongcyr,
+Softcyr,
+Ereversedcyr,
+Yucyr,
+Yacyr,
+acyr,
+becyr,
+vecyr,
+gecyr,
+decyr,
+iecyr,
+zhecyr,
+zecyr,
+icyr,
+ishortcyr,
+kacyr,
+elcyr,
+emcyr,
+encyr,
+ocyr,
+pecyr,
+ercyr,
+escyr,
+tecyr,
+ucyr,
+efcyr,
+hacyr,
+tsecyr,
+checyr,
+shacyr,
+shchacyr,
+hardcyr,
+ylongcyr,
+softcyr,
+ereversedcyr,
+yucyr,
+yacyr,
+iegravecyr,
+iocyr,
+djecyr,
+gjecyr,
+eukrcyr,
+dzecyr,
+iukrcyr,
+yukrcyr,
+jecyr,
+ljecyr,
+njecyr,
+tshecyr,
+kjecyr,
+igravecyr,
+ushortcyr,
+dzhecyr,
+Geupcyr,
+geupcyr,
+Gestrokecyr,
+gestrokecyr,
+Zhetailcyr,
+zhetailcyr,
+Katailcyr,
+katailcyr,
+Entailcyr,
+entailcyr,
+Engecyr,
+engecyr,
+Ustraightcyr,
+ustraightcyr,
+Ustraightstrokecyr,
+ustraightstrokecyr,
+Xatailcyr,
+xatailcyr,
+Chetailcyr,
+chetailcyr,
+Shhacyr,
+shhacyr,
+Palochkacyr,
+Zhebrevecyr,
+zhebrevecyr,
+palochkacyr,
+Abrevecyr,
+abrevecyr,
+Aiecyr,
+aiecyr,
+Schwacyr,
+schwacyr,
+Imacroncyr,
+imacroncyr,
+Obarcyr,
+obarcyr,
+Umacroncyr,
+umacroncyr,
+"baht-thai",
+Wgrave,
+wgrave,
+Wacute,
+wacute,
+Wdieresis,
+wdieresis,
+Germandbls,
+Adotbelow,
+adotbelow,
+Ahoi,
+ahoi,
+Acircumflexacute,
+acircumflexacute,
+Acircumflexgrave,
+acircumflexgrave,
+Acircumflexhoi,
+acircumflexhoi,
+Acircumflextilde,
+acircumflextilde,
+Acircumflexdotbelow,
+acircumflexdotbelow,
+Abreveacute,
+abreveacute,
+Abrevegrave,
+abrevegrave,
+Abrevehoi,
+abrevehoi,
+Abrevetilde,
+abrevetilde,
+Abrevedotbelow,
+abrevedotbelow,
+Edotbelow,
+edotbelow,
+Ehoi,
+ehoi,
+Etilde,
+etilde,
+Ecircumflexacute,
+ecircumflexacute,
+Ecircumflexgrave,
+ecircumflexgrave,
+Ecircumflexhoi,
+ecircumflexhoi,
+Ecircumflextilde,
+ecircumflextilde,
+Ecircumflexdotbelow,
+ecircumflexdotbelow,
+Ihoi,
+ihoi,
+Idotbelow,
+idotbelow,
+Odotbelow,
+odotbelow,
+Ohoi,
+ohoi,
+Ocircumflexacute,
+ocircumflexacute,
+Ocircumflexgrave,
+ocircumflexgrave,
+Ocircumflexhoi,
+ocircumflexhoi,
+Ocircumflextilde,
+ocircumflextilde,
+Ocircumflexdotbelow,
+ocircumflexdotbelow,
+Ohornacute,
+ohornacute,
+Ohorngrave,
+ohorngrave,
+Ohornhoi,
+ohornhoi,
+Ohorntilde,
+ohorntilde,
+Ohorndotbelow,
+ohorndotbelow,
+Udotbelow,
+udotbelow,
+Uhoi,
+uhoi,
+Uhornacute,
+uhornacute,
+Uhorngrave,
+uhorngrave,
+Uhornhoi,
+uhornhoi,
+Uhorntilde,
+uhorntilde,
+Uhorndotbelow,
+uhorndotbelow,
+Ygrave,
+ygrave,
+Ydotbelow,
+ydotbelow,
+Yhoi,
+yhoi,
+Ytilde,
+ytilde,
+"hyphen-gnrl",
+endash,
+emdash,
+quoteleft,
+quoteright,
+quotesinglbase,
+quotedblleft,
+quotedblright,
+quotedblbase,
+dagger,
+daggerdbl,
+bullet,
+ellipsis,
+perthousand,
+minute,
+second,
+guilsinglleft,
+guilsinglright,
+fraction,
+commercialminussign,
+four.superior,
+colonmonetary,
+franc,
+lira,
+naira,
+peseta,
+rupee,
+won,
+newsheqel,
+dong,
+Euro,
+kip,
+peso,
+guarani,
+hryvnia,
+cedi,
+indianrupee,
+turkishlira,
+manat,
+ruble,
+litre,
+numero,
+trademark,
+estimated,
+oneeighth,
+threeeighths,
+fiveeighths,
+seveneighths,
+partialdiff,
+emptyset,
+product,
+summation,
+minus,
+divisionslash,
+bulletoperator,
+radical,
+infinity,
+integral,
+approxequal,
+notequal,
+lessequal,
+greaterequal,
+lozenge,
+circle,
+circledotted,
+bracketangleleft,
+bracketangleright,
+fi,
+fl,
+NULL,
+a.alt,
+g.alt,
+zero.lf,
+one.lf,
+two.lf,
+three.lf,
+four.lf,
+five.lf,
+six.lf,
+seven.lf,
+eight.lf,
+nine.lf,
+zero.osf,
+one.osf,
+two.osf,
+three.osf,
+four.osf,
+five.osf,
+six.osf,
+seven.osf,
+eight.osf,
+nine.osf,
+zero.tf,
+one.tf,
+two.tf,
+three.tf,
+four.tf,
+five.tf,
+six.tf,
+seven.tf,
+eight.tf,
+nine.tf,
+zero.tosf,
+one.tosf,
+two.tosf,
+three.tosf,
+four.tosf,
+five.tosf,
+six.tosf,
+seven.tosf,
+eight.tosf,
+nine.tosf,
+zero.zero,
+i.TRK,
+i.loclTRK,
+f_f,
+f_f_i,
+f_f_ij,
+f_f_l,
+f_i,
+f_ij,
+f_joint,
+f_l,
+zero.dnom,
+one.dnom,
+two.dnom,
+three.dnom,
+four.dnom,
+five.dnom,
+six.dnom,
+seven.dnom,
+eight.dnom,
+nine.dnom,
+zero.numr,
+one.numr,
+two.numr,
+three.numr,
+four.numr,
+five.numr,
+six.numr,
+seven.numr,
+eight.numr,
+nine.numr,
+periodcentered.loclCAT,
+colon.case,
+caroncomb.alt,
+brevecomb_acutecomb,
+brevecomb_gravecomb,
+brevecomb_hookabovecomb,
+brevecomb_tildecomb,
+circumflexcomb_acutecomb,
+circumflexcomb_gravecomb,
+circumflexcomb_hookabovecomb,
+circumflexcomb_tildecomb,
+softhyphen,
+ssa_rakar,
+zeroslash
+);
+}
+);
+featurePrefixes = (
+{
+code = "#/> classes
+#/> otclasses
+@aalt = [slash A O a i o periodcentered Scedilla scedilla Tcedilla tcedilla zero.numr one.numr two.numr three.numr four.numr five.numr six.numr seven.numr eight.numr nine.numr];
+@aalt2 = [fraction ordfeminine ordmasculine ordfeminine i.loclTRK ordmasculine periodcentered.loclCAT Scommaaccent scommaaccent Tcommaaccent tcommaaccent zero.dnom one.dnom two.dnom three.dnom four.dnom five.dnom six.dnom seven.dnom eight.dnom nine.dnom];
+@case = [zero one two three four five six seven eight nine zero.lf one.lf two.lf three.lf four.lf five.lf six.lf seven.lf eight.lf nine.lf];
+@case_onum = [zero.osf one.osf two.osf three.osf four.osf five.osf six.osf seven.osf eight.osf nine.osf zero.tosf one.tosf two.tosf three.tosf four.tosf five.tosf six.tosf seven.tosf eight.tosf nine.tosf];
+@ccmp = [gravecomb acutecomb circumflexcomb tildecomb macroncomb brevecomb dotaccentcomb dieresiscomb ringcomb hungarumlautcomb caroncomb commaturnedabovecomb hookabovecomb dblgravecomb breveinvertedcomb];
+@dnom_frac = [zero.dnom one.dnom two.dnom three.dnom four.dnom five.dnom six.dnom seven.dnom eight.dnom nine.dnom];
+@dnom_lnum_numr_ordn = [zero one two three four five six seven eight nine];
+@frac = [slash zero one two three four five six seven eight nine];
+@frac2 = [fraction zero.numr one.numr two.numr three.numr four.numr five.numr six.numr seven.numr eight.numr nine.numr];
+@frac_numr = [zero.numr one.numr two.numr three.numr four.numr five.numr six.numr seven.numr eight.numr nine.numr];
+@lnum = [zero.osf one.osf two.osf three.osf four.osf five.osf six.osf seven.osf eight.osf nine.osf];
+@mkmk = [commaaccentcomb cedillacomb dotbelowcomb dieresisbelowcomb macronbelowcomb palatalhookcomb];
+@mkmk2 = [gravecomb acutecomb circumflexcomb tildecomb macroncomb brevecomb dotaccentcomb dieresiscomb ringcomb hungarumlautcomb caroncomb commaturnedabovecomb hookabovecomb dblgravecomb breveinvertedcomb brevebelowcomb circumflexcomb_gravecomb circumflexcomb_acutecomb circumflexcomb_tildecomb circumflexcomb_hookabovecomb brevecomb_gravecomb brevecomb_acutecomb brevecomb_tildecomb brevecomb_hookabovecomb];
+@mkmk3 = [horncomb caroncomb.alt];
+@onum = [zero one two three four five six seven eight nine zero.tf one.tf two.tf three.tf four.tf five.tf six.tf seven.tf eight.tf nine.tf];
+@pnum_tnum = [zero.tf one.tf two.tf three.tf four.tf five.tf six.tf seven.tf eight.tf nine.tf zero.tosf one.tosf two.tosf three.tosf four.tosf five.tosf six.tosf seven.tosf eight.tosf nine.tosf];
+@pnum_tnum2 = [zero one two three four five six seven eight nine zero.osf one.osf two.osf three.osf four.osf five.osf six.osf seven.osf eight.osf nine.osf];
+#/< otclasses
+#/< classes
+
+###
+# OpenType Layout feature definitions
+# Format: Adobe FDK for OpenType (AFDKO) version 2.5
+# Generated on: 2024-4-28 22:16
+# Generated by: FontLab 8.0.0
+# Font PostScript name: Montero-ExtraLight
+# Font copyright: Copyright © 2024 The Madhuban Project Authors (https://github.com/magictype/madhuban)
+#
+# Totals:
+# Languagesystems: 14
+# GSUB lookups: 27
+# GSUB features: 16 (aalt, case, ccmp, dlig, dnom, frac, liga, lnum, locl, numr, onum, ordn, pnum, sups, tnum, zero)
+# GPOS lookups: 15
+# GPOS features: 3 (kern, mark, mkmk)
+
+#
+# Languagesystem definitions
+#
+
+languagesystem DFLT dflt; # Default default
+languagesystem latn dflt; # Latin default
+languagesystem latn AZE ; # Latin Azerbaijani
+languagesystem latn CAT ; # Latin Catalan
+languagesystem latn CRT ; # Latin Crimean Tatar
+languagesystem latn KAZ ; # Latin Kazakh
+languagesystem latn MOL ; # Latin Moldavian
+languagesystem latn ROM ; # Latin Romanian
+languagesystem latn TAT ; # Latin Tatar
+languagesystem latn TRK ; # Latin Turkish
+languagesystem dev2 dflt; # Devanagari v.2 default
+languagesystem dev2 MAR ; # Devanagari v.2 Marathi
+languagesystem deva dflt; # Devanagari default
+languagesystem deva MAR ; # Devanagari Marathi
+
+#
+# Lookup definitions
+#
+
+
+#
+# Feature definitions
+#
+
+";
+tag = Languagesystems;
+}
+);
+features = (
+{
+code = "# GSUB feature: Access All Alternates
+# Lookups: 2
+
+  sub @aalt by @aalt2;
+  sub zero from [zero.numr zero.dnom zero.tf zero.osf zero.zero];
+  sub one from [onesuperior one.numr one.dnom one.tf one.osf];
+  sub two from [twosuperior two.numr two.dnom two.tf two.osf];
+  sub three from [threesuperior three.numr three.dnom three.tf three.osf];
+  sub four from [four.superior four.numr four.dnom four.tf four.osf];
+  sub five from [five.numr five.dnom five.tf five.osf];
+  sub six from [six.numr six.dnom six.tf six.osf];
+  sub seven from [seven.numr seven.dnom seven.tf seven.osf];
+  sub eight from [eight.numr eight.dnom eight.tf eight.osf];
+  sub nine from [nine.numr nine.dnom nine.tf nine.osf];
+  sub zero.osf from [zero zero.tosf];
+  sub one.osf from [one one.tosf];
+  sub two.osf from [two two.tosf];
+  sub three.osf from [three three.tosf];
+  sub four.osf from [four four.tosf];
+  sub five.osf from [five five.tosf];
+  sub six.osf from [six six.tosf];
+  sub seven.osf from [seven seven.tosf];
+  sub eight.osf from [eight eight.tosf];
+  sub nine.osf from [nine nine.tosf];
+  sub zero.tf from [zero zero.tosf];
+  sub one.tf from [one one.tosf];
+  sub two.tf from [two two.tosf];
+  sub three.tf from [three three.tosf];
+  sub four.tf from [four four.tosf];
+  sub five.tf from [five five.tosf];
+  sub six.tf from [six six.tosf];
+  sub seven.tf from [seven seven.tosf];
+  sub eight.tf from [eight eight.tosf];
+  sub nine.tf from [nine nine.tosf];
+  sub zero.tosf from [zero.osf zero.lf];
+  sub one.tosf from [one.osf one.lf];
+  sub two.tosf from [two.osf two.lf];
+  sub three.tosf from [three.osf three.lf];
+  sub four.tosf from [four.osf four.lf];
+  sub five.tosf from [five.osf five.lf];
+  sub six.tosf from [six.osf six.lf];
+  sub seven.tosf from [seven.osf seven.lf];
+  sub eight.tosf from [eight.osf eight.lf];
+  sub nine.tosf from [nine.osf nine.lf];";
+tag = aalt;
+},
+{
+code = "# GSUB feature: Glyph Composition / Decomposition
+# Lookups: 3
+
+  sub circumflexcomb tildecomb by circumflexcomb_tildecomb;
+  sub circumflexcomb hookabovecomb by circumflexcomb_hookabovecomb;
+  sub circumflexcomb gravecomb by circumflexcomb_gravecomb;
+  sub circumflexcomb acutecomb by circumflexcomb_acutecomb;
+  sub brevecomb tildecomb by brevecomb_tildecomb;
+  sub brevecomb hookabovecomb by brevecomb_hookabovecomb;
+  sub brevecomb gravecomb by brevecomb_gravecomb;
+  sub brevecomb acutecomb by brevecomb_acutecomb;
+
+  lookup ccmp_2 {
+  # GSUB lookup 4, type 16 (Chaining Context)
+    lookupflag UseMarkFilteringSet @ccmp;
+    sub i' @ccmp by dotlessi;
+    sub j' @ccmp by dotlessj;
+  } ccmp_2;
+
+
+  lookup ccmp_4 {
+  # GSUB lookup 5, type 12 (Multiple)
+    lookupflag UseMarkFilteringSet @ccmp;
+    sub DZcaron by D Zcaron;
+    sub Dzcaron by D zcaron;
+    sub dzcaron by d zcaron;
+    sub LJ by L J;
+    sub Lj by L j;
+    sub lj by l j;
+    sub NJ by N J;
+    sub Nj by N j;
+    sub nj by n j;
+    sub fi by f i;
+    sub fl by f l;
+  } ccmp_4;";
+tag = ccmp;
+},
+{
+code = "# GSUB feature: Localized Forms
+# Lookups: 3
+
+  script latn; # Latin
+    language AZE ; # Azerbaijani
+
+    lookup locl_latn {
+    # GSUB lookup 6, type 11 (Single)
+      sub i by i.loclTRK;
+    } locl_latn;
+
+
+    language TRK ; # Turkish
+    lookup locl_latn;
+
+    language MOL ; # Moldavian
+
+    lookup locl_latnMOL_latnROM {
+    # GSUB lookup 7, type 11 (Single)
+      sub [Scedilla scedilla Tcedilla tcedilla] by [Scommaaccent scommaaccent Tcommaaccent tcommaaccent];
+    } locl_latnMOL_latnROM;
+
+
+    language ROM ; # Romanian
+    lookup locl_latnMOL_latnROM;
+
+    language CAT ; # Catalan
+    sub L periodcentered' L by periodcentered.loclCAT;
+    sub l periodcentered' l by periodcentered.loclCAT;
+
+    language TAT ; # Tatar
+    lookup locl_latn;
+
+    language CRT ; # Crimean Tatar
+    lookup locl_latn;
+
+    language KAZ ; # Kazakh
+    lookup locl_latn;";
+tag = locl;
+},
+{
+code = "# GSUB feature: Superscript
+# Lookups: 1
+
+  sub [one two three four] by [onesuperior twosuperior threesuperior four.superior];";
+tag = sups;
+},
+{
+code = "# GSUB feature: Numerators
+# Lookups: 1
+
+  sub @dnom_lnum_numr_ordn by @frac_numr;";
+tag = numr;
+},
+{
+code = "# GSUB feature: Denominators
+# Lookups: 1
+
+  sub @dnom_lnum_numr_ordn by @dnom_frac;";
+tag = dnom;
+},
+{
+code = "# GSUB feature: Fractions
+# Lookups: 2
+
+  sub @frac by @frac2;
+  sub fraction @frac_numr' by [zero.dnom one.dnom two.dnom three.dnom four.dnom five.dnom six.dnom seven.dnom eight.dnom nine.dnom];
+  sub @dnom_frac @frac_numr' by [zero.dnom one.dnom two.dnom three.dnom four.dnom five.dnom six.dnom seven.dnom eight.dnom nine.dnom];";
+tag = frac;
+},
+{
+code = "# GSUB feature: Ordinals
+# Lookups: 2
+
+  sub @dnom_lnum_numr_ordn [A a]' by [ordfeminine ordfeminine];
+  sub @dnom_lnum_numr_ordn [O o]' by [ordmasculine ordmasculine];
+  sub N o period by numero;";
+tag = ordn;
+},
+{
+code = "# GSUB feature: Lining Figures
+# Lookups: 1
+
+  sub @lnum by @dnom_lnum_numr_ordn;";
+tag = lnum;
+},
+{
+code = "# GSUB feature: Proportional Figures
+# Lookups: 1
+
+  sub @pnum_tnum by @pnum_tnum2;";
+tag = pnum;
+},
+{
+code = "# GSUB feature: Tabular Figures
+# Lookups: 1
+
+  sub @pnum_tnum2 by @pnum_tnum;";
+tag = tnum;
+},
+{
+code = "# GSUB feature: Oldstyle Figures
+# Lookups: 1
+
+  sub @onum by @case_onum;";
+tag = onum;
+},
+{
+code = "# GSUB feature: Case-Sensitive Forms
+# Lookups: 1
+
+  sub @case_onum by @case;";
+tag = case;
+},
+{
+code = "# GSUB feature: Discretionary Ligatures
+# Lookups: 1
+
+
+  lookup dlig {
+  # GSUB lookup 21, type 14 (Ligature)
+    lookupflag IgnoreMarks;
+    sub f f ij by f_f_ij;
+    sub f ij by f_ij;
+  } dlig;";
+tag = dlig;
+},
+{
+code = "# GSUB feature: Standard Ligatures
+# Lookups: 1
+
+
+  lookup liga {
+  # GSUB lookup 22, type 14 (Ligature)
+    lookupflag IgnoreMarks;
+    sub f f l by f_f_l;
+    sub f f i by f_f_i;
+    sub f l by f_l;
+    sub f i by f_i;
+    sub f f by f_f;
+  } liga;";
+tag = liga;
+},
+{
+code = "# GSUB feature: Slashed Zero
+# Lookups: 1
+
+  sub zero by zero.zero;";
+tag = zero;
+},
+{
+code = "# GPOS feature: Mark Positioning
+# Lookups: 11
+
+
+  lookup mark_1 {
+  # GPOS lookup 1, type 4 (MarkToBase attachment)
+    markClass palatalhookcomb <anchor -206 0> @b.uni0321;
+    markClass dotbelowcomb <anchor -239 -26> @b.uni0321;
+    markClass dieresisbelowcomb <anchor -325 -50> @b.uni0321;
+    markClass commaaccentcomb <anchor -229 -20> @b.uni0321;
+    markClass cedillacomb <anchor -218 0> @b.uni0321;
+    markClass macronbelowcomb <anchor -285 0> @b.uni0321;
+    markClass gravecomb <anchor -250 449> @t.uni0302_1;
+    markClass acutecomb <anchor -261 450> @t.uni0302_1;
+    markClass circumflexcomb <anchor -240 467> @t.uni0302_1;
+    markClass tildecomb <anchor -289 457> @t.uni0302_1;
+    markClass macroncomb <anchor -283 479> @t.uni0302_1;
+    markClass brevecomb <anchor -216 467> @t.uni0302_1;
+    markClass dotaccentcomb <anchor -234 463> @t.uni0302_1;
+    markClass dieresiscomb <anchor -263 471> @t.uni0302_1;
+    markClass hookabovecomb <anchor -251 487> @t.uni0302_1;
+    markClass ringcomb <anchor -332 467> @t.uni0302_1;
+    markClass hungarumlautcomb <anchor -358 447> @t.uni0302_1;
+    markClass caroncomb <anchor -287 477> @t.uni0302_1;
+    markClass dblgravecomb <anchor -296 487> @t.uni0302_1;
+    markClass breveinvertedcomb <anchor -217 502> @t.uni0302_1;
+    markClass commaturnedabovecomb <anchor -218 511> @t.uni0302_1;
+    markClass brevebelowcomb <anchor -216 -323> @t.uni0302_1;
+    markClass brevecomb_acutecomb <anchor -216 467> @t.uni0302_1;
+    markClass brevecomb_gravecomb <anchor -216 467> @t.uni0302_1;
+    markClass brevecomb_hookabovecomb <anchor -219 467> @t.uni0302_1;
+    markClass brevecomb_tildecomb <anchor -218 467> @t.uni0302_1;
+    markClass circumflexcomb_acutecomb <anchor -240 468> @t.uni0302_1;
+    markClass circumflexcomb_gravecomb <anchor -240 468> @t.uni0302_1;
+    markClass circumflexcomb_hookabovecomb <anchor -243 467> @t.uni0302_1;
+    markClass circumflexcomb_tildecomb <anchor -242 467> @t.uni0302_1;
+    pos base asciitilde
+        <anchor 12 -1> mark @b.uni0321
+        <anchor 272 335> mark @t.uni0302_1;
+    pos base copyright
+        <anchor 467 203> mark @b.uni0321
+        <anchor 493 515> mark @t.uni0302_1;
+    pos base registered
+        <anchor 221 485> mark @b.uni0321
+        <anchor 219 639> mark @t.uni0302_1;
+    pos base micro
+        <anchor 277 0> mark @b.uni0321
+        <anchor 276 472> mark @t.uni0302_1;
+    pos base rupee
+        <anchor 827 0> mark @b.uni0321
+        <anchor 820 475> mark @t.uni0302_1;
+    pos base numero
+        <anchor 969 342> mark @b.uni0321
+        <anchor 967 678> mark @t.uni0302_1;
+    pos base trademark
+        <anchor 209 353> mark @b.uni0321
+        <anchor 209 688> mark @t.uni0302_1;
+  } mark_1;
+
+
+  lookup mark_2 {
+  # GPOS lookup 2, type 4 (MarkToBase attachment)
+    markClass strokeshortcomb <anchor -279 299> @m.uni0335;
+    markClass strokelongcomb <anchor -320 309> @m.uni0335;
+    markClass slashshortcomb <anchor -307 153> @m.uni0335;
+    markClass slashlongcomb <anchor -293 320> @m.uni0335;
+    pos base zero
+        <anchor 300 334> mark @m.uni0335;
+    pos base copyright
+        <anchor 441 353> mark @m.uni0335;
+    pos base registered
+        <anchor 246 534> mark @m.uni0335;
+    pos base numero
+        <anchor 970 506> mark @m.uni0335;
+    pos base trademark
+        <anchor 210 523> mark @m.uni0335;
+    pos base emptyset
+        <anchor 439 353> mark @m.uni0335;
+    pos base circle
+        <anchor 439 353> mark @m.uni0335;
+    pos base zero.lf
+        <anchor 300 334> mark @m.uni0335;
+    pos base zero.tf
+        <anchor 300 334> mark @m.uni0335;
+    pos base zero.zero
+        <anchor 322 334> mark @m.uni0335;
+    pos base zero.dnom
+        <anchor 150 167> mark @m.uni0335;
+    pos base zero.numr
+        <anchor 165 452> mark @m.uni0335;
+    pos base zeroslash
+        <anchor 300 334> mark @m.uni0335;
+  } mark_2;
+
+
+  lookup mark_3 {
+  # GPOS lookup 3, type 4 (MarkToBase attachment)
+    markClass ogonekcomb <anchor -185 12> @m.uni0328;
+    pos base micro
+        <anchor 446 0> mark @m.uni0328;
+    pos base numero
+        <anchor 1002 349> mark @m.uni0328;
+  } mark_3;
+
+
+  lookup mark_4 {
+  # GPOS lookup 4, type 4 (MarkToBase attachment)
+    markClass horncomb <anchor 48 431> @t.uni031B;
+    markClass caroncomb.alt <anchor -173 670> @t.uni031B;
+    pos base micro
+        <anchor 433 472> mark @t.uni031B;
+    pos base numero
+        <anchor 1097 621> mark @t.uni031B;
+  } mark_4;
+
+
+  lookup mark_5 {
+  # GPOS lookup 5, type 4 (MarkToBase attachment)
+    markClass palatalhookcomb <anchor -206 0> @m.uni0321;
+    markClass dotbelowcomb <anchor -239 -26> @m.uni0321;
+    markClass dieresisbelowcomb <anchor -325 -50> @m.uni0321;
+    markClass commaaccentcomb <anchor -229 -20> @m.uni0321;
+    markClass cedillacomb <anchor -218 0> @m.uni0321;
+    markClass macronbelowcomb <anchor -285 0> @m.uni0321;
+    markClass gravecomb <anchor -250 449> @t.uni0302_1_2;
+    markClass acutecomb <anchor -261 450> @t.uni0302_1_2;
+    markClass circumflexcomb <anchor -240 467> @t.uni0302_1_2;
+    markClass tildecomb <anchor -289 457> @t.uni0302_1_2;
+    markClass macroncomb <anchor -283 479> @t.uni0302_1_2;
+    markClass brevecomb <anchor -216 467> @t.uni0302_1_2;
+    markClass dotaccentcomb <anchor -234 463> @t.uni0302_1_2;
+    markClass dieresiscomb <anchor -263 471> @t.uni0302_1_2;
+    markClass hookabovecomb <anchor -251 487> @t.uni0302_1_2;
+    markClass ringcomb <anchor -332 467> @t.uni0302_1_2;
+    markClass hungarumlautcomb <anchor -358 447> @t.uni0302_1_2;
+    markClass caroncomb <anchor -287 477> @t.uni0302_1_2;
+    markClass dblgravecomb <anchor -296 487> @t.uni0302_1_2;
+    markClass breveinvertedcomb <anchor -217 502> @t.uni0302_1_2;
+    markClass commaturnedabovecomb <anchor -218 511> @t.uni0302_1_2;
+    markClass brevebelowcomb <anchor -216 -323> @t.uni0302_1_2;
+    markClass brevecomb_acutecomb <anchor -216 467> @t.uni0302_1_2;
+    markClass brevecomb_gravecomb <anchor -216 467> @t.uni0302_1_2;
+    markClass brevecomb_hookabovecomb <anchor -219 467> @t.uni0302_1_2;
+    markClass brevecomb_tildecomb <anchor -218 467> @t.uni0302_1_2;
+    markClass circumflexcomb_acutecomb <anchor -240 468> @t.uni0302_1_2;
+    markClass circumflexcomb_gravecomb <anchor -240 468> @t.uni0302_1_2;
+    markClass circumflexcomb_hookabovecomb <anchor -243 467> @t.uni0302_1_2;
+    markClass circumflexcomb_tildecomb <anchor -242 467> @t.uni0302_1_2;
+    pos base mu
+        <anchor 294 0> mark @m.uni0321
+        <anchor 293 472> mark @t.uni0302_1_2;
+  } mark_5;
+
+
+  lookup mark_6 {
+  # GPOS lookup 6, type 4 (MarkToBase attachment)
+    markClass ogonekcomb <anchor -185 12> @m.uni0328_2;
+    pos base mu
+        <anchor 463 0> mark @m.uni0328_2;
+  } mark_6;
+
+
+  lookup mark_7 {
+  # GPOS lookup 7, type 4 (MarkToBase attachment)
+    markClass horncomb <anchor 48 431> @t.uni031B_2;
+    markClass caroncomb.alt <anchor -173 670> @t.uni031B_2;
+    pos base mu
+        <anchor 450 472> mark @t.uni031B_2;
+  } mark_7;
+
+
+  lookup mark_8 {
+  # GPOS lookup 8, type 4 (MarkToBase attachment)
+    markClass palatalhookcomb <anchor -206 0> @b.uni0321_2;
+    markClass dotbelowcomb <anchor -239 -26> @b.uni0321_2;
+    markClass dieresisbelowcomb <anchor -325 -50> @b.uni0321_2;
+    markClass commaaccentcomb <anchor -229 -20> @b.uni0321_2;
+    markClass cedillacomb <anchor -218 0> @b.uni0321_2;
+    markClass macronbelowcomb <anchor -285 0> @b.uni0321_2;
+    markClass gravecomb <anchor -250 449> @m.uni0302_1;
+    markClass acutecomb <anchor -261 450> @m.uni0302_1;
+    markClass circumflexcomb <anchor -240 467> @m.uni0302_1;
+    markClass tildecomb <anchor -289 457> @m.uni0302_1;
+    markClass macroncomb <anchor -283 479> @m.uni0302_1;
+    markClass brevecomb <anchor -216 467> @m.uni0302_1;
+    markClass dotaccentcomb <anchor -234 463> @m.uni0302_1;
+    markClass dieresiscomb <anchor -263 471> @m.uni0302_1;
+    markClass hookabovecomb <anchor -251 487> @m.uni0302_1;
+    markClass ringcomb <anchor -332 467> @m.uni0302_1;
+    markClass hungarumlautcomb <anchor -358 447> @m.uni0302_1;
+    markClass caroncomb <anchor -287 477> @m.uni0302_1;
+    markClass dblgravecomb <anchor -296 487> @m.uni0302_1;
+    markClass breveinvertedcomb <anchor -217 502> @m.uni0302_1;
+    markClass commaturnedabovecomb <anchor -218 511> @m.uni0302_1;
+    markClass brevebelowcomb <anchor -216 -323> @m.uni0302_1;
+    markClass brevecomb_acutecomb <anchor -216 467> @m.uni0302_1;
+    markClass brevecomb_gravecomb <anchor -216 467> @m.uni0302_1;
+    markClass brevecomb_hookabovecomb <anchor -219 467> @m.uni0302_1;
+    markClass brevecomb_tildecomb <anchor -218 467> @m.uni0302_1;
+    markClass circumflexcomb_acutecomb <anchor -240 468> @m.uni0302_1;
+    markClass circumflexcomb_gravecomb <anchor -240 468> @m.uni0302_1;
+    markClass circumflexcomb_hookabovecomb <anchor -243 467> @m.uni0302_1;
+    markClass circumflexcomb_tildecomb <anchor -242 467> @m.uni0302_1;
+    pos base A
+        <anchor 382 80> mark @b.uni0321_2
+        <anchor 381 670> mark @m.uni0302_1;
+    pos base C
+        <anchor 408 0> mark @b.uni0321_2
+        <anchor 409 668> mark @m.uni0302_1;
+    pos base D
+        <anchor 388 0> mark @b.uni0321_2
+        <anchor 388 670> mark @m.uni0302_1;
+    pos base E
+        <anchor 305 0> mark @b.uni0321_2
+        <anchor 295 670> mark @m.uni0302_1;
+    pos base G
+        <anchor 416 -10> mark @b.uni0321_2
+        <anchor 406 680> mark @m.uni0302_1;
+    pos base H
+        <anchor 392 0> mark @b.uni0321_2
+        <anchor 386 670> mark @m.uni0302_1;
+    pos base I
+        <anchor 143 0> mark @b.uni0321_2
+        <anchor 138 668> mark @m.uni0302_1;
+    pos base J
+        <anchor 62 0> mark @b.uni0321_2
+        <anchor 193 670> mark @m.uni0302_1;
+    pos base K
+        <anchor 347 20> mark @b.uni0321_2
+        <anchor 332 660> mark @m.uni0302_1;
+    pos base L
+        <anchor 293 0> mark @b.uni0321_2
+        <anchor 152 670> mark @m.uni0302_1;
+    pos base N
+        <anchor 415 0> mark @b.uni0321_2
+        <anchor 387 670> mark @m.uni0302_1;
+    pos base O
+        <anchor 419 -10> mark @b.uni0321_2
+        <anchor 410 680> mark @m.uni0302_1;
+    pos base R
+        <anchor 348 40> mark @b.uni0321_2
+        <anchor 310 680> mark @m.uni0302_1;
+    pos base S
+        <anchor 266 0> mark @b.uni0321_2
+        <anchor 238 680> mark @m.uni0302_1;
+    pos base T
+        <anchor 300 0> mark @b.uni0321_2
+        <anchor 299 670> mark @m.uni0302_1;
+    pos base U
+        <anchor 389 -10> mark @b.uni0321_2
+        <anchor 390 670> mark @m.uni0302_1;
+    pos base W
+        <anchor 596 0> mark @b.uni0321_2
+        <anchor 597 668> mark @m.uni0302_1;
+    pos base Y
+        <anchor NULL> mark @b.uni0321_2
+        <anchor 291 670> mark @m.uni0302_1;
+    pos base Z
+        <anchor 333 0> mark @b.uni0321_2
+        <anchor 314 668> mark @m.uni0302_1;
+    pos base a
+        <anchor 253 0> mark @b.uni0321_2
+        <anchor 255 473> mark @m.uni0302_1;
+    pos base c
+        <anchor 320 -2> mark @b.uni0321_2
+        <anchor 320 481> mark @m.uni0302_1;
+    pos base d
+        <anchor 315 0> mark @b.uni0321_2
+        <anchor 192 503> mark @m.uni0302_1;
+    pos base e
+        <anchor 302 0> mark @b.uni0321_2
+        <anchor 294 480> mark @m.uni0302_1;
+    pos base g
+        <anchor 253 -233> mark @b.uni0321_2
+        <anchor 261 472> mark @m.uni0302_1;
+    pos base h
+        <anchor 327 0> mark @b.uni0321_2
+        <anchor 166 716> mark @m.uni0302_1;
+    pos base i
+        <anchor 129 0> mark @b.uni0321_2
+        <anchor 4 0> mark @m.uni0302_1;
+    pos base k
+        <anchor 275 0> mark @b.uni0321_2
+        <anchor 256 478> mark @m.uni0302_1;
+    pos base l
+        <anchor 123 0> mark @b.uni0321_2
+        <anchor 123 718> mark @m.uni0302_1;
+    pos base n
+        <anchor 289 10> mark @b.uni0321_2
+        <anchor 308 481> mark @m.uni0302_1;
+    pos base o
+        <anchor 312 -10> mark @b.uni0321_2
+        <anchor 309 481> mark @m.uni0302_1;
+    pos base r
+        <anchor 131 0> mark @b.uni0321_2
+        <anchor 249 472> mark @m.uni0302_1;
+    pos base s
+        <anchor 216 0> mark @b.uni0321_2
+        <anchor 210 475> mark @m.uni0302_1;
+    pos base t
+        <anchor 227 0> mark @b.uni0321_2
+        <anchor 154 617> mark @m.uni0302_1;
+    pos base u
+        <anchor 287 0> mark @b.uni0321_2
+        <anchor 286 472> mark @m.uni0302_1;
+    pos base w
+        <anchor 433 0> mark @b.uni0321_2
+        <anchor 426 472> mark @m.uni0302_1;
+    pos base y
+        <anchor 355 0> mark @b.uni0321_2
+        <anchor 250 472> mark @m.uni0302_1;
+    pos base z
+        <anchor 257 0> mark @b.uni0321_2
+        <anchor 247 472> mark @m.uni0302_1;
+    pos base ordfeminine
+        <anchor 153 342> mark @b.uni0321_2
+        <anchor 154 609> mark @m.uni0302_1;
+    pos base ordmasculine
+        <anchor 181 333> mark @b.uni0321_2
+        <anchor 180 611> mark @m.uni0302_1;
+    pos base Agrave
+        <anchor 382 80> mark @b.uni0321_2
+        <anchor 372 976> mark @m.uni0302_1;
+    pos base Aacute
+        <anchor 382 80> mark @b.uni0321_2
+        <anchor 381 969> mark @m.uni0302_1;
+    pos base Acircumflex
+        <anchor 382 80> mark @b.uni0321_2
+        <anchor 381 872> mark @m.uni0302_1;
+    pos base Atilde
+        <anchor 382 80> mark @b.uni0321_2
+        <anchor 381 868> mark @m.uni0302_1;
+    pos base Adieresis
+        <anchor 382 80> mark @b.uni0321_2
+        <anchor 381 843> mark @m.uni0302_1;
+    pos base Aring
+        <anchor 382 80> mark @b.uni0321_2
+        <anchor 381 947> mark @m.uni0302_1;
+    pos base AE
+        <anchor 1635 0> mark @b.uni0321_2
+        <anchor 445 668> mark @m.uni0302_1;
+    pos base Ccedilla
+        <anchor 407 -210> mark @b.uni0321_2
+        <anchor 408 668> mark @m.uni0302_1;
+    pos base Egrave
+        <anchor 305 0> mark @b.uni0321_2
+        <anchor 287 976> mark @m.uni0302_1;
+    pos base Eacute
+        <anchor 305 0> mark @b.uni0321_2
+        <anchor 295 969> mark @m.uni0302_1;
+    pos base Ecircumflex
+        <anchor 305 0> mark @b.uni0321_2
+        <anchor 295 872> mark @m.uni0302_1;
+    pos base Edieresis
+        <anchor 304 0> mark @b.uni0321_2
+        <anchor 295 843> mark @m.uni0302_1;
+    pos base Igrave
+        <anchor 136 0> mark @b.uni0321_2
+        <anchor 122 974> mark @m.uni0302_1;
+    pos base Iacute
+        <anchor 148 0> mark @b.uni0321_2
+        <anchor 143 967> mark @m.uni0302_1;
+    pos base Icircumflex
+        <anchor 144 0> mark @b.uni0321_2
+        <anchor 139 870> mark @m.uni0302_1;
+    pos base Idieresis
+        <anchor 143 0> mark @b.uni0321_2
+        <anchor 138 841> mark @m.uni0302_1;
+    pos base Eth
+        <anchor 382 0> mark @b.uni0321_2
+        <anchor 382 670> mark @m.uni0302_1;
+    pos base Ntilde
+        <anchor 416 0> mark @b.uni0321_2
+        <anchor 387 868> mark @m.uni0302_1;
+    pos base Ograve
+        <anchor 419 -10> mark @b.uni0321_2
+        <anchor 401 986> mark @m.uni0302_1;
+    pos base Oacute
+        <anchor 419 -10> mark @b.uni0321_2
+        <anchor 410 979> mark @m.uni0302_1;
+    pos base Ocircumflex
+        <anchor 419 -10> mark @b.uni0321_2
+        <anchor 410 882> mark @m.uni0302_1;
+    pos base Otilde
+        <anchor 419 -10> mark @b.uni0321_2
+        <anchor 410 878> mark @m.uni0302_1;
+    pos base Odieresis
+        <anchor 419 -10> mark @b.uni0321_2
+        <anchor 410 853> mark @m.uni0302_1;
+    pos base Oslash
+        <anchor 419 -10> mark @b.uni0321_2
+        <anchor 410 680> mark @m.uni0302_1;
+    pos base Ugrave
+        <anchor 389 -10> mark @b.uni0321_2
+        <anchor 381 976> mark @m.uni0302_1;
+    pos base Uacute
+        <anchor 389 -10> mark @b.uni0321_2
+        <anchor 390 969> mark @m.uni0302_1;
+    pos base Ucircumflex
+        <anchor 389 -10> mark @b.uni0321_2
+        <anchor 390 872> mark @m.uni0302_1;
+    pos base Udieresis
+        <anchor 389 -10> mark @b.uni0321_2
+        <anchor 390 843> mark @m.uni0302_1;
+    pos base Yacute
+        <anchor NULL> mark @b.uni0321_2
+        <anchor 291 969> mark @m.uni0302_1;
+    pos base agrave
+        <anchor 253 0> mark @b.uni0321_2
+        <anchor 246 779> mark @m.uni0302_1;
+    pos base aacute
+        <anchor 253 0> mark @b.uni0321_2
+        <anchor 255 772> mark @m.uni0302_1;
+    pos base acircumflex
+        <anchor 253 0> mark @b.uni0321_2
+        <anchor 255 675> mark @m.uni0302_1;
+    pos base atilde
+        <anchor 251 0> mark @b.uni0321_2
+        <anchor 253 671> mark @m.uni0302_1;
+    pos base adieresis
+        <anchor 252 0> mark @b.uni0321_2
+        <anchor 254 646> mark @m.uni0302_1;
+    pos base aring
+        <anchor 252 0> mark @b.uni0321_2
+        <anchor 254 750> mark @m.uni0302_1;
+    pos base ae
+        <anchor 762 0> mark @b.uni0321_2
+        <anchor 458 472> mark @m.uni0302_1;
+    pos base ccedilla
+        <anchor 318 -212> mark @b.uni0321_2
+        <anchor 318 481> mark @m.uni0302_1;
+    pos base egrave
+        <anchor 302 0> mark @b.uni0321_2
+        <anchor 285 786> mark @m.uni0302_1;
+    pos base eacute
+        <anchor 302 0> mark @b.uni0321_2
+        <anchor 294 779> mark @m.uni0302_1;
+    pos base ecircumflex
+        <anchor 302 0> mark @b.uni0321_2
+        <anchor 294 682> mark @m.uni0302_1;
+    pos base edieresis
+        <anchor 302 0> mark @b.uni0321_2
+        <anchor 293 653> mark @m.uni0302_1;
+    pos base igrave
+        <anchor 91 0> mark @b.uni0321_2
+        <anchor 81 778> mark @m.uni0302_1;
+    pos base iacute
+        <anchor 123 0> mark @b.uni0321_2
+        <anchor 122 771> mark @m.uni0302_1;
+    pos base icircumflex
+        <anchor 111 0> mark @b.uni0321_2
+        <anchor 110 674> mark @m.uni0302_1;
+    pos base idieresis
+        <anchor 111 0> mark @b.uni0321_2
+        <anchor 110 645> mark @m.uni0302_1;
+    pos base ntilde
+        <anchor 290 10> mark @b.uni0321_2
+        <anchor 309 679> mark @m.uni0302_1;
+    pos base ograve
+        <anchor 312 -10> mark @b.uni0321_2
+        <anchor 300 787> mark @m.uni0302_1;
+    pos base oacute
+        <anchor 312 -10> mark @b.uni0321_2
+        <anchor 309 780> mark @m.uni0302_1;
+    pos base ocircumflex
+        <anchor 312 -10> mark @b.uni0321_2
+        <anchor 309 683> mark @m.uni0302_1;
+    pos base otilde
+        <anchor 312 -10> mark @b.uni0321_2
+        <anchor 309 679> mark @m.uni0302_1;
+    pos base odieresis
+        <anchor 312 -10> mark @b.uni0321_2
+        <anchor 309 654> mark @m.uni0302_1;
+    pos base oslash
+        <anchor 312 -10> mark @b.uni0321_2
+        <anchor 309 481> mark @m.uni0302_1;
+    pos base ugrave
+        <anchor 287 0> mark @b.uni0321_2
+        <anchor 277 778> mark @m.uni0302_1;
+    pos base uacute
+        <anchor 287 0> mark @b.uni0321_2
+        <anchor 286 771> mark @m.uni0302_1;
+    pos base ucircumflex
+        <anchor 287 0> mark @b.uni0321_2
+        <anchor 286 674> mark @m.uni0302_1;
+    pos base udieresis
+        <anchor 287 0> mark @b.uni0321_2
+        <anchor 286 645> mark @m.uni0302_1;
+    pos base yacute
+        <anchor 355 0> mark @b.uni0321_2
+        <anchor 250 771> mark @m.uni0302_1;
+    pos base ydieresis
+        <anchor 358 -1> mark @b.uni0321_2
+        <anchor 250 645> mark @m.uni0302_1;
+    pos base Amacron
+        <anchor 382 80> mark @b.uni0321_2
+        <anchor 381 860> mark @m.uni0302_1;
+    pos base amacron
+        <anchor 253 0> mark @b.uni0321_2
+        <anchor 255 663> mark @m.uni0302_1;
+    pos base Abreve
+        <anchor 382 80> mark @b.uni0321_2
+        <anchor 381 848> mark @m.uni0302_1;
+    pos base abreve
+        <anchor 253 0> mark @b.uni0321_2
+        <anchor 255 651> mark @m.uni0302_1;
+    pos base Aogonek
+        <anchor 476 80> mark @b.uni0321_2
+        <anchor 475 670> mark @m.uni0302_1;
+    pos base aogonek
+        <anchor 276 0> mark @b.uni0321_2
+        <anchor 278 473> mark @m.uni0302_1;
+    pos base Cacute
+        <anchor 408 0> mark @b.uni0321_2
+        <anchor 409 967> mark @m.uni0302_1;
+    pos base cacute
+        <anchor 320 -2> mark @b.uni0321_2
+        <anchor 320 780> mark @m.uni0302_1;
+    pos base Ccircumflex
+        <anchor 408 0> mark @b.uni0321_2
+        <anchor 409 870> mark @m.uni0302_1;
+    pos base ccircumflex
+        <anchor 320 -2> mark @b.uni0321_2
+        <anchor 320 683> mark @m.uni0302_1;
+    pos base Cdotaccent
+        <anchor 408 0> mark @b.uni0321_2
+        <anchor 408 842> mark @m.uni0302_1;
+    pos base cdotaccent
+        <anchor 319 -2> mark @b.uni0321_2
+        <anchor 318 655> mark @m.uni0302_1;
+    pos base Ccaron
+        <anchor 408 0> mark @b.uni0321_2
+        <anchor 409 876> mark @m.uni0302_1;
+    pos base ccaron
+        <anchor 320 -2> mark @b.uni0321_2
+        <anchor 320 689> mark @m.uni0302_1;
+    pos base Dcaron
+        <anchor 388 0> mark @b.uni0321_2
+        <anchor 388 878> mark @m.uni0302_1;
+    pos base dcaron
+        <anchor 263 0> mark @b.uni0321_2
+        <anchor 139 503> mark @m.uni0302_1;
+    pos base Dcroat
+        <anchor 382 0> mark @b.uni0321_2
+        <anchor 382 670> mark @m.uni0302_1;
+    pos base dcroat
+        <anchor 500 0> mark @b.uni0321_2
+        <anchor 377 503> mark @m.uni0302_1;
+    pos base Emacron
+        <anchor 305 0> mark @b.uni0321_2
+        <anchor 295 860> mark @m.uni0302_1;
+    pos base emacron
+        <anchor 302 0> mark @b.uni0321_2
+        <anchor 294 670> mark @m.uni0302_1;
+    pos base Ebreve
+        <anchor 304 0> mark @b.uni0321_2
+        <anchor 295 848> mark @m.uni0302_1;
+    pos base ebreve
+        <anchor 302 0> mark @b.uni0321_2
+        <anchor 294 658> mark @m.uni0302_1;
+    pos base Edotaccent
+        <anchor 305 0> mark @b.uni0321_2
+        <anchor 294 844> mark @m.uni0302_1;
+    pos base edotaccent
+        <anchor 302 0> mark @b.uni0321_2
+        <anchor 292 654> mark @m.uni0302_1;
+    pos base Eogonek
+        <anchor 305 0> mark @b.uni0321_2
+        <anchor 295 670> mark @m.uni0302_1;
+    pos base eogonek
+        <anchor 303 0> mark @b.uni0321_2
+        <anchor 294 480> mark @m.uni0302_1;
+    pos base Ecaron
+        <anchor 305 0> mark @b.uni0321_2
+        <anchor 295 878> mark @m.uni0302_1;
+    pos base ecaron
+        <anchor 302 0> mark @b.uni0321_2
+        <anchor 294 688> mark @m.uni0302_1;
+    pos base Gcircumflex
+        <anchor 416 -10> mark @b.uni0321_2
+        <anchor 406 882> mark @m.uni0302_1;
+    pos base gcircumflex
+        <anchor 253 -233> mark @b.uni0321_2
+        <anchor 261 674> mark @m.uni0302_1;
+    pos base Gbreve
+        <anchor 416 -10> mark @b.uni0321_2
+        <anchor 407 858> mark @m.uni0302_1;
+    pos base gbreve
+        <anchor 253 -233> mark @b.uni0321_2
+        <anchor 261 650> mark @m.uni0302_1;
+    pos base Gdotaccent
+        <anchor 416 -10> mark @b.uni0321_2
+        <anchor 405 854> mark @m.uni0302_1;
+    pos base gdotaccent
+        <anchor 250 -233> mark @b.uni0321_2
+        <anchor 258 646> mark @m.uni0302_1;
+    pos base Gcommaaccent
+        <anchor 424 -360> mark @b.uni0321_2
+        <anchor 405 680> mark @m.uni0302_1;
+    pos base gcommaaccent
+        <anchor 253 -233> mark @b.uni0321_2
+        <anchor 262 770> mark @m.uni0302_1;
+    pos base Hcircumflex
+        <anchor 392 0> mark @b.uni0321_2
+        <anchor 386 872> mark @m.uni0302_1;
+    pos base hcircumflex
+        <anchor 316 0> mark @b.uni0321_2
+        <anchor 154 918> mark @m.uni0302_1;
+    pos base Hbar
+        <anchor 392 0> mark @b.uni0321_2
+        <anchor 386 670> mark @m.uni0302_1;
+    pos base hbar
+        <anchor 318 0> mark @b.uni0321_2
+        <anchor 157 716> mark @m.uni0302_1;
+    pos base Itilde
+        <anchor 143 0> mark @b.uni0321_2
+        <anchor 138 866> mark @m.uni0302_1;
+    pos base itilde
+        <anchor 111 0> mark @b.uni0321_2
+        <anchor 110 670> mark @m.uni0302_1;
+    pos base Imacron
+        <anchor 144 0> mark @b.uni0321_2
+        <anchor 139 858> mark @m.uni0302_1;
+    pos base imacron
+        <anchor 111 0> mark @b.uni0321_2
+        <anchor 110 662> mark @m.uni0302_1;
+    pos base Ibreve
+        <anchor 144 0> mark @b.uni0321_2
+        <anchor 139 846> mark @m.uni0302_1;
+    pos base ibreve
+        <anchor 111 0> mark @b.uni0321_2
+        <anchor 110 650> mark @m.uni0302_1;
+    pos base Iogonek
+        <anchor 141 0> mark @b.uni0321_2
+        <anchor 136 668> mark @m.uni0302_1;
+    pos base iogonek
+        <anchor 133 0> mark @b.uni0321_2
+        <anchor 131 646> mark @m.uni0302_1;
+    pos base Idotaccent
+        <anchor 143 0> mark @b.uni0321_2
+        <anchor 137 842> mark @m.uni0302_1;
+    pos base dotlessi
+        <anchor 111 0> mark @b.uni0321_2
+        <anchor 110 472> mark @m.uni0302_1;
+    pos base IJ
+        <anchor 343 0> mark @b.uni0321_2
+        <anchor 473 670> mark @m.uni0302_1;
+    pos base ij
+        <anchor 132 0> mark @b.uni0321_2
+        <anchor 7 0> mark @m.uni0302_1;
+    pos base Jcircumflex
+        <anchor 46 0> mark @b.uni0321_2
+        <anchor 177 872> mark @m.uni0302_1;
+    pos base jcircumflex
+        <anchor -15 0> mark @b.uni0321_2
+        <anchor 119 674> mark @m.uni0302_1;
+    pos base Kcommaaccent
+        <anchor 356 -330> mark @b.uni0321_2
+        <anchor 329 660> mark @m.uni0302_1;
+    pos base kcommaaccent
+        <anchor 283 -350> mark @b.uni0321_2
+        <anchor 253 478> mark @m.uni0302_1;
+    pos base Lacute
+        <anchor 293 0> mark @b.uni0321_2
+        <anchor 344 719> mark @m.uni0302_1;
+    pos base lacute
+        <anchor 129 0> mark @b.uni0321_2
+        <anchor 129 1017> mark @m.uni0302_1;
+    pos base Lcommaaccent
+        <anchor 300 -350> mark @b.uni0321_2
+        <anchor 150 670> mark @m.uni0302_1;
+    pos base lcommaaccent
+        <anchor 132 -350> mark @b.uni0321_2
+        <anchor 122 718> mark @m.uni0302_1;
+    pos base Lcaron
+        <anchor 290 0> mark @b.uni0321_2
+        <anchor 150 670> mark @m.uni0302_1;
+    pos base lcaron
+        <anchor 156 0> mark @b.uni0321_2
+        <anchor 156 718> mark @m.uni0302_1;
+    pos base Ldot
+        <anchor 289 0> mark @b.uni0321_2
+        <anchor 148 670> mark @m.uni0302_1;
+    pos base ldot
+        <anchor 128 0> mark @b.uni0321_2
+        <anchor 128 718> mark @m.uni0302_1;
+    pos base Lslash
+        <anchor 310 0> mark @b.uni0321_2
+        <anchor 169 670> mark @m.uni0302_1;
+    pos base lslash
+        <anchor 124 0> mark @b.uni0321_2
+        <anchor 124 718> mark @m.uni0302_1;
+    pos base Nacute
+        <anchor 415 0> mark @b.uni0321_2
+        <anchor 387 969> mark @m.uni0302_1;
+    pos base nacute
+        <anchor 289 10> mark @b.uni0321_2
+        <anchor 308 780> mark @m.uni0302_1;
+    pos base Ncommaaccent
+        <anchor 423 -350> mark @b.uni0321_2
+        <anchor 385 670> mark @m.uni0302_1;
+    pos base ncommaaccent
+        <anchor 297 -340> mark @b.uni0321_2
+        <anchor 306 481> mark @m.uni0302_1;
+    pos base Ncaron
+        <anchor 415 0> mark @b.uni0321_2
+        <anchor 387 878> mark @m.uni0302_1;
+    pos base ncaron
+        <anchor 289 10> mark @b.uni0321_2
+        <anchor 308 689> mark @m.uni0302_1;
+    pos base eng
+        <anchor 289 10> mark @b.uni0321_2
+        <anchor 308 481> mark @m.uni0302_1;
+    pos base Omacron
+        <anchor 419 -10> mark @b.uni0321_2
+        <anchor 410 870> mark @m.uni0302_1;
+    pos base omacron
+        <anchor 312 -10> mark @b.uni0321_2
+        <anchor 309 671> mark @m.uni0302_1;
+    pos base Obreve
+        <anchor 418 -10> mark @b.uni0321_2
+        <anchor 410 858> mark @m.uni0302_1;
+    pos base obreve
+        <anchor 312 -10> mark @b.uni0321_2
+        <anchor 309 659> mark @m.uni0302_1;
+    pos base Ohungarumlaut
+        <anchor 419 -10> mark @b.uni0321_2
+        <anchor 486 984> mark @m.uni0302_1;
+    pos base ohungarumlaut
+        <anchor 312 -10> mark @b.uni0321_2
+        <anchor 385 785> mark @m.uni0302_1;
+    pos base OE
+        <anchor 837 0> mark @b.uni0321_2
+        <anchor 828 670> mark @m.uni0302_1;
+    pos base oe
+        <anchor 740 0> mark @b.uni0321_2
+        <anchor 732 480> mark @m.uni0302_1;
+    pos base Racute
+        <anchor 348 40> mark @b.uni0321_2
+        <anchor 310 979> mark @m.uni0302_1;
+    pos base racute
+        <anchor 131 0> mark @b.uni0321_2
+        <anchor 249 771> mark @m.uni0302_1;
+    pos base Rcommaaccent
+        <anchor 354 -310> mark @b.uni0321_2
+        <anchor 307 680> mark @m.uni0302_1;
+    pos base rcommaaccent
+        <anchor 137 -350> mark @b.uni0321_2
+        <anchor 247 472> mark @m.uni0302_1;
+    pos base Rcaron
+        <anchor 348 40> mark @b.uni0321_2
+        <anchor 310 888> mark @m.uni0302_1;
+    pos base rcaron
+        <anchor 131 0> mark @b.uni0321_2
+        <anchor 249 680> mark @m.uni0302_1;
+    pos base Sacute
+        <anchor 266 0> mark @b.uni0321_2
+        <anchor 238 979> mark @m.uni0302_1;
+    pos base sacute
+        <anchor 216 0> mark @b.uni0321_2
+        <anchor 210 774> mark @m.uni0302_1;
+    pos base Scircumflex
+        <anchor 266 0> mark @b.uni0321_2
+        <anchor 238 882> mark @m.uni0302_1;
+    pos base scircumflex
+        <anchor 216 0> mark @b.uni0321_2
+        <anchor 210 677> mark @m.uni0302_1;
+    pos base Scedilla
+        <anchor 265 -210> mark @b.uni0321_2
+        <anchor 237 680> mark @m.uni0302_1;
+    pos base scedilla
+        <anchor 216 -210> mark @b.uni0321_2
+        <anchor 209 475> mark @m.uni0302_1;
+    pos base Scaron
+        <anchor 266 0> mark @b.uni0321_2
+        <anchor 238 888> mark @m.uni0302_1;
+    pos base scaron
+        <anchor 216 0> mark @b.uni0321_2
+        <anchor 210 683> mark @m.uni0302_1;
+    pos base Tcedilla
+        <anchor 299 -210> mark @b.uni0321_2
+        <anchor 298 670> mark @m.uni0302_1;
+    pos base tcedilla
+        <anchor 226 -210> mark @b.uni0321_2
+        <anchor 152 617> mark @m.uni0302_1;
+    pos base Tcaron
+        <anchor 300 0> mark @b.uni0321_2
+        <anchor 299 878> mark @m.uni0302_1;
+    pos base tcaron
+        <anchor 226 0> mark @b.uni0321_2
+        <anchor 152 617> mark @m.uni0302_1;
+    pos base Tbar
+        <anchor 300 0> mark @b.uni0321_2
+        <anchor 299 670> mark @m.uni0302_1;
+    pos base tbar
+        <anchor 227 0> mark @b.uni0321_2
+        <anchor 154 617> mark @m.uni0302_1;
+    pos base Utilde
+        <anchor 389 -10> mark @b.uni0321_2
+        <anchor 390 868> mark @m.uni0302_1;
+    pos base utilde
+        <anchor 287 0> mark @b.uni0321_2
+        <anchor 286 670> mark @m.uni0302_1;
+    pos base Umacron
+        <anchor 389 -10> mark @b.uni0321_2
+        <anchor 390 860> mark @m.uni0302_1;
+    pos base umacron
+        <anchor 287 0> mark @b.uni0321_2
+        <anchor 286 662> mark @m.uni0302_1;
+    pos base Ubreve
+        <anchor 389 -10> mark @b.uni0321_2
+        <anchor 390 848> mark @m.uni0302_1;
+    pos base ubreve
+        <anchor 287 0> mark @b.uni0321_2
+        <anchor 286 650> mark @m.uni0302_1;
+    pos base Uring
+        <anchor 389 -10> mark @b.uni0321_2
+        <anchor 390 947> mark @m.uni0302_1;
+    pos base uring
+        <anchor 287 0> mark @b.uni0321_2
+        <anchor 286 749> mark @m.uni0302_1;
+    pos base Uhungarumlaut
+        <anchor 389 -10> mark @b.uni0321_2
+        <anchor 466 974> mark @m.uni0302_1;
+    pos base uhungarumlaut
+        <anchor 288 0> mark @b.uni0321_2
+        <anchor 363 776> mark @m.uni0302_1;
+    pos base Uogonek
+        <anchor 390 -10> mark @b.uni0321_2
+        <anchor 391 670> mark @m.uni0302_1;
+    pos base uogonek
+        <anchor 289 0> mark @b.uni0321_2
+        <anchor 288 472> mark @m.uni0302_1;
+    pos base Wcircumflex
+        <anchor 596 0> mark @b.uni0321_2
+        <anchor 597 870> mark @m.uni0302_1;
+    pos base wcircumflex
+        <anchor 433 0> mark @b.uni0321_2
+        <anchor 426 674> mark @m.uni0302_1;
+    pos base Ycircumflex
+        <anchor NULL> mark @b.uni0321_2
+        <anchor 291 872> mark @m.uni0302_1;
+    pos base ycircumflex
+        <anchor 355 0> mark @b.uni0321_2
+        <anchor 250 674> mark @m.uni0302_1;
+    pos base Ydieresis
+        <anchor NULL> mark @b.uni0321_2
+        <anchor 291 843> mark @m.uni0302_1;
+    pos base Zacute
+        <anchor 333 0> mark @b.uni0321_2
+        <anchor 314 967> mark @m.uni0302_1;
+    pos base zacute
+        <anchor 257 0> mark @b.uni0321_2
+        <anchor 247 771> mark @m.uni0302_1;
+    pos base Zdotaccent
+        <anchor 334 0> mark @b.uni0321_2
+        <anchor 313 842> mark @m.uni0302_1;
+    pos base zdotaccent
+        <anchor 257 0> mark @b.uni0321_2
+        <anchor 245 646> mark @m.uni0302_1;
+    pos base Zcaron
+        <anchor 333 0> mark @b.uni0321_2
+        <anchor 314 876> mark @m.uni0302_1;
+    pos base zcaron
+        <anchor 257 0> mark @b.uni0321_2
+        <anchor 247 680> mark @m.uni0302_1;
+    pos base Ohorn
+        <anchor 441 -10> mark @b.uni0321_2
+        <anchor 432 680> mark @m.uni0302_1;
+    pos base ohorn
+        <anchor 33 -10> mark @b.uni0321_2
+        <anchor 30 481> mark @m.uni0302_1;
+    pos base Uhorn
+        <anchor 437 -10> mark @b.uni0321_2
+        <anchor 438 670> mark @m.uni0302_1;
+    pos base uhorn
+        <anchor 357 0> mark @b.uni0321_2
+        <anchor 356 472> mark @m.uni0302_1;
+    pos base DZcaron
+        <anchor 1053 0> mark @b.uni0321_2
+        <anchor 720 916> mark @m.uni0302_1;
+    pos base Dzcaron
+        <anchor 1003 0> mark @b.uni0321_2
+        <anchor 993 680> mark @m.uni0302_1;
+    pos base dzcaron
+        <anchor 847 0> mark @b.uni0321_2
+        <anchor 836 680> mark @m.uni0302_1;
+    pos base LJ
+        <anchor 577 0> mark @b.uni0321_2
+        <anchor 707 670> mark @m.uni0302_1;
+    pos base Lj
+        <anchor 292 0> mark @b.uni0321_2
+        <anchor 151 670> mark @m.uni0302_1;
+    pos base lj
+        <anchor 128 0> mark @b.uni0321_2
+        <anchor 128 718> mark @m.uni0302_1;
+    pos base NJ
+        <anchor 852 0> mark @b.uni0321_2
+        <anchor 981 670> mark @m.uni0302_1;
+    pos base Nj
+        <anchor 423 0> mark @b.uni0321_2
+        <anchor 395 670> mark @m.uni0302_1;
+    pos base nj
+        <anchor 293 10> mark @b.uni0321_2
+        <anchor 312 481> mark @m.uni0302_1;
+    pos base Gcaron
+        <anchor 416 -10> mark @b.uni0321_2
+        <anchor 406 888> mark @m.uni0302_1;
+    pos base gcaron
+        <anchor 253 -233> mark @b.uni0321_2
+        <anchor 261 680> mark @m.uni0302_1;
+    pos base Oogonek
+        <anchor 419 -10> mark @b.uni0321_2
+        <anchor 410 680> mark @m.uni0302_1;
+    pos base oogonek
+        <anchor 313 -10> mark @b.uni0321_2
+        <anchor 311 481> mark @m.uni0302_1;
+    pos base DZ
+        <anchor 1053 0> mark @b.uni0321_2
+        <anchor 720 708> mark @m.uni0302_1;
+    pos base Dz
+        <anchor 1003 0> mark @b.uni0321_2
+        <anchor 993 472> mark @m.uni0302_1;
+    pos base dz
+        <anchor 847 0> mark @b.uni0321_2
+        <anchor 836 472> mark @m.uni0302_1;
+    pos base Aringacute
+        <anchor 382 80> mark @b.uni0321_2
+        <anchor 381 1246> mark @m.uni0302_1;
+    pos base aringacute
+        <anchor 252 0> mark @b.uni0321_2
+        <anchor 254 1049> mark @m.uni0302_1;
+    pos base AEacute
+        <anchor 1635 0> mark @b.uni0321_2
+        <anchor 445 967> mark @m.uni0302_1;
+    pos base aeacute
+        <anchor 762 0> mark @b.uni0321_2
+        <anchor 458 771> mark @m.uni0302_1;
+    pos base Oslashacute
+        <anchor 419 -10> mark @b.uni0321_2
+        <anchor 410 979> mark @m.uni0302_1;
+    pos base oslashacute
+        <anchor 312 -10> mark @b.uni0321_2
+        <anchor 309 780> mark @m.uni0302_1;
+    pos base Adblgrave
+        <anchor 382 80> mark @b.uni0321_2
+        <anchor 381 926> mark @m.uni0302_1;
+    pos base adblgrave
+        <anchor 252 0> mark @b.uni0321_2
+        <anchor 254 729> mark @m.uni0302_1;
+    pos base Ainvertedbreve
+        <anchor 382 80> mark @b.uni0321_2
+        <anchor 381 923> mark @m.uni0302_1;
+    pos base ainvertedbreve
+        <anchor 253 0> mark @b.uni0321_2
+        <anchor 255 726> mark @m.uni0302_1;
+    pos base Edblgrave
+        <anchor 303 0> mark @b.uni0321_2
+        <anchor 294 926> mark @m.uni0302_1;
+    pos base edblgrave
+        <anchor 302 0> mark @b.uni0321_2
+        <anchor 294 736> mark @m.uni0302_1;
+    pos base Einvertedbreve
+        <anchor 305 0> mark @b.uni0321_2
+        <anchor 295 923> mark @m.uni0302_1;
+    pos base einvertedbreve
+        <anchor 302 0> mark @b.uni0321_2
+        <anchor 294 733> mark @m.uni0302_1;
+    pos base Idblgrave
+        <anchor 150 0> mark @b.uni0321_2
+        <anchor 145 924> mark @m.uni0302_1;
+    pos base idblgrave
+        <anchor 113 0> mark @b.uni0321_2
+        <anchor 112 728> mark @m.uni0302_1;
+    pos base Iinvertedbreve
+        <anchor 143 0> mark @b.uni0321_2
+        <anchor 138 921> mark @m.uni0302_1;
+    pos base iinvertedbreve
+        <anchor 111 0> mark @b.uni0321_2
+        <anchor 110 725> mark @m.uni0302_1;
+    pos base Odblgrave
+        <anchor 419 -10> mark @b.uni0321_2
+        <anchor 410 936> mark @m.uni0302_1;
+    pos base odblgrave
+        <anchor 312 -10> mark @b.uni0321_2
+        <anchor 309 737> mark @m.uni0302_1;
+    pos base Oinvertedbreve
+        <anchor 419 -10> mark @b.uni0321_2
+        <anchor 410 933> mark @m.uni0302_1;
+    pos base oinvertedbreve
+        <anchor 312 -10> mark @b.uni0321_2
+        <anchor 309 734> mark @m.uni0302_1;
+    pos base Rdblgrave
+        <anchor 348 40> mark @b.uni0321_2
+        <anchor 310 936> mark @m.uni0302_1;
+    pos base rdblgrave
+        <anchor 129 0> mark @b.uni0321_2
+        <anchor 247 728> mark @m.uni0302_1;
+    pos base Rinvertedbreve
+        <anchor 347 40> mark @b.uni0321_2
+        <anchor 309 933> mark @m.uni0302_1;
+    pos base rinvertedbreve
+        <anchor 130 0> mark @b.uni0321_2
+        <anchor 247 725> mark @m.uni0302_1;
+    pos base Udblgrave
+        <anchor 389 -10> mark @b.uni0321_2
+        <anchor 390 926> mark @m.uni0302_1;
+    pos base udblgrave
+        <anchor 287 0> mark @b.uni0321_2
+        <anchor 286 728> mark @m.uni0302_1;
+    pos base Uinvertedbreve
+        <anchor 389 -10> mark @b.uni0321_2
+        <anchor 390 923> mark @m.uni0302_1;
+    pos base uinvertedbreve
+        <anchor 287 0> mark @b.uni0321_2
+        <anchor 286 725> mark @m.uni0302_1;
+    pos base Scommaaccent
+        <anchor 274 -350> mark @b.uni0321_2
+        <anchor 236 680> mark @m.uni0302_1;
+    pos base scommaaccent
+        <anchor 224 -350> mark @b.uni0321_2
+        <anchor 208 475> mark @m.uni0302_1;
+    pos base Tcommaaccent
+        <anchor 309 -350> mark @b.uni0321_2
+        <anchor 298 670> mark @m.uni0302_1;
+    pos base tcommaaccent
+        <anchor 235 -350> mark @b.uni0321_2
+        <anchor 152 617> mark @m.uni0302_1;
+    pos base Odieresismacron
+        <anchor 419 -10> mark @b.uni0321_2
+        <anchor 410 1043> mark @m.uni0302_1;
+    pos base odieresismacron
+        <anchor 312 -10> mark @b.uni0321_2
+        <anchor 309 844> mark @m.uni0302_1;
+    pos base Otildemacron
+        <anchor 419 -10> mark @b.uni0321_2
+        <anchor 410 1068> mark @m.uni0302_1;
+    pos base otildemacron
+        <anchor 312 -10> mark @b.uni0321_2
+        <anchor 309 869> mark @m.uni0302_1;
+    pos base Odotaccentmacron
+        <anchor 418 -10> mark @b.uni0321_2
+        <anchor 408 1044> mark @m.uni0302_1;
+    pos base odotaccentmacron
+        <anchor 311 -10> mark @b.uni0321_2
+        <anchor 307 845> mark @m.uni0302_1;
+    pos base Ymacron
+        <anchor NULL> mark @b.uni0321_2
+        <anchor 291 860> mark @m.uni0302_1;
+    pos base ymacron
+        <anchor 355 -1> mark @b.uni0321_2
+        <anchor 250 662> mark @m.uni0302_1;
+    pos base dotlessj
+        <anchor -20 0> mark @b.uni0321_2
+        <anchor 115 472> mark @m.uni0302_1;
+    pos base nhookleft
+        <anchor 299 10> mark @b.uni0321_2
+        <anchor 318 481> mark @m.uni0302_1;
+    pos base Wgrave
+        <anchor 596 0> mark @b.uni0321_2
+        <anchor 589 974> mark @m.uni0302_1;
+    pos base wgrave
+        <anchor 433 0> mark @b.uni0321_2
+        <anchor 418 778> mark @m.uni0302_1;
+    pos base Wacute
+        <anchor 596 0> mark @b.uni0321_2
+        <anchor 597 967> mark @m.uni0302_1;
+    pos base wacute
+        <anchor 433 0> mark @b.uni0321_2
+        <anchor 426 771> mark @m.uni0302_1;
+    pos base Wdieresis
+        <anchor 596 0> mark @b.uni0321_2
+        <anchor 597 841> mark @m.uni0302_1;
+    pos base wdieresis
+        <anchor 433 0> mark @b.uni0321_2
+        <anchor 426 645> mark @m.uni0302_1;
+    pos base Adotbelow
+        <anchor 381 -160> mark @b.uni0321_2
+        <anchor 380 670> mark @m.uni0302_1;
+    pos base adotbelow
+        <anchor 251 -240> mark @b.uni0321_2
+        <anchor 253 473> mark @m.uni0302_1;
+    pos base Ahoi
+        <anchor 381 80> mark @b.uni0321_2
+        <anchor 380 952> mark @m.uni0302_1;
+    pos base ahoi
+        <anchor 252 0> mark @b.uni0321_2
+        <anchor 254 755> mark @m.uni0302_1;
+    pos base Acircumflexacute
+        <anchor 382 80> mark @b.uni0321_2
+        <anchor 381 1171> mark @m.uni0302_1;
+    pos base acircumflexacute
+        <anchor 253 0> mark @b.uni0321_2
+        <anchor 255 974> mark @m.uni0302_1;
+    pos base Acircumflexgrave
+        <anchor 382 80> mark @b.uni0321_2
+        <anchor 372 1178> mark @m.uni0302_1;
+    pos base acircumflexgrave
+        <anchor 253 0> mark @b.uni0321_2
+        <anchor 246 981> mark @m.uni0302_1;
+    pos base Acircumflexhoi
+        <anchor 381 80> mark @b.uni0321_2
+        <anchor 380 1154> mark @m.uni0302_1;
+    pos base acircumflexhoi
+        <anchor 252 0> mark @b.uni0321_2
+        <anchor 254 957> mark @m.uni0302_1;
+    pos base Acircumflextilde
+        <anchor 382 80> mark @b.uni0321_2
+        <anchor 381 1070> mark @m.uni0302_1;
+    pos base acircumflextilde
+        <anchor 251 0> mark @b.uni0321_2
+        <anchor 253 873> mark @m.uni0302_1;
+    pos base Acircumflexdotbelow
+        <anchor 381 -160> mark @b.uni0321_2
+        <anchor 380 872> mark @m.uni0302_1;
+    pos base acircumflexdotbelow
+        <anchor 251 -240> mark @b.uni0321_2
+        <anchor 253 675> mark @m.uni0302_1;
+    pos base Abreveacute
+        <anchor 382 80> mark @b.uni0321_2
+        <anchor 381 1147> mark @m.uni0302_1;
+    pos base abreveacute
+        <anchor 253 0> mark @b.uni0321_2
+        <anchor 255 950> mark @m.uni0302_1;
+    pos base Abrevegrave
+        <anchor 382 80> mark @b.uni0321_2
+        <anchor 372 1154> mark @m.uni0302_1;
+    pos base abrevegrave
+        <anchor 253 0> mark @b.uni0321_2
+        <anchor 247 957> mark @m.uni0302_1;
+    pos base Abrevehoi
+        <anchor 381 80> mark @b.uni0321_2
+        <anchor 380 1130> mark @m.uni0302_1;
+    pos base abrevehoi
+        <anchor 252 0> mark @b.uni0321_2
+        <anchor 254 933> mark @m.uni0302_1;
+    pos base Abrevetilde
+        <anchor 382 80> mark @b.uni0321_2
+        <anchor 381 1046> mark @m.uni0302_1;
+    pos base abrevetilde
+        <anchor 252 0> mark @b.uni0321_2
+        <anchor 254 849> mark @m.uni0302_1;
+    pos base Abrevedotbelow
+        <anchor 381 -160> mark @b.uni0321_2
+        <anchor 380 848> mark @m.uni0302_1;
+    pos base abrevedotbelow
+        <anchor 251 -240> mark @b.uni0321_2
+        <anchor 253 651> mark @m.uni0302_1;
+    pos base Edotbelow
+        <anchor 304 -240> mark @b.uni0321_2
+        <anchor 294 670> mark @m.uni0302_1;
+    pos base edotbelow
+        <anchor 301 -240> mark @b.uni0321_2
+        <anchor 292 480> mark @m.uni0302_1;
+    pos base Ehoi
+        <anchor 304 0> mark @b.uni0321_2
+        <anchor 294 952> mark @m.uni0302_1;
+    pos base ehoi
+        <anchor 300 0> mark @b.uni0321_2
+        <anchor 292 762> mark @m.uni0302_1;
+    pos base Etilde
+        <anchor 305 0> mark @b.uni0321_2
+        <anchor 296 868> mark @m.uni0302_1;
+    pos base etilde
+        <anchor 302 0> mark @b.uni0321_2
+        <anchor 293 678> mark @m.uni0302_1;
+    pos base Ecircumflexacute
+        <anchor 305 0> mark @b.uni0321_2
+        <anchor 295 1171> mark @m.uni0302_1;
+    pos base ecircumflexacute
+        <anchor 302 0> mark @b.uni0321_2
+        <anchor 294 981> mark @m.uni0302_1;
+    pos base Ecircumflexgrave
+        <anchor 305 0> mark @b.uni0321_2
+        <anchor 287 1178> mark @m.uni0302_1;
+    pos base ecircumflexgrave
+        <anchor 302 0> mark @b.uni0321_2
+        <anchor 285 988> mark @m.uni0302_1;
+    pos base Ecircumflexhoi
+        <anchor 304 0> mark @b.uni0321_2
+        <anchor 294 1154> mark @m.uni0302_1;
+    pos base ecircumflexhoi
+        <anchor 300 0> mark @b.uni0321_2
+        <anchor 292 964> mark @m.uni0302_1;
+    pos base Ecircumflextilde
+        <anchor 305 0> mark @b.uni0321_2
+        <anchor 296 1070> mark @m.uni0302_1;
+    pos base ecircumflextilde
+        <anchor 302 0> mark @b.uni0321_2
+        <anchor 293 880> mark @m.uni0302_1;
+    pos base Ecircumflexdotbelow
+        <anchor 304 -240> mark @b.uni0321_2
+        <anchor 294 872> mark @m.uni0302_1;
+    pos base ecircumflexdotbelow
+        <anchor 301 -240> mark @b.uni0321_2
+        <anchor 292 682> mark @m.uni0302_1;
+    pos base Ihoi
+        <anchor 141 0> mark @b.uni0321_2
+        <anchor 136 950> mark @m.uni0302_1;
+    pos base ihoi
+        <anchor 109 0> mark @b.uni0321_2
+        <anchor 108 754> mark @m.uni0302_1;
+    pos base Idotbelow
+        <anchor 143 -240> mark @b.uni0321_2
+        <anchor 138 668> mark @m.uni0302_1;
+    pos base idotbelow
+        <anchor 129 -240> mark @b.uni0321_2
+        <anchor 4 0> mark @m.uni0302_1;
+    pos base Odotbelow
+        <anchor 418 -250> mark @b.uni0321_2
+        <anchor 408 680> mark @m.uni0302_1;
+    pos base odotbelow
+        <anchor 310 -250> mark @b.uni0321_2
+        <anchor 307 481> mark @m.uni0302_1;
+    pos base Ohoi
+        <anchor 417 -10> mark @b.uni0321_2
+        <anchor 409 962> mark @m.uni0302_1;
+    pos base ohoi
+        <anchor 310 -10> mark @b.uni0321_2
+        <anchor 308 763> mark @m.uni0302_1;
+    pos base Ocircumflexacute
+        <anchor 419 -10> mark @b.uni0321_2
+        <anchor 410 1181> mark @m.uni0302_1;
+    pos base ocircumflexacute
+        <anchor 312 -10> mark @b.uni0321_2
+        <anchor 309 982> mark @m.uni0302_1;
+    pos base Ocircumflexgrave
+        <anchor 419 -10> mark @b.uni0321_2
+        <anchor 401 1188> mark @m.uni0302_1;
+    pos base ocircumflexgrave
+        <anchor 312 -10> mark @b.uni0321_2
+        <anchor 300 989> mark @m.uni0302_1;
+    pos base Ocircumflexhoi
+        <anchor 417 -10> mark @b.uni0321_2
+        <anchor 409 1164> mark @m.uni0302_1;
+    pos base ocircumflexhoi
+        <anchor 310 -10> mark @b.uni0321_2
+        <anchor 308 965> mark @m.uni0302_1;
+    pos base Ocircumflextilde
+        <anchor 419 -10> mark @b.uni0321_2
+        <anchor 410 1080> mark @m.uni0302_1;
+    pos base ocircumflextilde
+        <anchor 312 -10> mark @b.uni0321_2
+        <anchor 309 881> mark @m.uni0302_1;
+    pos base Ocircumflexdotbelow
+        <anchor 418 -250> mark @b.uni0321_2
+        <anchor 408 882> mark @m.uni0302_1;
+    pos base ocircumflexdotbelow
+        <anchor 310 -250> mark @b.uni0321_2
+        <anchor 307 683> mark @m.uni0302_1;
+    pos base Ohornacute
+        <anchor 441 -10> mark @b.uni0321_2
+        <anchor 432 979> mark @m.uni0302_1;
+    pos base ohornacute
+        <anchor 33 -10> mark @b.uni0321_2
+        <anchor 30 780> mark @m.uni0302_1;
+    pos base Ohorngrave
+        <anchor 441 -10> mark @b.uni0321_2
+        <anchor 424 986> mark @m.uni0302_1;
+    pos base ohorngrave
+        <anchor 33 -10> mark @b.uni0321_2
+        <anchor 21 787> mark @m.uni0302_1;
+    pos base Ohornhoi
+        <anchor 438 -10> mark @b.uni0321_2
+        <anchor 430 962> mark @m.uni0302_1;
+    pos base ohornhoi
+        <anchor 66 -10> mark @b.uni0321_2
+        <anchor 64 763> mark @m.uni0302_1;
+    pos base Ohorntilde
+        <anchor 437 -10> mark @b.uni0321_2
+        <anchor 429 878> mark @m.uni0302_1;
+    pos base ohorntilde
+        <anchor 103 -10> mark @b.uni0321_2
+        <anchor 100 679> mark @m.uni0302_1;
+    pos base Ohorndotbelow
+        <anchor 436 -250> mark @b.uni0321_2
+        <anchor 427 680> mark @m.uni0302_1;
+    pos base ohorndotbelow
+        <anchor 101 -250> mark @b.uni0321_2
+        <anchor 98 481> mark @m.uni0302_1;
+    pos base Udotbelow
+        <anchor 388 -250> mark @b.uni0321_2
+        <anchor 389 670> mark @m.uni0302_1;
+    pos base udotbelow
+        <anchor 286 -240> mark @b.uni0321_2
+        <anchor 285 472> mark @m.uni0302_1;
+    pos base Uhoi
+        <anchor 388 -10> mark @b.uni0321_2
+        <anchor 389 952> mark @m.uni0302_1;
+    pos base uhoi
+        <anchor 286 0> mark @b.uni0321_2
+        <anchor 285 754> mark @m.uni0302_1;
+    pos base Uhornacute
+        <anchor 437 -10> mark @b.uni0321_2
+        <anchor 438 969> mark @m.uni0302_1;
+    pos base uhornacute
+        <anchor 357 0> mark @b.uni0321_2
+        <anchor 356 771> mark @m.uni0302_1;
+    pos base Uhorngrave
+        <anchor 437 -10> mark @b.uni0321_2
+        <anchor 429 976> mark @m.uni0302_1;
+    pos base uhorngrave
+        <anchor 357 0> mark @b.uni0321_2
+        <anchor 347 778> mark @m.uni0302_1;
+    pos base Uhornhoi
+        <anchor 432 -10> mark @b.uni0321_2
+        <anchor 433 952> mark @m.uni0302_1;
+    pos base uhornhoi
+        <anchor 349 0> mark @b.uni0321_2
+        <anchor 348 754> mark @m.uni0302_1;
+    pos base Uhorntilde
+        <anchor 429 -10> mark @b.uni0321_2
+        <anchor 430 868> mark @m.uni0302_1;
+    pos base uhorntilde
+        <anchor 357 0> mark @b.uni0321_2
+        <anchor 356 670> mark @m.uni0302_1;
+    pos base Uhorndotbelow
+        <anchor 426 -250> mark @b.uni0321_2
+        <anchor 427 670> mark @m.uni0302_1;
+    pos base uhorndotbelow
+        <anchor 336 -240> mark @b.uni0321_2
+        <anchor 335 472> mark @m.uni0302_1;
+    pos base Ygrave
+        <anchor NULL> mark @b.uni0321_2
+        <anchor 282 976> mark @m.uni0302_1;
+    pos base ygrave
+        <anchor 355 0> mark @b.uni0321_2
+        <anchor 242 778> mark @m.uni0302_1;
+    pos base Ydotbelow
+        <anchor 291 -240> mark @b.uni0321_2
+        <anchor 291 670> mark @m.uni0302_1;
+    pos base ydotbelow
+        <anchor 354 -241> mark @b.uni0321_2
+        <anchor 247 472> mark @m.uni0302_1;
+    pos base Yhoi
+        <anchor NULL> mark @b.uni0321_2
+        <anchor 290 952> mark @m.uni0302_1;
+    pos base yhoi
+        <anchor 354 -1> mark @b.uni0321_2
+        <anchor 249 753> mark @m.uni0302_1;
+    pos base Ytilde
+        <anchor NULL> mark @b.uni0321_2
+        <anchor 291 868> mark @m.uni0302_1;
+    pos base ytilde
+        <anchor 355 -1> mark @b.uni0321_2
+        <anchor 250 669> mark @m.uni0302_1;
+    pos base i.TRK
+        <anchor 111 0> mark @b.uni0321_2
+        <anchor 109 646> mark @m.uni0302_1;
+    pos base i.loclTRK
+        <anchor 111 0> mark @b.uni0321_2
+        <anchor 109 646> mark @m.uni0302_1;
+  } mark_8;
+
+
+  lookup mark_9 {
+  # GPOS lookup 9, type 4 (MarkToBase attachment)
+    markClass strokeshortcomb <anchor -279 299> @m.uni0335_2;
+    markClass strokelongcomb <anchor -320 309> @m.uni0335_2;
+    markClass slashshortcomb <anchor -307 153> @m.uni0335_2;
+    markClass slashlongcomb <anchor -293 320> @m.uni0335_2;
+    pos base D
+        <anchor 200 340> mark @m.uni0335_2;
+    pos base H
+        <anchor 385 520> mark @m.uni0335_2;
+    pos base L
+        <anchor 161 370> mark @m.uni0335_2;
+    pos base O
+        <anchor 411 334> mark @m.uni0335_2;
+    pos base T
+        <anchor 301 340> mark @m.uni0335_2;
+    pos base d
+        <anchor 456 594> mark @m.uni0335_2;
+    pos base h
+        <anchor 162 574> mark @m.uni0335_2;
+    pos base l
+        <anchor 122 364> mark @m.uni0335_2;
+    pos base o
+        <anchor 311 236> mark @m.uni0335_2;
+    pos base t
+        <anchor 176 284> mark @m.uni0335_2;
+    pos base ordmasculine
+        <anchor 181 473> mark @m.uni0335_2;
+    pos base Eth
+        <anchor 193 340> mark @m.uni0335_2;
+    pos base Ograve
+        <anchor 411 334> mark @m.uni0335_2;
+    pos base Oacute
+        <anchor 411 334> mark @m.uni0335_2;
+    pos base Ocircumflex
+        <anchor 411 334> mark @m.uni0335_2;
+    pos base Otilde
+        <anchor 411 334> mark @m.uni0335_2;
+    pos base Odieresis
+        <anchor 411 334> mark @m.uni0335_2;
+    pos base Oslash
+        <anchor 411 334> mark @m.uni0335_2;
+    pos base ograve
+        <anchor 311 236> mark @m.uni0335_2;
+    pos base oacute
+        <anchor 311 236> mark @m.uni0335_2;
+    pos base ocircumflex
+        <anchor 311 236> mark @m.uni0335_2;
+    pos base otilde
+        <anchor 311 236> mark @m.uni0335_2;
+    pos base odieresis
+        <anchor 311 236> mark @m.uni0335_2;
+    pos base oslash
+        <anchor 311 236> mark @m.uni0335_2;
+    pos base Dcaron
+        <anchor 200 340> mark @m.uni0335_2;
+    pos base dcaron
+        <anchor 404 594> mark @m.uni0335_2;
+    pos base Dcroat
+        <anchor 193 340> mark @m.uni0335_2;
+    pos base dcroat
+        <anchor 641 594> mark @m.uni0335_2;
+    pos base Hcircumflex
+        <anchor 385 520> mark @m.uni0335_2;
+    pos base hcircumflex
+        <anchor 150 574> mark @m.uni0335_2;
+    pos base Hbar
+        <anchor 385 520> mark @m.uni0335_2;
+    pos base hbar
+        <anchor 153 574> mark @m.uni0335_2;
+    pos base Lacute
+        <anchor 161 370> mark @m.uni0335_2;
+    pos base lacute
+        <anchor 128 364> mark @m.uni0335_2;
+    pos base Lcommaaccent
+        <anchor 159 370> mark @m.uni0335_2;
+    pos base lcommaaccent
+        <anchor 121 364> mark @m.uni0335_2;
+    pos base Lcaron
+        <anchor 159 370> mark @m.uni0335_2;
+    pos base lcaron
+        <anchor 155 364> mark @m.uni0335_2;
+    pos base Ldot
+        <anchor 157 370> mark @m.uni0335_2;
+    pos base ldot
+        <anchor 127 364> mark @m.uni0335_2;
+    pos base Lslash
+        <anchor 178 370> mark @m.uni0335_2;
+    pos base lslash
+        <anchor 123 364> mark @m.uni0335_2;
+    pos base Omacron
+        <anchor 411 334> mark @m.uni0335_2;
+    pos base omacron
+        <anchor 311 236> mark @m.uni0335_2;
+    pos base Obreve
+        <anchor 411 334> mark @m.uni0335_2;
+    pos base obreve
+        <anchor 311 236> mark @m.uni0335_2;
+    pos base Ohungarumlaut
+        <anchor 411 334> mark @m.uni0335_2;
+    pos base ohungarumlaut
+        <anchor 311 236> mark @m.uni0335_2;
+    pos base Tcedilla
+        <anchor 300 340> mark @m.uni0335_2;
+    pos base tcedilla
+        <anchor 174 284> mark @m.uni0335_2;
+    pos base Tcaron
+        <anchor 301 340> mark @m.uni0335_2;
+    pos base tcaron
+        <anchor 174 284> mark @m.uni0335_2;
+    pos base Tbar
+        <anchor 301 340> mark @m.uni0335_2;
+    pos base tbar
+        <anchor 176 284> mark @m.uni0335_2;
+    pos base Ohorn
+        <anchor 433 334> mark @m.uni0335_2;
+    pos base ohorn
+        <anchor 32 236> mark @m.uni0335_2;
+    pos base DZcaron
+        <anchor 224 340> mark @m.uni0335_2;
+    pos base Dzcaron
+        <anchor 227 340> mark @m.uni0335_2;
+    pos base dzcaron
+        <anchor 481 594> mark @m.uni0335_2;
+    pos base LJ
+        <anchor 160 370> mark @m.uni0335_2;
+    pos base Lj
+        <anchor 160 370> mark @m.uni0335_2;
+    pos base lj
+        <anchor 127 364> mark @m.uni0335_2;
+    pos base Oogonek
+        <anchor 411 334> mark @m.uni0335_2;
+    pos base oogonek
+        <anchor 312 236> mark @m.uni0335_2;
+    pos base DZ
+        <anchor 224 340> mark @m.uni0335_2;
+    pos base Dz
+        <anchor 227 340> mark @m.uni0335_2;
+    pos base dz
+        <anchor 481 594> mark @m.uni0335_2;
+    pos base Oslashacute
+        <anchor 411 334> mark @m.uni0335_2;
+    pos base oslashacute
+        <anchor 311 236> mark @m.uni0335_2;
+    pos base Odblgrave
+        <anchor 411 334> mark @m.uni0335_2;
+    pos base odblgrave
+        <anchor 311 236> mark @m.uni0335_2;
+    pos base Oinvertedbreve
+        <anchor 411 334> mark @m.uni0335_2;
+    pos base oinvertedbreve
+        <anchor 311 236> mark @m.uni0335_2;
+    pos base Tcommaaccent
+        <anchor 300 340> mark @m.uni0335_2;
+    pos base tcommaaccent
+        <anchor 174 284> mark @m.uni0335_2;
+    pos base Odieresismacron
+        <anchor 411 334> mark @m.uni0335_2;
+    pos base odieresismacron
+        <anchor 311 236> mark @m.uni0335_2;
+    pos base Otildemacron
+        <anchor 411 334> mark @m.uni0335_2;
+    pos base otildemacron
+        <anchor 311 236> mark @m.uni0335_2;
+    pos base Odotaccentmacron
+        <anchor 410 334> mark @m.uni0335_2;
+    pos base odotaccentmacron
+        <anchor 310 236> mark @m.uni0335_2;
+    pos base Odotbelow
+        <anchor 410 334> mark @m.uni0335_2;
+    pos base odotbelow
+        <anchor 309 236> mark @m.uni0335_2;
+    pos base Ohoi
+        <anchor 410 334> mark @m.uni0335_2;
+    pos base ohoi
+        <anchor 310 236> mark @m.uni0335_2;
+    pos base Ocircumflexacute
+        <anchor 411 334> mark @m.uni0335_2;
+    pos base ocircumflexacute
+        <anchor 311 236> mark @m.uni0335_2;
+    pos base Ocircumflexgrave
+        <anchor 411 334> mark @m.uni0335_2;
+    pos base ocircumflexgrave
+        <anchor 311 236> mark @m.uni0335_2;
+    pos base Ocircumflexhoi
+        <anchor 410 334> mark @m.uni0335_2;
+    pos base ocircumflexhoi
+        <anchor 310 236> mark @m.uni0335_2;
+    pos base Ocircumflextilde
+        <anchor 411 334> mark @m.uni0335_2;
+    pos base ocircumflextilde
+        <anchor 311 236> mark @m.uni0335_2;
+    pos base Ocircumflexdotbelow
+        <anchor 410 334> mark @m.uni0335_2;
+    pos base ocircumflexdotbelow
+        <anchor 309 236> mark @m.uni0335_2;
+    pos base Ohornacute
+        <anchor 433 334> mark @m.uni0335_2;
+    pos base ohornacute
+        <anchor 32 236> mark @m.uni0335_2;
+    pos base Ohorngrave
+        <anchor 433 334> mark @m.uni0335_2;
+    pos base ohorngrave
+        <anchor 32 236> mark @m.uni0335_2;
+    pos base Ohornhoi
+        <anchor 431 334> mark @m.uni0335_2;
+    pos base ohornhoi
+        <anchor 65 236> mark @m.uni0335_2;
+    pos base Ohorntilde
+        <anchor 430 334> mark @m.uni0335_2;
+    pos base ohorntilde
+        <anchor 102 236> mark @m.uni0335_2;
+    pos base Ohorndotbelow
+        <anchor 428 334> mark @m.uni0335_2;
+    pos base ohorndotbelow
+        <anchor 100 236> mark @m.uni0335_2;
+  } mark_9;
+
+
+  lookup mark_10 {
+  # GPOS lookup 10, type 4 (MarkToBase attachment)
+    markClass ogonekcomb <anchor -185 12> @b.uni0328;
+    pos base A
+        <anchor 685 0> mark @b.uni0328;
+    pos base E
+        <anchor 417 0> mark @b.uni0328;
+    pos base I
+        <anchor 159 0> mark @b.uni0328;
+    pos base O
+        <anchor 508 0> mark @b.uni0328;
+    pos base U
+        <anchor 477 0> mark @b.uni0328;
+    pos base a
+        <anchor 451 0> mark @b.uni0328;
+    pos base e
+        <anchor 386 0> mark @b.uni0328;
+    pos base o
+        <anchor 358 0> mark @b.uni0328;
+    pos base u
+        <anchor 455 0> mark @b.uni0328;
+    pos base ordfeminine
+        <anchor 265 342> mark @b.uni0328;
+    pos base ordmasculine
+        <anchor 207 339> mark @b.uni0328;
+    pos base Agrave
+        <anchor 685 0> mark @b.uni0328;
+    pos base Aacute
+        <anchor 685 0> mark @b.uni0328;
+    pos base Acircumflex
+        <anchor 685 0> mark @b.uni0328;
+    pos base Atilde
+        <anchor 687 0> mark @b.uni0328;
+    pos base Adieresis
+        <anchor 690 0> mark @b.uni0328;
+    pos base Aring
+        <anchor 687 0> mark @b.uni0328;
+    pos base AE
+        <anchor 756 0> mark @b.uni0328;
+    pos base Egrave
+        <anchor 417 0> mark @b.uni0328;
+    pos base Eacute
+        <anchor 417 0> mark @b.uni0328;
+    pos base Ecircumflex
+        <anchor 417 0> mark @b.uni0328;
+    pos base Edieresis
+        <anchor 421 0> mark @b.uni0328;
+    pos base Igrave
+        <anchor 152 0> mark @b.uni0328;
+    pos base Iacute
+        <anchor 164 0> mark @b.uni0328;
+    pos base Icircumflex
+        <anchor 160 0> mark @b.uni0328;
+    pos base Idieresis
+        <anchor 159 0> mark @b.uni0328;
+    pos base Ograve
+        <anchor 508 0> mark @b.uni0328;
+    pos base Oacute
+        <anchor 508 0> mark @b.uni0328;
+    pos base Ocircumflex
+        <anchor 508 0> mark @b.uni0328;
+    pos base Otilde
+        <anchor 508 0> mark @b.uni0328;
+    pos base Odieresis
+        <anchor 510 0> mark @b.uni0328;
+    pos base Oslash
+        <anchor 508 0> mark @b.uni0328;
+    pos base Ugrave
+        <anchor 477 0> mark @b.uni0328;
+    pos base Uacute
+        <anchor 477 0> mark @b.uni0328;
+    pos base Ucircumflex
+        <anchor 477 0> mark @b.uni0328;
+    pos base Udieresis
+        <anchor 480 0> mark @b.uni0328;
+    pos base agrave
+        <anchor 451 0> mark @b.uni0328;
+    pos base aacute
+        <anchor 451 0> mark @b.uni0328;
+    pos base acircumflex
+        <anchor 451 0> mark @b.uni0328;
+    pos base atilde
+        <anchor 452 0> mark @b.uni0328;
+    pos base adieresis
+        <anchor 454 0> mark @b.uni0328;
+    pos base aring
+        <anchor 453 0> mark @b.uni0328;
+    pos base ae
+        <anchor 692 0> mark @b.uni0328;
+    pos base egrave
+        <anchor 386 0> mark @b.uni0328;
+    pos base eacute
+        <anchor 386 0> mark @b.uni0328;
+    pos base ecircumflex
+        <anchor 386 0> mark @b.uni0328;
+    pos base edieresis
+        <anchor 388 0> mark @b.uni0328;
+    pos base igrave
+        <anchor 106 0> mark @b.uni0328;
+    pos base iacute
+        <anchor 138 0> mark @b.uni0328;
+    pos base icircumflex
+        <anchor 126 0> mark @b.uni0328;
+    pos base idieresis
+        <anchor 126 0> mark @b.uni0328;
+    pos base ograve
+        <anchor 358 0> mark @b.uni0328;
+    pos base oacute
+        <anchor 358 0> mark @b.uni0328;
+    pos base ocircumflex
+        <anchor 358 0> mark @b.uni0328;
+    pos base otilde
+        <anchor 358 0> mark @b.uni0328;
+    pos base odieresis
+        <anchor 360 0> mark @b.uni0328;
+    pos base oslash
+        <anchor 358 0> mark @b.uni0328;
+    pos base ugrave
+        <anchor 455 0> mark @b.uni0328;
+    pos base uacute
+        <anchor 455 0> mark @b.uni0328;
+    pos base ucircumflex
+        <anchor 455 0> mark @b.uni0328;
+    pos base udieresis
+        <anchor 461 0> mark @b.uni0328;
+    pos base Amacron
+        <anchor 685 0> mark @b.uni0328;
+    pos base amacron
+        <anchor 451 0> mark @b.uni0328;
+    pos base Abreve
+        <anchor 687 0> mark @b.uni0328;
+    pos base abreve
+        <anchor 452 0> mark @b.uni0328;
+    pos base Aogonek
+        <anchor 782 0> mark @b.uni0328;
+    pos base aogonek
+        <anchor 476 0> mark @b.uni0328;
+    pos base Emacron
+        <anchor 417 0> mark @b.uni0328;
+    pos base emacron
+        <anchor 386 0> mark @b.uni0328;
+    pos base Ebreve
+        <anchor 417 0> mark @b.uni0328;
+    pos base ebreve
+        <anchor 386 0> mark @b.uni0328;
+    pos base Edotaccent
+        <anchor 420 0> mark @b.uni0328;
+    pos base edotaccent
+        <anchor 388 0> mark @b.uni0328;
+    pos base Eogonek
+        <anchor 419 0> mark @b.uni0328;
+    pos base eogonek
+        <anchor 387 0> mark @b.uni0328;
+    pos base Ecaron
+        <anchor 417 0> mark @b.uni0328;
+    pos base ecaron
+        <anchor 386 0> mark @b.uni0328;
+    pos base Itilde
+        <anchor 159 0> mark @b.uni0328;
+    pos base itilde
+        <anchor 126 0> mark @b.uni0328;
+    pos base Imacron
+        <anchor 160 0> mark @b.uni0328;
+    pos base imacron
+        <anchor 126 0> mark @b.uni0328;
+    pos base Ibreve
+        <anchor 160 0> mark @b.uni0328;
+    pos base ibreve
+        <anchor 126 0> mark @b.uni0328;
+    pos base Iogonek
+        <anchor 157 0> mark @b.uni0328;
+    pos base iogonek
+        <anchor 148 0> mark @b.uni0328;
+    pos base Idotaccent
+        <anchor 159 0> mark @b.uni0328;
+    pos base dotlessi
+        <anchor 126 0> mark @b.uni0328;
+    pos base IJ
+        <anchor 166 0> mark @b.uni0328;
+    pos base Omacron
+        <anchor 508 0> mark @b.uni0328;
+    pos base omacron
+        <anchor 358 0> mark @b.uni0328;
+    pos base Obreve
+        <anchor 508 0> mark @b.uni0328;
+    pos base obreve
+        <anchor 358 0> mark @b.uni0328;
+    pos base Ohungarumlaut
+        <anchor 508 0> mark @b.uni0328;
+    pos base ohungarumlaut
+        <anchor 358 0> mark @b.uni0328;
+    pos base OE
+        <anchor 949 0> mark @b.uni0328;
+    pos base oe
+        <anchor 824 0> mark @b.uni0328;
+    pos base Utilde
+        <anchor 477 0> mark @b.uni0328;
+    pos base utilde
+        <anchor 455 0> mark @b.uni0328;
+    pos base Umacron
+        <anchor 477 0> mark @b.uni0328;
+    pos base umacron
+        <anchor 455 0> mark @b.uni0328;
+    pos base Ubreve
+        <anchor 477 0> mark @b.uni0328;
+    pos base ubreve
+        <anchor 457 0> mark @b.uni0328;
+    pos base Uring
+        <anchor 479 0> mark @b.uni0328;
+    pos base uring
+        <anchor 457 0> mark @b.uni0328;
+    pos base Uhungarumlaut
+        <anchor 477 0> mark @b.uni0328;
+    pos base uhungarumlaut
+        <anchor 456 0> mark @b.uni0328;
+    pos base Uogonek
+        <anchor 479 0> mark @b.uni0328;
+    pos base uogonek
+        <anchor 460 0> mark @b.uni0328;
+    pos base Ohorn
+        <anchor 530 0> mark @b.uni0328;
+    pos base ohorn
+        <anchor 79 0> mark @b.uni0328;
+    pos base Uhorn
+        <anchor 525 0> mark @b.uni0328;
+    pos base uhorn
+        <anchor 525 0> mark @b.uni0328;
+    pos base Oogonek
+        <anchor 509 0> mark @b.uni0328;
+    pos base oogonek
+        <anchor 360 0> mark @b.uni0328;
+    pos base Aringacute
+        <anchor 687 0> mark @b.uni0328;
+    pos base aringacute
+        <anchor 453 0> mark @b.uni0328;
+    pos base AEacute
+        <anchor 756 0> mark @b.uni0328;
+    pos base aeacute
+        <anchor 692 0> mark @b.uni0328;
+    pos base Oslashacute
+        <anchor 508 0> mark @b.uni0328;
+    pos base oslashacute
+        <anchor 358 0> mark @b.uni0328;
+    pos base Adblgrave
+        <anchor 685 0> mark @b.uni0328;
+    pos base adblgrave
+        <anchor 450 0> mark @b.uni0328;
+    pos base Ainvertedbreve
+        <anchor 687 0> mark @b.uni0328;
+    pos base ainvertedbreve
+        <anchor 452 0> mark @b.uni0328;
+    pos base Edblgrave
+        <anchor 416 0> mark @b.uni0328;
+    pos base edblgrave
+        <anchor 386 0> mark @b.uni0328;
+    pos base Einvertedbreve
+        <anchor 417 0> mark @b.uni0328;
+    pos base einvertedbreve
+        <anchor 386 0> mark @b.uni0328;
+    pos base Idblgrave
+        <anchor 166 0> mark @b.uni0328;
+    pos base idblgrave
+        <anchor 128 0> mark @b.uni0328;
+    pos base Iinvertedbreve
+        <anchor 159 0> mark @b.uni0328;
+    pos base iinvertedbreve
+        <anchor 126 0> mark @b.uni0328;
+    pos base Odblgrave
+        <anchor 508 0> mark @b.uni0328;
+    pos base odblgrave
+        <anchor 358 0> mark @b.uni0328;
+    pos base Oinvertedbreve
+        <anchor 508 0> mark @b.uni0328;
+    pos base oinvertedbreve
+        <anchor 358 0> mark @b.uni0328;
+    pos base Udblgrave
+        <anchor 477 0> mark @b.uni0328;
+    pos base udblgrave
+        <anchor 455 0> mark @b.uni0328;
+    pos base Uinvertedbreve
+        <anchor 477 0> mark @b.uni0328;
+    pos base uinvertedbreve
+        <anchor 457 0> mark @b.uni0328;
+    pos base Odieresismacron
+        <anchor 510 0> mark @b.uni0328;
+    pos base odieresismacron
+        <anchor 360 0> mark @b.uni0328;
+    pos base Otildemacron
+        <anchor 508 0> mark @b.uni0328;
+    pos base otildemacron
+        <anchor 358 0> mark @b.uni0328;
+    pos base Odotaccentmacron
+        <anchor 511 0> mark @b.uni0328;
+    pos base odotaccentmacron
+        <anchor 360 0> mark @b.uni0328;
+    pos base Adotbelow
+        <anchor 688 0> mark @b.uni0328;
+    pos base adotbelow
+        <anchor 453 0> mark @b.uni0328;
+    pos base Ahoi
+        <anchor 686 0> mark @b.uni0328;
+    pos base ahoi
+        <anchor 452 0> mark @b.uni0328;
+    pos base Acircumflexacute
+        <anchor 685 0> mark @b.uni0328;
+    pos base acircumflexacute
+        <anchor 451 0> mark @b.uni0328;
+    pos base Acircumflexgrave
+        <anchor 685 0> mark @b.uni0328;
+    pos base acircumflexgrave
+        <anchor 451 0> mark @b.uni0328;
+    pos base Acircumflexhoi
+        <anchor 686 0> mark @b.uni0328;
+    pos base acircumflexhoi
+        <anchor 452 0> mark @b.uni0328;
+    pos base Acircumflextilde
+        <anchor 687 0> mark @b.uni0328;
+    pos base acircumflextilde
+        <anchor 452 0> mark @b.uni0328;
+    pos base Acircumflexdotbelow
+        <anchor 688 0> mark @b.uni0328;
+    pos base acircumflexdotbelow
+        <anchor 453 0> mark @b.uni0328;
+    pos base Abreveacute
+        <anchor 687 0> mark @b.uni0328;
+    pos base abreveacute
+        <anchor 452 0> mark @b.uni0328;
+    pos base Abrevegrave
+        <anchor 687 0> mark @b.uni0328;
+    pos base abrevegrave
+        <anchor 452 0> mark @b.uni0328;
+    pos base Abrevehoi
+        <anchor 688 0> mark @b.uni0328;
+    pos base abrevehoi
+        <anchor 453 0> mark @b.uni0328;
+    pos base Abrevetilde
+        <anchor 689 0> mark @b.uni0328;
+    pos base abrevetilde
+        <anchor 452 0> mark @b.uni0328;
+    pos base Abrevedotbelow
+        <anchor 690 0> mark @b.uni0328;
+    pos base abrevedotbelow
+        <anchor 454 0> mark @b.uni0328;
+    pos base Edotbelow
+        <anchor 420 0> mark @b.uni0328;
+    pos base edotbelow
+        <anchor 388 0> mark @b.uni0328;
+    pos base Ehoi
+        <anchor 418 0> mark @b.uni0328;
+    pos base ehoi
+        <anchor 384 0> mark @b.uni0328;
+    pos base Etilde
+        <anchor 417 0> mark @b.uni0328;
+    pos base etilde
+        <anchor 385 0> mark @b.uni0328;
+    pos base Ecircumflexacute
+        <anchor 417 0> mark @b.uni0328;
+    pos base ecircumflexacute
+        <anchor 386 0> mark @b.uni0328;
+    pos base Ecircumflexgrave
+        <anchor 417 0> mark @b.uni0328;
+    pos base ecircumflexgrave
+        <anchor 386 0> mark @b.uni0328;
+    pos base Ecircumflexhoi
+        <anchor 418 0> mark @b.uni0328;
+    pos base ecircumflexhoi
+        <anchor 384 0> mark @b.uni0328;
+    pos base Ecircumflextilde
+        <anchor 417 0> mark @b.uni0328;
+    pos base ecircumflextilde
+        <anchor 385 0> mark @b.uni0328;
+    pos base Ecircumflexdotbelow
+        <anchor 420 0> mark @b.uni0328;
+    pos base ecircumflexdotbelow
+        <anchor 388 0> mark @b.uni0328;
+    pos base Ihoi
+        <anchor 157 0> mark @b.uni0328;
+    pos base ihoi
+        <anchor 124 0> mark @b.uni0328;
+    pos base Idotbelow
+        <anchor 159 0> mark @b.uni0328;
+    pos base Odotbelow
+        <anchor 511 0> mark @b.uni0328;
+    pos base odotbelow
+        <anchor 359 0> mark @b.uni0328;
+    pos base Ohoi
+        <anchor 507 0> mark @b.uni0328;
+    pos base ohoi
+        <anchor 357 0> mark @b.uni0328;
+    pos base Ocircumflexacute
+        <anchor 508 0> mark @b.uni0328;
+    pos base ocircumflexacute
+        <anchor 358 0> mark @b.uni0328;
+    pos base Ocircumflexgrave
+        <anchor 508 0> mark @b.uni0328;
+    pos base ocircumflexgrave
+        <anchor 358 0> mark @b.uni0328;
+    pos base Ocircumflexhoi
+        <anchor 507 0> mark @b.uni0328;
+    pos base ocircumflexhoi
+        <anchor 357 0> mark @b.uni0328;
+    pos base Ocircumflextilde
+        <anchor 508 0> mark @b.uni0328;
+    pos base ocircumflextilde
+        <anchor 358 0> mark @b.uni0328;
+    pos base Ocircumflexdotbelow
+        <anchor 511 0> mark @b.uni0328;
+    pos base ocircumflexdotbelow
+        <anchor 359 0> mark @b.uni0328;
+    pos base Ohornacute
+        <anchor 530 0> mark @b.uni0328;
+    pos base ohornacute
+        <anchor 79 0> mark @b.uni0328;
+    pos base Ohorngrave
+        <anchor 530 0> mark @b.uni0328;
+    pos base ohorngrave
+        <anchor 79 0> mark @b.uni0328;
+    pos base Ohornhoi
+        <anchor 528 0> mark @b.uni0328;
+    pos base ohornhoi
+        <anchor 113 0> mark @b.uni0328;
+    pos base Ohorntilde
+        <anchor 527 0> mark @b.uni0328;
+    pos base ohorntilde
+        <anchor 149 0> mark @b.uni0328;
+    pos base Ohorndotbelow
+        <anchor 529 0> mark @b.uni0328;
+    pos base ohorndotbelow
+        <anchor 150 0> mark @b.uni0328;
+    pos base Udotbelow
+        <anchor 480 0> mark @b.uni0328;
+    pos base udotbelow
+        <anchor 458 0> mark @b.uni0328;
+    pos base Uhoi
+        <anchor 476 0> mark @b.uni0328;
+    pos base uhoi
+        <anchor 456 0> mark @b.uni0328;
+    pos base Uhornacute
+        <anchor 525 0> mark @b.uni0328;
+    pos base uhornacute
+        <anchor 525 0> mark @b.uni0328;
+    pos base Uhorngrave
+        <anchor 525 0> mark @b.uni0328;
+    pos base uhorngrave
+        <anchor 525 0> mark @b.uni0328;
+    pos base Uhornhoi
+        <anchor 521 0> mark @b.uni0328;
+    pos base uhornhoi
+        <anchor 519 0> mark @b.uni0328;
+    pos base Uhorntilde
+        <anchor 517 0> mark @b.uni0328;
+    pos base uhorntilde
+        <anchor 525 0> mark @b.uni0328;
+    pos base Uhorndotbelow
+        <anchor 519 0> mark @b.uni0328;
+    pos base uhorndotbelow
+        <anchor 508 0> mark @b.uni0328;
+    pos base i.TRK
+        <anchor 126 0> mark @b.uni0328;
+    pos base i.loclTRK
+        <anchor 126 0> mark @b.uni0328;
+  } mark_10;
+
+
+  lookup mark_11 {
+  # GPOS lookup 11, type 4 (MarkToBase attachment)
+    markClass horncomb <anchor 48 431> @t.uni031B_3;
+    markClass caroncomb.alt <anchor -173 670> @t.uni031B_3;
+    pos base L
+        <anchor 359 756> mark @t.uni031B_3;
+    pos base O
+        <anchor 645 580> mark @t.uni031B_3;
+    pos base U
+        <anchor 642 668> mark @t.uni031B_3;
+    pos base d
+        <anchor 601 756> mark @t.uni031B_3;
+    pos base l
+        <anchor 262 756> mark @t.uni031B_3;
+    pos base o
+        <anchor 497 398> mark @t.uni031B_3;
+    pos base t
+        <anchor 299 756> mark @t.uni031B_3;
+    pos base u
+        <anchor 442 472> mark @t.uni031B_3;
+    pos base ordmasculine
+        <anchor 286 564> mark @t.uni031B_3;
+    pos base Ograve
+        <anchor 645 580> mark @t.uni031B_3;
+    pos base Oacute
+        <anchor 645 580> mark @t.uni031B_3;
+    pos base Ocircumflex
+        <anchor 645 580> mark @t.uni031B_3;
+    pos base Otilde
+        <anchor 647 580> mark @t.uni031B_3;
+    pos base Odieresis
+        <anchor 650 580> mark @t.uni031B_3;
+    pos base Oslash
+        <anchor 645 580> mark @t.uni031B_3;
+    pos base Ugrave
+        <anchor 642 668> mark @t.uni031B_3;
+    pos base Uacute
+        <anchor 642 668> mark @t.uni031B_3;
+    pos base Ucircumflex
+        <anchor 642 668> mark @t.uni031B_3;
+    pos base Udieresis
+        <anchor 648 668> mark @t.uni031B_3;
+    pos base ograve
+        <anchor 497 398> mark @t.uni031B_3;
+    pos base oacute
+        <anchor 497 398> mark @t.uni031B_3;
+    pos base ocircumflex
+        <anchor 497 398> mark @t.uni031B_3;
+    pos base otilde
+        <anchor 498 398> mark @t.uni031B_3;
+    pos base odieresis
+        <anchor 503 398> mark @t.uni031B_3;
+    pos base oslash
+        <anchor 497 398> mark @t.uni031B_3;
+    pos base ugrave
+        <anchor 442 472> mark @t.uni031B_3;
+    pos base uacute
+        <anchor 442 472> mark @t.uni031B_3;
+    pos base ucircumflex
+        <anchor 442 472> mark @t.uni031B_3;
+    pos base udieresis
+        <anchor 448 472> mark @t.uni031B_3;
+    pos base dcaron
+        <anchor 548 756> mark @t.uni031B_3;
+    pos base dcroat
+        <anchor 786 756> mark @t.uni031B_3;
+    pos base Lacute
+        <anchor 359 756> mark @t.uni031B_3;
+    pos base lacute
+        <anchor 268 756> mark @t.uni031B_3;
+    pos base Lcommaaccent
+        <anchor 359 756> mark @t.uni031B_3;
+    pos base lcommaaccent
+        <anchor 262 756> mark @t.uni031B_3;
+    pos base Lcaron
+        <anchor 356 756> mark @t.uni031B_3;
+    pos base lcaron
+        <anchor 295 756> mark @t.uni031B_3;
+    pos base Ldot
+        <anchor 355 756> mark @t.uni031B_3;
+    pos base ldot
+        <anchor 266 756> mark @t.uni031B_3;
+    pos base Lslash
+        <anchor 376 756> mark @t.uni031B_3;
+    pos base lslash
+        <anchor 262 756> mark @t.uni031B_3;
+    pos base Omacron
+        <anchor 645 580> mark @t.uni031B_3;
+    pos base omacron
+        <anchor 497 398> mark @t.uni031B_3;
+    pos base Obreve
+        <anchor 647 580> mark @t.uni031B_3;
+    pos base obreve
+        <anchor 500 398> mark @t.uni031B_3;
+    pos base Ohungarumlaut
+        <anchor 645 580> mark @t.uni031B_3;
+    pos base ohungarumlaut
+        <anchor 497 398> mark @t.uni031B_3;
+    pos base tcedilla
+        <anchor 298 756> mark @t.uni031B_3;
+    pos base tcaron
+        <anchor 298 756> mark @t.uni031B_3;
+    pos base tbar
+        <anchor 299 756> mark @t.uni031B_3;
+    pos base Utilde
+        <anchor 645 668> mark @t.uni031B_3;
+    pos base utilde
+        <anchor 442 472> mark @t.uni031B_3;
+    pos base Umacron
+        <anchor 642 668> mark @t.uni031B_3;
+    pos base umacron
+        <anchor 442 472> mark @t.uni031B_3;
+    pos base Ubreve
+        <anchor 645 668> mark @t.uni031B_3;
+    pos base ubreve
+        <anchor 444 472> mark @t.uni031B_3;
+    pos base Uring
+        <anchor 645 668> mark @t.uni031B_3;
+    pos base uring
+        <anchor 444 472> mark @t.uni031B_3;
+    pos base Uhungarumlaut
+        <anchor 642 668> mark @t.uni031B_3;
+    pos base uhungarumlaut
+        <anchor 443 472> mark @t.uni031B_3;
+    pos base Uogonek
+        <anchor 644 668> mark @t.uni031B_3;
+    pos base uogonek
+        <anchor 447 472> mark @t.uni031B_3;
+    pos base Ohorn
+        <anchor 749 637> mark @t.uni031B_3;
+    pos base ohorn
+        <anchor 302 455> mark @t.uni031B_3;
+    pos base Uhorn
+        <anchor 775 725> mark @t.uni031B_3;
+    pos base uhorn
+        <anchor 597 529> mark @t.uni031B_3;
+    pos base dzcaron
+        <anchor 626 756> mark @t.uni031B_3;
+    pos base LJ
+        <anchor 357 756> mark @t.uni031B_3;
+    pos base Lj
+        <anchor 357 756> mark @t.uni031B_3;
+    pos base lj
+        <anchor 267 756> mark @t.uni031B_3;
+    pos base Oogonek
+        <anchor 646 580> mark @t.uni031B_3;
+    pos base oogonek
+        <anchor 498 398> mark @t.uni031B_3;
+    pos base dz
+        <anchor 626 756> mark @t.uni031B_3;
+    pos base Oslashacute
+        <anchor 645 580> mark @t.uni031B_3;
+    pos base oslashacute
+        <anchor 497 398> mark @t.uni031B_3;
+    pos base Odblgrave
+        <anchor 645 580> mark @t.uni031B_3;
+    pos base odblgrave
+        <anchor 497 398> mark @t.uni031B_3;
+    pos base Oinvertedbreve
+        <anchor 647 580> mark @t.uni031B_3;
+    pos base oinvertedbreve
+        <anchor 500 398> mark @t.uni031B_3;
+    pos base Udblgrave
+        <anchor 642 668> mark @t.uni031B_3;
+    pos base udblgrave
+        <anchor 442 472> mark @t.uni031B_3;
+    pos base Uinvertedbreve
+        <anchor 645 668> mark @t.uni031B_3;
+    pos base uinvertedbreve
+        <anchor 444 472> mark @t.uni031B_3;
+    pos base tcommaaccent
+        <anchor 301 756> mark @t.uni031B_3;
+    pos base Odieresismacron
+        <anchor 650 580> mark @t.uni031B_3;
+    pos base odieresismacron
+        <anchor 503 398> mark @t.uni031B_3;
+    pos base Otildemacron
+        <anchor 647 580> mark @t.uni031B_3;
+    pos base otildemacron
+        <anchor 498 398> mark @t.uni031B_3;
+    pos base Odotaccentmacron
+        <anchor 648 580> mark @t.uni031B_3;
+    pos base odotaccentmacron
+        <anchor 500 398> mark @t.uni031B_3;
+    pos base Odotbelow
+        <anchor 647 580> mark @t.uni031B_3;
+    pos base odotbelow
+        <anchor 500 398> mark @t.uni031B_3;
+    pos base Ohoi
+        <anchor 646 580> mark @t.uni031B_3;
+    pos base ohoi
+        <anchor 498 398> mark @t.uni031B_3;
+    pos base Ocircumflexacute
+        <anchor 645 580> mark @t.uni031B_3;
+    pos base ocircumflexacute
+        <anchor 497 398> mark @t.uni031B_3;
+    pos base Ocircumflexgrave
+        <anchor 645 580> mark @t.uni031B_3;
+    pos base ocircumflexgrave
+        <anchor 497 398> mark @t.uni031B_3;
+    pos base Ocircumflexhoi
+        <anchor 646 580> mark @t.uni031B_3;
+    pos base ocircumflexhoi
+        <anchor 498 398> mark @t.uni031B_3;
+    pos base Ocircumflextilde
+        <anchor 647 580> mark @t.uni031B_3;
+    pos base ocircumflextilde
+        <anchor 498 398> mark @t.uni031B_3;
+    pos base Ocircumflexdotbelow
+        <anchor 647 580> mark @t.uni031B_3;
+    pos base ocircumflexdotbelow
+        <anchor 500 398> mark @t.uni031B_3;
+    pos base Ohornacute
+        <anchor 749 637> mark @t.uni031B_3;
+    pos base ohornacute
+        <anchor 302 455> mark @t.uni031B_3;
+    pos base Ohorngrave
+        <anchor 749 637> mark @t.uni031B_3;
+    pos base ohorngrave
+        <anchor 302 455> mark @t.uni031B_3;
+    pos base Ohornhoi
+        <anchor 749 637> mark @t.uni031B_3;
+    pos base ohornhoi
+        <anchor 339 455> mark @t.uni031B_3;
+    pos base Ohorntilde
+        <anchor 748 637> mark @t.uni031B_3;
+    pos base ohorntilde
+        <anchor 375 455> mark @t.uni031B_3;
+    pos base Ohorndotbelow
+        <anchor 748 637> mark @t.uni031B_3;
+    pos base ohorndotbelow
+        <anchor 375 455> mark @t.uni031B_3;
+    pos base Udotbelow
+        <anchor 645 668> mark @t.uni031B_3;
+    pos base udotbelow
+        <anchor 445 472> mark @t.uni031B_3;
+    pos base Uhoi
+        <anchor 643 668> mark @t.uni031B_3;
+    pos base uhoi
+        <anchor 443 472> mark @t.uni031B_3;
+    pos base Uhornacute
+        <anchor 775 725> mark @t.uni031B_3;
+    pos base uhornacute
+        <anchor 597 529> mark @t.uni031B_3;
+    pos base Uhorngrave
+        <anchor 775 725> mark @t.uni031B_3;
+    pos base uhorngrave
+        <anchor 597 529> mark @t.uni031B_3;
+    pos base Uhornhoi
+        <anchor 773 725> mark @t.uni031B_3;
+    pos base uhornhoi
+        <anchor 591 529> mark @t.uni031B_3;
+    pos base Uhorntilde
+        <anchor 769 725> mark @t.uni031B_3;
+    pos base uhorntilde
+        <anchor 597 529> mark @t.uni031B_3;
+    pos base Uhorndotbelow
+        <anchor 768 725> mark @t.uni031B_3;
+    pos base uhorndotbelow
+        <anchor 580 529> mark @t.uni031B_3;
+  } mark_11;";
+tag = mark;
+},
+{
+code = "# GPOS feature: Mark to Mark Positioning
+# Lookups: 3
+
+
+  lookup mkmk_1 {
+  # GPOS lookup 12, type 6 (MarkToMark attachment)
+    lookupflag UseMarkFilteringSet @mkmk;
+    markClass palatalhookcomb <anchor -206 0> @b.uni0321_3;
+    markClass dotbelowcomb <anchor -239 -26> @b.uni0321_3;
+    markClass dieresisbelowcomb <anchor -325 -50> @b.uni0321_3;
+    markClass commaaccentcomb <anchor -229 -20> @b.uni0321_3;
+    markClass cedillacomb <anchor -218 0> @b.uni0321_3;
+    markClass macronbelowcomb <anchor -285 0> @b.uni0321_3;
+    pos mark palatalhookcomb
+        <anchor -206 -173> mark @b.uni0321_3;
+    pos mark dotbelowcomb
+        <anchor -239 -267> mark @b.uni0321_3;
+    pos mark dieresisbelowcomb
+        <anchor -325 -216> mark @b.uni0321_3;
+    pos mark commaaccentcomb
+        <anchor -219 -371> mark @b.uni0321_3;
+    pos mark cedillacomb
+        <anchor -218 -210> mark @b.uni0321_3;
+    pos mark macronbelowcomb
+        <anchor -285 -165> mark @b.uni0321_3;
+  } mkmk_1;
+
+
+  lookup mkmk_2 {
+  # GPOS lookup 13, type 6 (MarkToMark attachment)
+    lookupflag UseMarkFilteringSet @mkmk2;
+    markClass gravecomb <anchor -250 449> @t.uni0302;
+    markClass acutecomb <anchor -261 450> @t.uni0302;
+    markClass circumflexcomb <anchor -240 467> @t.uni0302;
+    markClass tildecomb <anchor -289 457> @t.uni0302;
+    markClass macroncomb <anchor -283 479> @t.uni0302;
+    markClass brevecomb <anchor -216 467> @t.uni0302;
+    markClass dotaccentcomb <anchor -234 463> @t.uni0302;
+    markClass dieresiscomb <anchor -263 471> @t.uni0302;
+    markClass hookabovecomb <anchor -251 487> @t.uni0302;
+    markClass ringcomb <anchor -332 467> @t.uni0302;
+    markClass hungarumlautcomb <anchor -358 447> @t.uni0302;
+    markClass caroncomb <anchor -287 477> @t.uni0302;
+    markClass dblgravecomb <anchor -296 487> @t.uni0302;
+    markClass breveinvertedcomb <anchor -217 502> @t.uni0302;
+    markClass commaturnedabovecomb <anchor -218 511> @t.uni0302;
+    markClass brevebelowcomb <anchor -216 -323> @t.uni0302;
+    markClass brevecomb_acutecomb <anchor -216 467> @t.uni0302;
+    markClass brevecomb_gravecomb <anchor -216 467> @t.uni0302;
+    markClass brevecomb_hookabovecomb <anchor -219 467> @t.uni0302;
+    markClass brevecomb_tildecomb <anchor -218 467> @t.uni0302;
+    markClass circumflexcomb_acutecomb <anchor -240 468> @t.uni0302;
+    markClass circumflexcomb_gravecomb <anchor -240 468> @t.uni0302;
+    markClass circumflexcomb_hookabovecomb <anchor -243 467> @t.uni0302;
+    markClass circumflexcomb_tildecomb <anchor -242 467> @t.uni0302;
+    pos mark gravecomb
+        <anchor -259 756> mark @t.uni0302;
+    pos mark acutecomb
+        <anchor -261 750> mark @t.uni0302;
+    pos mark circumflexcomb
+        <anchor -240 670> mark @t.uni0302;
+    pos mark tildecomb
+        <anchor -289 655> mark @t.uni0302;
+    pos mark macroncomb
+        <anchor -283 670> mark @t.uni0302;
+    pos mark brevecomb
+        <anchor -216 646> mark @t.uni0302;
+    pos mark dotaccentcomb
+        <anchor -235 638> mark @t.uni0302;
+    pos mark dieresiscomb
+        <anchor -263 645> mark @t.uni0302;
+    pos mark hookabovecomb
+        <anchor -251 769> mark @t.uni0302;
+    pos mark ringcomb
+        <anchor -332 745> mark @t.uni0302;
+    pos mark hungarumlautcomb
+        <anchor -282 752> mark @t.uni0302;
+    pos mark caroncomb
+        <anchor -287 686> mark @t.uni0302;
+    pos mark dblgravecomb
+        <anchor -296 744> mark @t.uni0302;
+    pos mark breveinvertedcomb
+        <anchor -217 756> mark @t.uni0302;
+    pos mark commaturnedabovecomb
+        <anchor -218 810> mark @t.uni0302;
+    pos mark brevebelowcomb
+        <anchor -216 -144> mark @t.uni0302;
+    pos mark brevecomb_acutecomb
+        <anchor -216 945> mark @t.uni0302;
+    pos mark brevecomb_gravecomb
+        <anchor -225 952> mark @t.uni0302;
+    pos mark brevecomb_hookabovecomb
+        <anchor -219 927> mark @t.uni0302;
+    pos mark brevecomb_tildecomb
+        <anchor -218 843> mark @t.uni0302;
+    pos mark circumflexcomb_acutecomb
+        <anchor -240 969> mark @t.uni0302;
+    pos mark circumflexcomb_gravecomb
+        <anchor -248 976> mark @t.uni0302;
+    pos mark circumflexcomb_hookabovecomb
+        <anchor -243 951> mark @t.uni0302;
+    pos mark circumflexcomb_tildecomb
+        <anchor -242 867> mark @t.uni0302;
+  } mkmk_2;
+
+
+  lookup mkmk_3 {
+  # GPOS lookup 14, type 6 (MarkToMark attachment)
+    lookupflag UseMarkFilteringSet @mkmk3;
+    markClass horncomb <anchor 48 431> @m.uni031B;
+    markClass caroncomb.alt <anchor -173 670> @m.uni031B;
+    pos mark horncomb
+        <anchor 130 488> mark @m.uni031B;
+  } mkmk_3;";
+tag = mkmk;
+},
+{
+code = "# GPOS feature: Kerning
+# Lookups: 1
+
+@_comma = [comma period colon semicolon quotedblbase ellipsis periodcentered commaaccentcomb dieresisbelowcomb periodcentered.loclCAT commercialminussign];
+@_quoteleft = [quoteleft quoteright quotedblleft];
+@_quotedblright = [quotesinglbase quotedblright];
+@_seven = [seven seven.lf];
+@_six = [six six.lf];
+@_A = [A Agrave Aacute Acircumflex Atilde Adieresis Aring Amacron Aogonek Abreve Aringacute Adblgrave Ainvertedbreve Adotbelow Ahoi Acircumflexacute Acircumflexgrave Acircumflexhoi Acircumflextilde Acircumflexdotbelow Abreveacute Abrevegrave Abrevehoi Abrevetilde Abrevedotbelow];
+@_G = [G Gcommaaccent Gbreve Gcircumflex Gdotaccent Gcaron];
+@_J = [J IJ Jcircumflex LJ NJ];
+@_K = [K Kcommaaccent];
+@_L = [Lslash L Lcommaaccent Lcaron Lacute Ldot];
+@_D = [D O Q Eth Ograve Oacute Ocircumflex Otilde Odieresis Oslash Dcaron Ohungarumlaut Omacron Dcroat Obreve Oslashacute Ohorn Oogonek Odblgrave Oinvertedbreve Odieresismacron Otildemacron Odotaccentmacron Odotbelow Ohoi Ocircumflexacute Ocircumflexgrave Ocircumflexhoi Ocircumflextilde Ocircumflexdotbelow Ohornacute Ohorngrave Ohornhoi Ohorntilde Ohorndotbelow Schwa];
+@_R = [R Racute Rcaron Rcommaaccent Rdblgrave Rinvertedbreve];
+@_T = [T Tcaron Tcommaaccent Tcedilla Tbar];
+@_U = [U Ugrave Uacute Ucircumflex Udieresis Umacron Uring Uhungarumlaut Uogonek Utilde Ubreve Uhorn Udblgrave Uinvertedbreve Udotbelow Uhoi Uhornacute Uhorngrave Uhornhoi Uhorntilde Uhorndotbelow];
+@_V = [V W];
+@_Wgrave = [Wcircumflex Wgrave Wacute Wdieresis];
+@_Y = [Y Ydieresis Yacute Ycircumflex Ygrave Ymacron Ydotbelow Yhoi Ytilde];
+@_Z = [Zcaron Z Zacute Zdotaccent DZ DZcaron];
+@_e = [e oe ae egrave eacute ecircumflex edieresis emacron edotaccent ecaron eogonek ebreve aeacute edblgrave einvertedbreve edotbelow ehoi etilde ecircumflexacute ecircumflexgrave ecircumflexhoi ecircumflextilde ecircumflexdotbelow];
+@_f = [f f_f];
+@_g = [g gcommaaccent gbreve gcircumflex gdotaccent gcaron];
+@_k = [k kcommaaccent kgreenlandic];
+@_a = [a h m n agrave aacute acircumflex atilde adieresis aring ntilde amacron aogonek ncommaaccent nacute ncaron abreve hcircumflex hbar aringacute adblgrave ainvertedbreve adotbelow ahoi acircumflexacute acircumflexgrave acircumflexhoi acircumflextilde acircumflexdotbelow abreveacute abrevegrave abrevehoi abrevetilde abrevedotbelow];
+@_b = [b o p ograve oacute ocircumflex otilde odieresis oslash thorn ohungarumlaut omacron obreve oslashacute ohorn oogonek odblgrave oinvertedbreve odieresismacron otildemacron odotaccentmacron odotbelow ohoi ocircumflexacute ocircumflexgrave ocircumflexhoi ocircumflextilde ocircumflexdotbelow ohornacute ohorngrave ohornhoi ohorntilde ohorndotbelow];
+@_r = [r racute rcaron rcommaaccent rdblgrave rinvertedbreve];
+@_s = [s scaron sacute scommaaccent scedilla scircumflex];
+@_t = [t tcaron tcommaaccent tcedilla tbar];
+@_v = [v w];
+@_wgrave = [wcircumflex wgrave wacute wdieresis];
+@_y = [y yacute ydieresis ycircumflex ygrave ymacron ydotbelow yhoi ytilde];
+@_z = [zcaron z zacute zdotaccent Dz dz];
+@_A2 = [A Agrave Aacute Acircumflex Atilde Adieresis Aring AE Amacron Aogonek Abreve Aringacute AEacute Adblgrave Ainvertedbreve Adotbelow Ahoi Acircumflexacute Acircumflexgrave Acircumflexhoi Acircumflextilde Acircumflexdotbelow Abreveacute Abrevegrave Abrevehoi Abrevetilde Abrevedotbelow];
+@_J2 = [J Jcircumflex];
+@_uni0326 = [semicolon commaaccentcomb];
+@_four = [four four.lf];
+@_comma2 = [comma period colon quotedblbase ellipsis periodcentered dieresisbelowcomb commercialminussign];
+@_nine = [nine nine.lf];
+@_B = [Lslash B D E F H I K L N P R Egrave Eacute Ecircumflex Edieresis Igrave Iacute Icircumflex Idieresis Eth Ntilde Thorn numero Dcaron Emacron Edotaccent Ecaron Eogonek Iogonek Imacron Kcommaaccent Lcommaaccent Lcaron Lacute Ncommaaccent Nacute Ncaron Racute Rcaron Rcommaaccent Dcroat Idotaccent Ebreve Hcircumflex Hbar Itilde Ibreve IJ Ldot Dzcaron LJ Lj NJ Nj DZ Dz Edblgrave Einvertedbreve Idblgrave Iinvertedbreve Rdblgrave Rinvertedbreve Edotbelow Ehoi Etilde Ecircumflexacute Ecircumflexgrave Ecircumflexhoi Ecircumflextilde Ecircumflexdotbelow Ihoi Idotbelow DZcaron];
+@_C = [C G O Q OE Ccedilla Ograve Oacute Ocircumflex Otilde Odieresis Oslash Ccaron Cacute Ohungarumlaut Omacron Gcommaaccent Gbreve Ccircumflex Cdotaccent Gcircumflex Gdotaccent Obreve Oslashacute Ohorn Gcaron Oogonek Odblgrave Oinvertedbreve Odieresismacron Otildemacron Odotaccentmacron Odotbelow Ohoi Ocircumflexacute Ocircumflexgrave Ocircumflexhoi Ocircumflextilde Ocircumflexdotbelow Ohornacute Ohorngrave Ohornhoi Ohorntilde Ohorndotbelow Schwa];
+@_a2 = [a agrave aacute acircumflex atilde adieresis aring ae amacron aogonek abreve aringacute aeacute adblgrave ainvertedbreve adotbelow ahoi acircumflexacute acircumflexgrave acircumflexhoi acircumflextilde acircumflexdotbelow abreveacute abrevegrave abrevehoi abrevetilde abrevedotbelow];
+@_c = [c d e o q oe cent ccedilla egrave eacute ecircumflex edieresis ograve oacute ocircumflex otilde odieresis oslash ccaron cacute dcaron emacron edotaccent ecaron eogonek ohungarumlaut omacron dcroat ccircumflex cdotaccent ebreve obreve oslashacute ohorn oogonek dz edblgrave einvertedbreve odblgrave oinvertedbreve odieresismacron otildemacron odotaccentmacron edotbelow ehoi etilde ecircumflexacute ecircumflexgrave ecircumflexhoi ecircumflextilde ecircumflexdotbelow odotbelow ohoi ocircumflexacute ocircumflexgrave ocircumflexhoi ocircumflextilde ocircumflexdotbelow ohornacute ohorngrave ohornhoi ohorntilde ohorndotbelow dzcaron];
+@_S = [S Scaron Sacute Scommaaccent Scedilla Scircumflex];
+@_Z2 = [Zcaron Z Zacute Zdotaccent];
+@_m = [m n r ntilde ncommaaccent nacute ncaron racute rcaron rcommaaccent eng nj rdblgrave rinvertedbreve];
+@_u = [u ugrave uacute ucircumflex udieresis umacron uring uhungarumlaut uogonek utilde ubreve uhorn udblgrave uinvertedbreve udotbelow uhoi uhornacute uhorngrave uhornhoi uhorntilde uhorndotbelow];
+@_z2 = [zcaron z zacute zdotaccent];
+@_i = [i ij idotbelow];
+@_f2 = [fi fl f f_f f_f_i f_f_l f_f_ij f_joint];
+
+
+  lookup kern {
+  # GPOS lookup 15, type 2 (Pair adjustment)
+
+    lookupflag IgnoreMarks;
+    pos parenleft y 60;
+    pos parenleft yacute 60;
+    pos parenleft ydieresis 60;
+    pos parenleft ycircumflex 60;
+    pos parenleft ymacron 60;
+    pos parenleft ygrave 60;
+    pos parenleft ydotbelow 60;
+    pos parenleft yhoi 60;
+    pos parenleft ytilde 60;
+    pos comma j 100;
+    pos period j 100;
+    pos colon j 100;
+    pos semicolon j 100;
+    pos A X -20;
+    pos D X -19;
+    pos F comma -60;
+    pos F period -60;
+    pos F colon -60;
+    pos F A -37;
+    pos F a -50;
+    pos F c -60;
+    pos F d -60;
+    pos F e -60;
+    pos F i -40;
+    pos F j -60;
+    pos F m -40;
+    pos F n -40;
+    pos F o -60;
+    pos F q -60;
+    pos F r -40;
+    pos F u -40;
+    pos F cent -60;
+    pos F periodcentered -60;
+    pos F Agrave -37;
+    pos F Aacute -37;
+    pos F Acircumflex -37;
+    pos F Atilde -37;
+    pos F Adieresis -37;
+    pos F Aring -37;
+    pos F AE -37;
+    pos F agrave -50;
+    pos F aacute -50;
+    pos F acircumflex -50;
+    pos F atilde -50;
+    pos F adieresis -50;
+    pos F aring -50;
+    pos F ae -50;
+    pos F ccedilla -60;
+    pos F egrave -60;
+    pos F eacute -60;
+    pos F ecircumflex -60;
+    pos F edieresis -60;
+    pos F ntilde -40;
+    pos F ograve -60;
+    pos F oacute -60;
+    pos F ocircumflex -60;
+    pos F otilde -60;
+    pos F odieresis -60;
+    pos F oslash -60;
+    pos F ugrave -40;
+    pos F uacute -40;
+    pos F ucircumflex -40;
+    pos F udieresis -40;
+    pos F Amacron -37;
+    pos F amacron -50;
+    pos F Abreve -37;
+    pos F abreve -50;
+    pos F Aogonek -37;
+    pos F aogonek -50;
+    pos F cacute -60;
+    pos F ccircumflex -60;
+    pos F cdotaccent -60;
+    pos F ccaron -60;
+    pos F dcaron -60;
+    pos F dcroat -60;
+    pos F emacron -60;
+    pos F ebreve -60;
+    pos F edotaccent -60;
+    pos F eogonek -60;
+    pos F ecaron -60;
+    pos F ij -40;
+    pos F nacute -40;
+    pos F ncommaaccent -40;
+    pos F ncaron -40;
+    pos F eng -40;
+    pos F omacron -60;
+    pos F obreve -60;
+    pos F ohungarumlaut -60;
+    pos F oe -60;
+    pos F racute -40;
+    pos F rcommaaccent -40;
+    pos F rcaron -40;
+    pos F utilde -40;
+    pos F umacron -40;
+    pos F ubreve -40;
+    pos F uring -40;
+    pos F uhungarumlaut -40;
+    pos F uogonek -40;
+    pos F ohorn -60;
+    pos F uhorn -40;
+    pos F dzcaron -60;
+    pos F nj -40;
+    pos F oogonek -60;
+    pos F dz -60;
+    pos F Aringacute -37;
+    pos F aringacute -50;
+    pos F AEacute -37;
+    pos F aeacute -50;
+    pos F oslashacute -60;
+    pos F Adblgrave -37;
+    pos F adblgrave -50;
+    pos F Ainvertedbreve -37;
+    pos F ainvertedbreve -50;
+    pos F edblgrave -60;
+    pos F einvertedbreve -60;
+    pos F odblgrave -60;
+    pos F oinvertedbreve -60;
+    pos F rdblgrave -40;
+    pos F rinvertedbreve -40;
+    pos F udblgrave -40;
+    pos F uinvertedbreve -40;
+    pos F odieresismacron -60;
+    pos F otildemacron -60;
+    pos F odotaccentmacron -60;
+    pos F dieresisbelowcomb -60;
+    pos F Adotbelow -37;
+    pos F adotbelow -50;
+    pos F Ahoi -37;
+    pos F ahoi -50;
+    pos F Acircumflexacute -37;
+    pos F acircumflexacute -50;
+    pos F Acircumflexgrave -37;
+    pos F acircumflexgrave -50;
+    pos F Acircumflexhoi -37;
+    pos F acircumflexhoi -50;
+    pos F Acircumflextilde -37;
+    pos F acircumflextilde -50;
+    pos F Acircumflexdotbelow -37;
+    pos F acircumflexdotbelow -50;
+    pos F Abreveacute -37;
+    pos F abreveacute -50;
+    pos F Abrevegrave -37;
+    pos F abrevegrave -50;
+    pos F Abrevehoi -37;
+    pos F abrevehoi -50;
+    pos F Abrevetilde -37;
+    pos F abrevetilde -50;
+    pos F Abrevedotbelow -37;
+    pos F abrevedotbelow -50;
+    pos F edotbelow -60;
+    pos F ehoi -60;
+    pos F etilde -60;
+    pos F ecircumflexacute -60;
+    pos F ecircumflexgrave -60;
+    pos F ecircumflexhoi -60;
+    pos F ecircumflextilde -60;
+    pos F ecircumflexdotbelow -60;
+    pos F idotbelow -40;
+    pos F odotbelow -60;
+    pos F ohoi -60;
+    pos F ocircumflexacute -60;
+    pos F ocircumflexgrave -60;
+    pos F ocircumflexhoi -60;
+    pos F ocircumflextilde -60;
+    pos F ocircumflexdotbelow -60;
+    pos F ohornacute -60;
+    pos F ohorngrave -60;
+    pos F ohornhoi -60;
+    pos F ohorntilde -60;
+    pos F ohorndotbelow -60;
+    pos F udotbelow -40;
+    pos F uhoi -40;
+    pos F uhornacute -40;
+    pos F uhorngrave -40;
+    pos F uhornhoi -40;
+    pos F uhorntilde -40;
+    pos F uhorndotbelow -40;
+    pos F quotedblbase -60;
+    pos F ellipsis -60;
+    pos F commercialminussign -60;
+    pos K X -23;
+    pos O X -19;
+    pos P comma -120;
+    pos P period -120;
+    pos P colon -120;
+    pos P A -37;
+    pos P Y -17;
+    pos P a -40;
+    pos P c -40;
+    pos P d -40;
+    pos P e -40;
+    pos P j -40;
+    pos P o -40;
+    pos P q -40;
+    pos P s -17;
+    pos P cent -40;
+    pos P periodcentered -120;
+    pos P Agrave -37;
+    pos P Aacute -37;
+    pos P Acircumflex -37;
+    pos P Atilde -37;
+    pos P Adieresis -37;
+    pos P Aring -37;
+    pos P AE -37;
+    pos P Yacute -17;
+    pos P agrave -40;
+    pos P aacute -40;
+    pos P acircumflex -40;
+    pos P atilde -40;
+    pos P adieresis -40;
+    pos P aring -40;
+    pos P ae -40;
+    pos P ccedilla -40;
+    pos P egrave -40;
+    pos P eacute -40;
+    pos P ecircumflex -40;
+    pos P edieresis -40;
+    pos P ograve -40;
+    pos P oacute -40;
+    pos P ocircumflex -40;
+    pos P otilde -40;
+    pos P odieresis -40;
+    pos P oslash -40;
+    pos P Amacron -37;
+    pos P amacron -40;
+    pos P Abreve -37;
+    pos P abreve -40;
+    pos P Aogonek -37;
+    pos P aogonek -40;
+    pos P cacute -40;
+    pos P ccircumflex -40;
+    pos P cdotaccent -40;
+    pos P ccaron -40;
+    pos P dcaron -40;
+    pos P dcroat -40;
+    pos P emacron -40;
+    pos P ebreve -40;
+    pos P edotaccent -40;
+    pos P eogonek -40;
+    pos P ecaron -40;
+    pos P omacron -40;
+    pos P obreve -40;
+    pos P ohungarumlaut -40;
+    pos P oe -40;
+    pos P sacute -17;
+    pos P scircumflex -17;
+    pos P scedilla -17;
+    pos P scaron -17;
+    pos P Ycircumflex -17;
+    pos P Ydieresis -17;
+    pos P ohorn -40;
+    pos P dzcaron -40;
+    pos P oogonek -40;
+    pos P dz -40;
+    pos P Aringacute -37;
+    pos P aringacute -40;
+    pos P AEacute -37;
+    pos P aeacute -40;
+    pos P oslashacute -40;
+    pos P Adblgrave -37;
+    pos P adblgrave -40;
+    pos P Ainvertedbreve -37;
+    pos P ainvertedbreve -40;
+    pos P edblgrave -40;
+    pos P einvertedbreve -40;
+    pos P odblgrave -40;
+    pos P oinvertedbreve -40;
+    pos P scommaaccent -17;
+    pos P odieresismacron -40;
+    pos P otildemacron -40;
+    pos P odotaccentmacron -40;
+    pos P Ymacron -17;
+    pos P dieresisbelowcomb -120;
+    pos P Adotbelow -37;
+    pos P adotbelow -40;
+    pos P Ahoi -37;
+    pos P ahoi -40;
+    pos P Acircumflexacute -37;
+    pos P acircumflexacute -40;
+    pos P Acircumflexgrave -37;
+    pos P acircumflexgrave -40;
+    pos P Acircumflexhoi -37;
+    pos P acircumflexhoi -40;
+    pos P Acircumflextilde -37;
+    pos P acircumflextilde -40;
+    pos P Acircumflexdotbelow -37;
+    pos P acircumflexdotbelow -40;
+    pos P Abreveacute -37;
+    pos P abreveacute -40;
+    pos P Abrevegrave -37;
+    pos P abrevegrave -40;
+    pos P Abrevehoi -37;
+    pos P abrevehoi -40;
+    pos P Abrevetilde -37;
+    pos P abrevetilde -40;
+    pos P Abrevedotbelow -37;
+    pos P abrevedotbelow -40;
+    pos P edotbelow -40;
+    pos P ehoi -40;
+    pos P etilde -40;
+    pos P ecircumflexacute -40;
+    pos P ecircumflexgrave -40;
+    pos P ecircumflexhoi -40;
+    pos P ecircumflextilde -40;
+    pos P ecircumflexdotbelow -40;
+    pos P odotbelow -40;
+    pos P ohoi -40;
+    pos P ocircumflexacute -40;
+    pos P ocircumflexgrave -40;
+    pos P ocircumflexhoi -40;
+    pos P ocircumflextilde -40;
+    pos P ocircumflexdotbelow -40;
+    pos P ohornacute -40;
+    pos P ohorngrave -40;
+    pos P ohornhoi -40;
+    pos P ohorntilde -40;
+    pos P ohorndotbelow -40;
+    pos P Ygrave -17;
+    pos P Ydotbelow -17;
+    pos P Yhoi -17;
+    pos P Ytilde -17;
+    pos P quotedblbase -120;
+    pos P ellipsis -120;
+    pos P commercialminussign -120;
+    pos Q X -19;
+    pos R X -9;
+    pos R j -17;
+    pos T j -17;
+    pos T x -17;
+    pos X A -20;
+    pos X C -19;
+    pos X G -19;
+    pos X O -19;
+    pos X Q -19;
+    pos X c -9;
+    pos X d -9;
+    pos X e -9;
+    pos X j -40;
+    pos X o -9;
+    pos X q -9;
+    pos X cent -9;
+    pos X Agrave -20;
+    pos X Aacute -20;
+    pos X Acircumflex -20;
+    pos X Atilde -20;
+    pos X Adieresis -20;
+    pos X Aring -20;
+    pos X AE -20;
+    pos X Ccedilla -19;
+    pos X Ograve -19;
+    pos X Oacute -19;
+    pos X Ocircumflex -19;
+    pos X Otilde -19;
+    pos X Odieresis -19;
+    pos X Oslash -19;
+    pos X ccedilla -9;
+    pos X egrave -9;
+    pos X eacute -9;
+    pos X ecircumflex -9;
+    pos X edieresis -9;
+    pos X ograve -9;
+    pos X oacute -9;
+    pos X ocircumflex -9;
+    pos X otilde -9;
+    pos X odieresis -9;
+    pos X oslash -9;
+    pos X Amacron -20;
+    pos X Abreve -20;
+    pos X Aogonek -20;
+    pos X Cacute -19;
+    pos X cacute -9;
+    pos X Ccircumflex -19;
+    pos X ccircumflex -9;
+    pos X Cdotaccent -19;
+    pos X cdotaccent -9;
+    pos X Ccaron -19;
+    pos X ccaron -9;
+    pos X dcaron -9;
+    pos X dcroat -9;
+    pos X emacron -9;
+    pos X ebreve -9;
+    pos X edotaccent -9;
+    pos X eogonek -9;
+    pos X ecaron -9;
+    pos X Gcircumflex -19;
+    pos X Gbreve -19;
+    pos X Gdotaccent -19;
+    pos X Gcommaaccent -19;
+    pos X Omacron -19;
+    pos X omacron -9;
+    pos X Obreve -19;
+    pos X obreve -9;
+    pos X Ohungarumlaut -19;
+    pos X ohungarumlaut -9;
+    pos X OE -19;
+    pos X oe -9;
+    pos X Schwa -19;
+    pos X Ohorn -19;
+    pos X ohorn -9;
+    pos X dzcaron -9;
+    pos X Gcaron -19;
+    pos X Oogonek -19;
+    pos X oogonek -9;
+    pos X dz -9;
+    pos X Aringacute -20;
+    pos X AEacute -20;
+    pos X Oslashacute -19;
+    pos X oslashacute -9;
+    pos X Adblgrave -20;
+    pos X Ainvertedbreve -20;
+    pos X edblgrave -9;
+    pos X einvertedbreve -9;
+    pos X Odblgrave -19;
+    pos X odblgrave -9;
+    pos X Oinvertedbreve -19;
+    pos X oinvertedbreve -9;
+    pos X Odieresismacron -19;
+    pos X odieresismacron -9;
+    pos X Otildemacron -19;
+    pos X otildemacron -9;
+    pos X Odotaccentmacron -19;
+    pos X odotaccentmacron -9;
+    pos X Adotbelow -20;
+    pos X Ahoi -20;
+    pos X Acircumflexacute -20;
+    pos X Acircumflexgrave -20;
+    pos X Acircumflexhoi -20;
+    pos X Acircumflextilde -20;
+    pos X Acircumflexdotbelow -20;
+    pos X Abreveacute -20;
+    pos X Abrevegrave -20;
+    pos X Abrevehoi -20;
+    pos X Abrevetilde -20;
+    pos X Abrevedotbelow -20;
+    pos X edotbelow -9;
+    pos X ehoi -9;
+    pos X etilde -9;
+    pos X ecircumflexacute -9;
+    pos X ecircumflexgrave -9;
+    pos X ecircumflexhoi -9;
+    pos X ecircumflextilde -9;
+    pos X ecircumflexdotbelow -9;
+    pos X Odotbelow -19;
+    pos X odotbelow -9;
+    pos X Ohoi -19;
+    pos X ohoi -9;
+    pos X Ocircumflexacute -19;
+    pos X ocircumflexacute -9;
+    pos X Ocircumflexgrave -19;
+    pos X ocircumflexgrave -9;
+    pos X Ocircumflexhoi -19;
+    pos X ocircumflexhoi -9;
+    pos X Ocircumflextilde -19;
+    pos X ocircumflextilde -9;
+    pos X Ocircumflexdotbelow -19;
+    pos X ocircumflexdotbelow -9;
+    pos X Ohornacute -19;
+    pos X ohornacute -9;
+    pos X Ohorngrave -19;
+    pos X ohorngrave -9;
+    pos X Ohornhoi -19;
+    pos X ohornhoi -9;
+    pos X Ohorntilde -19;
+    pos X ohorntilde -9;
+    pos X Ohorndotbelow -19;
+    pos X ohorndotbelow -9;
+    pos Y j -17;
+    pos Y x -40;
+    pos bracketleft j 80;
+    pos b x -9;
+    pos f parenright 50;
+    pos f asterisk 80;
+    pos f question 50;
+    pos f j -17;
+    pos f x -20;
+    pos g j 20;
+    pos i j -20;
+    pos o x -9;
+    pos p x -9;
+    pos r j -9;
+    pos r x -9;
+    pos s x -10;
+    pos v x -20;
+    pos w x -20;
+    pos x c -9;
+    pos x d -9;
+    pos x e -9;
+    pos x o -9;
+    pos x q -9;
+    pos x u -10;
+    pos x v -20;
+    pos x w -20;
+    pos x cent -9;
+    pos x ccedilla -9;
+    pos x egrave -9;
+    pos x eacute -9;
+    pos x ecircumflex -9;
+    pos x edieresis -9;
+    pos x ograve -9;
+    pos x oacute -9;
+    pos x ocircumflex -9;
+    pos x otilde -9;
+    pos x odieresis -9;
+    pos x oslash -9;
+    pos x ugrave -10;
+    pos x uacute -10;
+    pos x ucircumflex -10;
+    pos x udieresis -10;
+    pos x cacute -9;
+    pos x ccircumflex -9;
+    pos x cdotaccent -9;
+    pos x ccaron -9;
+    pos x dcaron -9;
+    pos x dcroat -9;
+    pos x emacron -9;
+    pos x ebreve -9;
+    pos x edotaccent -9;
+    pos x eogonek -9;
+    pos x ecaron -9;
+    pos x omacron -9;
+    pos x obreve -9;
+    pos x ohungarumlaut -9;
+    pos x oe -9;
+    pos x utilde -10;
+    pos x umacron -10;
+    pos x ubreve -10;
+    pos x uring -10;
+    pos x uhungarumlaut -10;
+    pos x uogonek -10;
+    pos x wcircumflex -20;
+    pos x ohorn -9;
+    pos x uhorn -10;
+    pos x dzcaron -9;
+    pos x oogonek -9;
+    pos x dz -9;
+    pos x oslashacute -9;
+    pos x edblgrave -9;
+    pos x einvertedbreve -9;
+    pos x odblgrave -9;
+    pos x oinvertedbreve -9;
+    pos x udblgrave -10;
+    pos x uinvertedbreve -10;
+    pos x odieresismacron -9;
+    pos x otildemacron -9;
+    pos x odotaccentmacron -9;
+    pos x wgrave -20;
+    pos x wacute -20;
+    pos x wdieresis -20;
+    pos x edotbelow -9;
+    pos x ehoi -9;
+    pos x etilde -9;
+    pos x ecircumflexacute -9;
+    pos x ecircumflexgrave -9;
+    pos x ecircumflexhoi -9;
+    pos x ecircumflextilde -9;
+    pos x ecircumflexdotbelow -9;
+    pos x odotbelow -9;
+    pos x ohoi -9;
+    pos x ocircumflexacute -9;
+    pos x ocircumflexgrave -9;
+    pos x ocircumflexhoi -9;
+    pos x ocircumflextilde -9;
+    pos x ocircumflexdotbelow -9;
+    pos x ohornacute -9;
+    pos x ohorngrave -9;
+    pos x ohornhoi -9;
+    pos x ohorntilde -9;
+    pos x ohorndotbelow -9;
+    pos x udotbelow -10;
+    pos x uhoi -10;
+    pos x uhornacute -10;
+    pos x uhorngrave -10;
+    pos x uhornhoi -10;
+    pos x uhorntilde -10;
+    pos x uhorndotbelow -10;
+    pos y x -23;
+    pos periodcentered j 100;
+    pos Agrave X -20;
+    pos Aacute X -20;
+    pos Acircumflex X -20;
+    pos Atilde X -20;
+    pos Adieresis X -20;
+    pos Aring X -20;
+    pos Eth X -19;
+    pos Ograve X -19;
+    pos Oacute X -19;
+    pos Ocircumflex X -19;
+    pos Otilde X -19;
+    pos Odieresis X -19;
+    pos Oslash X -19;
+    pos Yacute j -17;
+    pos Yacute x -40;
+    pos germandbls t -20;
+    pos germandbls tcedilla -20;
+    pos germandbls tcaron -20;
+    pos germandbls tbar -20;
+    pos germandbls tcommaaccent -20;
+    pos ograve x -9;
+    pos oacute x -9;
+    pos ocircumflex x -9;
+    pos otilde x -9;
+    pos odieresis x -9;
+    pos oslash x -9;
+    pos yacute x -23;
+    pos thorn x -9;
+    pos ydieresis x -23;
+    pos Amacron X -20;
+    pos Abreve X -20;
+    pos Aogonek X -20;
+    pos Dcaron X -19;
+    pos Dcroat X -19;
+    pos gcircumflex j 20;
+    pos gbreve j 20;
+    pos gdotaccent j 20;
+    pos gcommaaccent j 20;
+    pos Kcommaaccent X -23;
+    pos Omacron X -19;
+    pos omacron x -9;
+    pos Obreve X -19;
+    pos obreve x -9;
+    pos Ohungarumlaut X -19;
+    pos ohungarumlaut x -9;
+    pos Racute X -9;
+    pos Racute j -17;
+    pos racute j -9;
+    pos racute x -9;
+    pos Rcommaaccent X -9;
+    pos Rcommaaccent j -17;
+    pos rcommaaccent j -9;
+    pos rcommaaccent x -9;
+    pos Rcaron X -9;
+    pos Rcaron j -17;
+    pos rcaron j -9;
+    pos rcaron x -9;
+    pos sacute x -10;
+    pos scircumflex x -10;
+    pos scedilla x -10;
+    pos scaron x -10;
+    pos Tcedilla j -17;
+    pos Tcedilla x -17;
+    pos Tcaron j -17;
+    pos Tcaron x -17;
+    pos Tbar j -17;
+    pos Tbar x -17;
+    pos wcircumflex j -49;
+    pos wcircumflex x -20;
+    pos Ycircumflex j -17;
+    pos Ycircumflex x -40;
+    pos ycircumflex x -23;
+    pos Ydieresis j -17;
+    pos Ydieresis x -40;
+    pos Schwa X -19;
+    pos Ohorn X -19;
+    pos ohorn x -9;
+    pos gcaron j 20;
+    pos Oogonek X -19;
+    pos oogonek x -9;
+    pos Aringacute X -20;
+    pos Oslashacute X -19;
+    pos oslashacute x -9;
+    pos Adblgrave X -20;
+    pos Ainvertedbreve X -20;
+    pos Odblgrave X -19;
+    pos odblgrave x -9;
+    pos Oinvertedbreve X -19;
+    pos oinvertedbreve x -9;
+    pos Rdblgrave X -9;
+    pos Rdblgrave j -17;
+    pos rdblgrave j -9;
+    pos rdblgrave x -9;
+    pos Rinvertedbreve X -9;
+    pos Rinvertedbreve j -17;
+    pos rinvertedbreve j -9;
+    pos rinvertedbreve x -9;
+    pos scommaaccent x -10;
+    pos Tcommaaccent j -17;
+    pos Tcommaaccent x -17;
+    pos Odieresismacron X -19;
+    pos odieresismacron x -9;
+    pos Otildemacron X -19;
+    pos otildemacron x -9;
+    pos Odotaccentmacron X -19;
+    pos odotaccentmacron x -9;
+    pos Ymacron j -17;
+    pos Ymacron x -40;
+    pos ymacron x -23;
+    pos dieresisbelowcomb j 100;
+    pos commaaccentcomb j 100;
+    pos wgrave j -49;
+    pos wgrave x -20;
+    pos wacute j -49;
+    pos wacute x -20;
+    pos wdieresis j -49;
+    pos wdieresis x -20;
+    pos Adotbelow X -20;
+    pos Ahoi X -20;
+    pos Acircumflexacute X -20;
+    pos Acircumflexgrave X -20;
+    pos Acircumflexhoi X -20;
+    pos Acircumflextilde X -20;
+    pos Acircumflexdotbelow X -20;
+    pos Abreveacute X -20;
+    pos Abrevegrave X -20;
+    pos Abrevehoi X -20;
+    pos Abrevetilde X -20;
+    pos Abrevedotbelow X -20;
+    pos idotbelow j -20;
+    pos Odotbelow X -19;
+    pos odotbelow x -9;
+    pos Ohoi X -19;
+    pos ohoi x -9;
+    pos Ocircumflexacute X -19;
+    pos ocircumflexacute x -9;
+    pos Ocircumflexgrave X -19;
+    pos ocircumflexgrave x -9;
+    pos Ocircumflexhoi X -19;
+    pos ocircumflexhoi x -9;
+    pos Ocircumflextilde X -19;
+    pos ocircumflextilde x -9;
+    pos Ocircumflexdotbelow X -19;
+    pos ocircumflexdotbelow x -9;
+    pos Ohornacute X -19;
+    pos ohornacute x -9;
+    pos Ohorngrave X -19;
+    pos ohorngrave x -9;
+    pos Ohornhoi X -19;
+    pos ohornhoi x -9;
+    pos Ohorntilde X -19;
+    pos ohorntilde x -9;
+    pos Ohorndotbelow X -19;
+    pos ohorndotbelow x -9;
+    pos Ygrave j -17;
+    pos Ygrave x -40;
+    pos ygrave x -23;
+    pos Ydotbelow j -17;
+    pos Ydotbelow x -40;
+    pos ydotbelow x -23;
+    pos Yhoi j -17;
+    pos Yhoi x -40;
+    pos yhoi x -23;
+    pos Ytilde j -17;
+    pos Ytilde x -40;
+    pos ytilde x -23;
+    pos quotesinglbase j 100;
+    pos quotedblright j 100;
+    pos quotedblbase j 100;
+    pos ellipsis j 100;
+    pos commercialminussign j 100;
+    pos fi j -20;
+    pos f_f parenright 50;
+    pos f_f asterisk 80;
+    pos f_f question 50;
+    pos f_f j -17;
+    pos f_f x -20;
+    pos periodcentered.loclCAT j 100;
+
+    subtable;
+
+    pos @_seven @_four -17;
+    pos @_quotedblright @_V -120;
+    pos @_seven @_uni0326 -60;
+    pos @_six @_nine -37;
+    pos @_six @_seven -17;
+    pos @_K @_v -17;
+    pos @_K @_V -40;
+    pos @_V @_J2 -57;
+    pos @_f @_i -30;
+    pos @_quoteleft @_J2 -120;
+    pos @_f @_quoteleft 80;
+    pos @_Wgrave @_J2 -80;
+    pos @_K @_Wgrave -40;
+    pos @_quotedblright @_Wgrave -120;
+    pos @_K @_wgrave -40;
+    pos @_f @_z2 -50;
+    pos @_T p -40;
+    pos @_V @_z2 -40;
+    pos @_T @_J2 -60;
+    pos @_quotedblright @_T -120;
+    pos @_K @_t -9;
+    pos @_K @_T -40;
+    pos @_k @_wgrave -10;
+    pos @_T @_v -17;
+    pos @_z @_v -20;
+    pos @_L @_v -17;
+    pos @_G @_V -20;
+    pos @_f @_s -30;
+    pos @_L @_V -57;
+    pos @_f @_g -40;
+    pos @_K @_S -30;
+    pos @_R @_V -17;
+    pos @_Wgrave @_z2 -40;
+    pos @_v @_s -20;
+    pos @_V @_s -60;
+    pos @_s @_v -20;
+    pos @_T @_z2 -17;
+    pos @_T @_wgrave -80;
+    pos @_k @_s -30;
+    pos @_v @_comma2 -60;
+    pos @_seven @_comma2 -100;
+    pos @_f @_f2 -103;
+    pos @_Y p -17;
+    pos @_f @_comma2 -80;
+    pos @_R @_Wgrave -50;
+    pos @_L @_wgrave -40;
+    pos @_Wgrave @_s -60;
+    pos @_T @_t -40;
+    pos @_G @_Wgrave -20;
+    pos @_Wgrave @_g -60;
+    pos @_L @_Wgrave -100;
+    pos @_s @_wgrave -20;
+    pos @_V @_comma2 -120;
+    pos @_wgrave @_s -20;
+    pos @_wgrave @_g -19;
+    pos @_T @_s -60;
+    pos @_T @_g -37;
+    pos @_Y @_J2 -37;
+    pos @_V @_y -40;
+    pos @_quotedblright @_Y -120;
+    pos @_v @_y -20;
+    pos @_K @_Y -40;
+    pos @_L @_T -57;
+    pos @_R @_T -17;
+    pos @_Y @_v -17;
+    pos @_y @_v -20;
+    pos @_wgrave @_comma2 -60;
+    pos @_Wgrave @_comma2 -120;
+    pos @_k @_y -20;
+    pos @_g @_g 21;
+    pos @_comma @_V -120;
+    pos @_T @_comma2 -60;
+    pos @_Y @_z2 -40;
+    pos @_Wgrave @_y -40;
+    pos @_Y @_Z2 -20;
+    pos @_wgrave @_y -20;
+    pos @_Y @_wgrave -40;
+    pos @_r @_comma2 -60;
+    pos @_T @_y -17;
+    pos @_Y @_t -17;
+    pos @_r @_y -20;
+    pos @_s @_y -20;
+    pos @_Y @_s -17;
+    pos @_Y @_S -20;
+    pos @_L @_Y -57;
+    pos @_comma @_Wgrave -120;
+    pos @_R @_Y -17;
+    pos @_L @_y -40;
+    pos @_G @_Y -20;
+    pos @_comma @_T -120;
+    pos @_Y @_comma2 -120;
+    pos @_y @_comma2 -60;
+    pos @_Y @_y -40;
+    pos @_T @_m -9;
+    pos @_comma @_Y -120;
+    pos @_f @_u -20;
+    pos @_K @_U -40;
+    pos @_Y @_m -17;
+    pos @_k @_u -20;
+    pos @_Wgrave @_u -30;
+    pos @_e @_v -20;
+    pos @_T @_u -40;
+    pos @_e @_wgrave -20;
+    pos @_L @_U -20;
+    pos @_R @_U -9;
+    pos @_A @_V -37;
+    pos @_A @_v -80;
+    pos @_V @_A2 -37;
+    pos @_f @_a2 -9;
+    pos @_A @_wgrave -80;
+    pos @_K @_a2 -40;
+    pos @_K @_A2 -9;
+    pos @_V @_a2 -60;
+    pos @_v @_a2 -9;
+    pos @_A @_Wgrave -100;
+    pos @_k @_a2 -30;
+    pos @_A @_T -37;
+    pos @_Y @_u -17;
+    pos @_quoteleft @_A2 -120;
+    pos @_Wgrave @_A2 -100;
+    pos @_Wgrave @_a2 -60;
+    pos @_wgrave @_a2 -20;
+    pos @_J @_A2 -20;
+    pos @_T @_a2 -17;
+    pos @_T @_A2 -37;
+    pos @_L @_A2 -20;
+    pos @_R @_A2 -9;
+    pos @_r @_a2 -9;
+    pos @_A @_y -60;
+    pos @_A @_Y -37;
+    pos @_b @_v -9;
+    pos @_y @_a2 -20;
+    pos @_Y @_a2 -35;
+    pos @_Y @_A2 -37;
+    pos @_a @_v -9;
+    pos @_b @_quoteleft -60;
+    pos @_b @_wgrave -30;
+    pos @_D @_V -19;
+    pos @_a @_wgrave -40;
+    pos @_a @_t -9;
+    pos @_b @_g -9;
+    pos @_D @_Z2 -20;
+    pos @_D @_Wgrave -41;
+    pos @_D @_T -20;
+    pos @_b @_y -20;
+    pos @_D @_Y -19;
+    pos @_A @_U -17;
+    pos @_V @_C -19;
+    pos @_K @_C -9;
+    pos @_U @_A2 -17;
+    pos @_Wgrave @_C -30;
+    pos @_T @_C -20;
+    pos @_L @_C -9;
+    pos @_Z @_C -20;
+    pos @_R @_C -9;
+    pos @_Y @_C -19;
+    pos @_D @_A2 -17;
+    pos @_f @_c -9;
+    pos @_K @_c -17;
+    pos @_v @_c -9;
+    pos @_V @_c -37;
+    pos @_k @_c -9;
+    pos @_wgrave @_c -30;
+    pos @_Wgrave @_c -83;
+    pos @_t @_c -20;
+    pos @_T @_c -37;
+    pos @_R @_c -9;
+    pos @_A @_C -17;
+    pos @_g @_c -10;
+    pos @_r @_c -9;
+    pos @_Y @_c -37;
+    pos @_y @_c -20;
+    pos @_A @_B -9;
+  } kern;";
+tag = kern;
+}
+);
+fontMaster = (
+{
+axesValues = (
+200
+);
+customParameters = (
+{
+name = typoAscender;
+value = 950;
+},
+{
+name = typoDescender;
+value = -250;
+},
+{
+name = typoLineGap;
+value = 200;
+},
+{
+name = winAscent;
+value = 1050;
+},
+{
+name = winDescent;
+value = 350;
+},
+{
+name = underlineThickness;
+value = 50;
+},
+{
+name = underlinePosition;
+value = -100;
+},
+{
+name = strikeoutPosition;
+value = 235;
+},
+{
+name = strikeoutSize;
+value = 50;
+},
+{
+name = subscriptXOffset;
+value = 0;
+},
+{
+name = subscriptXSize;
+value = 650;
+},
+{
+name = subscriptYOffset;
+value = 75;
+},
+{
+name = subscriptYSize;
+value = 600;
+},
+{
+name = superscriptXOffset;
+value = 0;
+},
+{
+name = superscriptXSize;
+value = 650;
+},
+{
+name = superscriptYOffset;
+value = 350;
+},
+{
+name = superscriptYSize;
+value = 600;
+},
+{
+name = hheaAscender;
+value = 950;
+},
+{
+name = hheaDescender;
+value = -250;
+},
+{
+name = hheaLineGap;
+value = 200;
+},
+{
+name = "Alignment Zones";
+value = (
+{
+name = base;
+position = 0;
+size = -20;
+}
+);
+},
+{
+name = TTFZones;
+value = (
+{
+name = base;
+position = 0;
+size = -20;
+}
+);
+},
+{
+name = TTFStems;
+value = (
+{
+horizontal = 1;
+name = 63;
+width = 63;
+},
+{
+horizontal = 0;
+name = 63;
+width = 63;
+},
+{
+horizontal = 0;
+name = 68;
+width = 68;
+},
+{
+horizontal = 0;
+name = 73;
+width = 73;
+}
+);
+}
+);
+guides = (
+{
+position = "{0, 250}";
+}
+);
+id = "BBA9C4CC-16BF-4D96-9809-7FD759381829";
+metricValues = (
+{
+pos = 950;
+},
+{
+over = -20;
+pos = 0;
+},
+{
+pos = 700;
+},
+{
+pos = -250;
+},
+{
+pos = 0;
+},
+{
+pos = 500;
+}
+);
+stemValues = (
+0,
+0,
+0,
+63,
+63,
+68,
+73
+);
+iconName = Light;
+name = ExtraLightItalic;
+},
+{
+axesValues = (
+400
+);
+customParameters = (
+{
+name = typoAscender;
+value = 950;
+},
+{
+name = typoDescender;
+value = -250;
+},
+{
+name = typoLineGap;
+value = 200;
+},
+{
+name = winAscent;
+value = 1050;
+},
+{
+name = winDescent;
+value = 350;
+},
+{
+name = underlineThickness;
+value = 50;
+},
+{
+name = underlinePosition;
+value = -100;
+},
+{
+name = strikeoutPosition;
+value = 235;
+},
+{
+name = strikeoutSize;
+value = 50;
+},
+{
+name = subscriptXOffset;
+value = 0;
+},
+{
+name = subscriptXSize;
+value = 650;
+},
+{
+name = subscriptYOffset;
+value = 75;
+},
+{
+name = subscriptYSize;
+value = 600;
+},
+{
+name = superscriptXOffset;
+value = 0;
+},
+{
+name = superscriptXSize;
+value = 650;
+},
+{
+name = superscriptYOffset;
+value = 350;
+},
+{
+name = superscriptYSize;
+value = 600;
+},
+{
+name = hheaAscender;
+value = 950;
+},
+{
+name = hheaDescender;
+value = -250;
+},
+{
+name = hheaLineGap;
+value = 200;
+},
+{
+name = TTFZones;
+value = (
+{
+name = base;
+position = 0;
+size = -20;
+}
+);
+}
+);
+guides = (
+{
+position = "{0, 250}";
+}
+);
+id = "2FEAAE27-63B5-41AA-B98F-0872FA373B5B";
+metricValues = (
+{
+pos = 950;
+},
+{
+pos = 0;
+},
+{
+pos = 700;
+},
+{
+pos = -250;
+},
+{
+pos = 0;
+},
+{
+pos = 500;
+}
+);
+stemValues = (
+0,
+0,
+0,
+91,
+90,
+98,
+105
+);
+name = Italic;
+},
+{
+axesValues = (
+800
+);
+customParameters = (
+{
+name = typoAscender;
+value = 950;
+},
+{
+name = typoDescender;
+value = -250;
+},
+{
+name = typoLineGap;
+value = 200;
+},
+{
+name = winAscent;
+value = 1050;
+},
+{
+name = winDescent;
+value = 350;
+},
+{
+name = underlineThickness;
+value = 50;
+},
+{
+name = underlinePosition;
+value = -100;
+},
+{
+name = strikeoutPosition;
+value = 235;
+},
+{
+name = strikeoutSize;
+value = 50;
+},
+{
+name = subscriptXOffset;
+value = 0;
+},
+{
+name = subscriptXSize;
+value = 650;
+},
+{
+name = subscriptYOffset;
+value = 75;
+},
+{
+name = subscriptYSize;
+value = 600;
+},
+{
+name = superscriptXOffset;
+value = 0;
+},
+{
+name = superscriptXSize;
+value = 650;
+},
+{
+name = superscriptYOffset;
+value = 350;
+},
+{
+name = superscriptYSize;
+value = 600;
+},
+{
+name = hheaAscender;
+value = 950;
+},
+{
+name = hheaDescender;
+value = -250;
+},
+{
+name = hheaLineGap;
+value = 200;
+},
+{
+name = TTFZones;
+value = (
+{
+name = base;
+position = 0;
+size = -20;
+}
+);
+},
+{
+name = TTFStems;
+value = (
+{
+horizontal = 1;
+name = 84;
+width = 84;
+},
+{
+horizontal = 1;
+name = 126;
+width = 126;
+},
+{
+horizontal = 1;
+name = 138;
+width = 138;
+},
+{
+horizontal = 1;
+name = 147;
+width = 147;
+},
+{
+horizontal = 0;
+name = 144;
+width = 144;
+},
+{
+horizontal = 0;
+name = 159;
+width = 159;
+},
+{
+horizontal = 0;
+name = 168;
+width = 168;
+}
+);
+}
+);
+guides = (
+{
+position = "{0, 250}";
+}
+);
+id = "7A4E2608-894C-42C3-A821-B6FEA079E459";
+metricValues = (
+{
+pos = 950;
+},
+{
+pos = 0;
+},
+{
+pos = 700;
+},
+{
+pos = -250;
+},
+{
+pos = 0;
+},
+{
+pos = 500;
+}
+);
+stemValues = (
+84,
+126,
+138,
+147,
+144,
+159,
+168
+);
+iconName = Bold;
+name = ExtraBoldItalic;
+}
+);
+instances = (
+{
+axesValues = (
+200
+);
+interpolationWeight = 200;
+name = ExtraLightItalic;
+weightClass = ExtraLight;
+},
+{
+axesValues = (
+300
+);
+interpolationWeight = 300;
+name = LightItalic;
+weightClass = Light;
+},
+{
+axesValues = (
+400
+);
+interpolationWeight = 400;
+name = Italic;
+},
+{
+axesValues = (
+500
+);
+interpolationWeight = 500;
+name = MediumItalic;
+weightClass = Medium;
+},
+{
+axesValues = (
+600
+);
+interpolationWeight = 600;
+name = SemiBoldItalic;
+weightClass = SemiBold;
+},
+{
+axesValues = (
+700
+);
+interpolationWeight = 700;
+name = BoldItalic;
+weightClass = Bold;
+},
+{
+axesValues = (
+800
+);
+interpolationWeight = 800;
+name = ExtraBoldItalic;
+weightClass = ExtraBold;
+}
+);
+kerningLTR = {
+"2FEAAE27-63B5-41AA-B98F-0872FA373B5B" = {
+"@MMK_L_A" = {
+"@MMK_R_B" = -13;
+"@MMK_R_C" = -25;
+"@MMK_R_T2" = -45;
+"@MMK_R_U2" = -25;
+"@MMK_R_V2" = -45;
+"@MMK_R_Wgrave2" = -100;
+"@MMK_R_Y2" = -45;
+"@MMK_R_v2" = -80;
+"@MMK_R_wgrave2" = -80;
+"@MMK_R_y2" = -60;
+X = -20;
+};
+"@MMK_L_D" = {
+"@MMK_R_A2" = -25;
+"@MMK_R_T2" = -20;
+"@MMK_R_V2" = -23;
+"@MMK_R_Wgrave2" = -37;
+"@MMK_R_Y2" = -23;
+"@MMK_R_Z2" = -20;
+X = -23;
+};
+"@MMK_L_G" = {
+"@MMK_R_V2" = -20;
+"@MMK_R_Wgrave2" = -20;
+"@MMK_R_Y2" = -20;
+};
+"@MMK_L_J" = {
+"@MMK_R_A2" = -20;
+};
+"@MMK_L_K" = {
+"@MMK_R_A2" = -13;
+"@MMK_R_C" = -13;
+"@MMK_R_S" = -30;
+"@MMK_R_T2" = -40;
+"@MMK_R_U2" = -40;
+"@MMK_R_V2" = -40;
+"@MMK_R_Wgrave2" = -40;
+"@MMK_R_Y2" = -40;
+"@MMK_R_a2" = -40;
+"@MMK_R_c" = -25;
+"@MMK_R_t2" = -13;
+"@MMK_R_v2" = -25;
+"@MMK_R_wgrave2" = -40;
+X = -15;
+};
+"@MMK_L_L" = {
+"@MMK_R_A2" = -20;
+"@MMK_R_C" = -13;
+"@MMK_R_T2" = -65;
+"@MMK_R_U2" = -20;
+"@MMK_R_V2" = -65;
+"@MMK_R_Wgrave2" = -100;
+"@MMK_R_Y2" = -65;
+"@MMK_R_v2" = -25;
+"@MMK_R_wgrave2" = -40;
+"@MMK_R_y2" = -40;
+};
+"@MMK_L_R" = {
+"@MMK_R_A2" = -13;
+"@MMK_R_C" = -13;
+"@MMK_R_T2" = -25;
+"@MMK_R_U2" = -13;
+"@MMK_R_V2" = -25;
+"@MMK_R_Wgrave2" = -50;
+"@MMK_R_Y2" = -25;
+"@MMK_R_c" = -13;
+X = -13;
+j = -25;
+};
+"@MMK_L_T" = {
+"@MMK_R_A2" = -45;
+"@MMK_R_C" = -20;
+"@MMK_R_J2" = -60;
+"@MMK_R_a2" = -25;
+"@MMK_R_c" = -45;
+"@MMK_R_comma2" = -60;
+"@MMK_R_g2" = -45;
+"@MMK_R_m" = -13;
+"@MMK_R_s2" = -60;
+"@MMK_R_t2" = -40;
+"@MMK_R_u" = -40;
+"@MMK_R_v2" = -25;
+"@MMK_R_wgrave2" = -80;
+"@MMK_R_y2" = -25;
+"@MMK_R_z2" = -25;
+j = -25;
+p = -40;
+x = -25;
+};
+"@MMK_L_U" = {
+"@MMK_R_A2" = -25;
+};
+"@MMK_L_V" = {
+"@MMK_R_A2" = -45;
+"@MMK_R_C" = -23;
+"@MMK_R_J2" = -65;
+"@MMK_R_a2" = -60;
+"@MMK_R_c" = -45;
+"@MMK_R_comma2" = -120;
+"@MMK_R_s2" = -60;
+"@MMK_R_y2" = -40;
+"@MMK_R_z2" = -40;
+};
+"@MMK_L_Wgrave" = {
+"@MMK_R_A2" = -100;
+"@MMK_R_C" = -30;
+"@MMK_R_J2" = -80;
+"@MMK_R_a2" = -60;
+"@MMK_R_c" = -75;
+"@MMK_R_comma2" = -120;
+"@MMK_R_g2" = -60;
+"@MMK_R_s2" = -60;
+"@MMK_R_u" = -30;
+"@MMK_R_y2" = -40;
+"@MMK_R_z2" = -40;
+};
+"@MMK_L_Y" = {
+"@MMK_R_A2" = -45;
+"@MMK_R_C" = -23;
+"@MMK_R_J2" = -45;
+"@MMK_R_S" = -20;
+"@MMK_R_Z2" = -20;
+"@MMK_R_a2" = -50;
+"@MMK_R_c" = -45;
+"@MMK_R_comma2" = -120;
+"@MMK_R_m" = -25;
+"@MMK_R_s2" = -25;
+"@MMK_R_t2" = -25;
+"@MMK_R_u" = -25;
+"@MMK_R_v2" = -25;
+"@MMK_R_wgrave2" = -40;
+"@MMK_R_y2" = -40;
+"@MMK_R_z2" = -40;
+j = -25;
+p = -25;
+x = -40;
+};
+"@MMK_L_Z" = {
+"@MMK_R_C" = -20;
+};
+"@MMK_L_a" = {
+"@MMK_R_t2" = -13;
+"@MMK_R_v2" = -13;
+"@MMK_R_wgrave2" = -40;
+};
+"@MMK_L_b" = {
+"@MMK_R_g2" = -13;
+"@MMK_R_quoteleft2" = -60;
+"@MMK_R_v2" = -13;
+"@MMK_R_wgrave2" = -30;
+"@MMK_R_y2" = -20;
+x = -13;
+};
+"@MMK_L_comma" = {
+"@MMK_R_T2" = -120;
+"@MMK_R_V2" = -120;
+"@MMK_R_Wgrave2" = -120;
+"@MMK_R_Y2" = -120;
+j = 100;
+};
+"@MMK_L_e" = {
+"@MMK_R_v2" = -20;
+"@MMK_R_wgrave2" = -20;
+};
+"@MMK_L_f" = {
+"@MMK_R_a2" = -13;
+"@MMK_R_c" = -13;
+"@MMK_R_comma2" = -80;
+"@MMK_R_f2" = -95;
+"@MMK_R_g2" = -40;
+"@MMK_R_i" = -30;
+"@MMK_R_quoteleft2" = 80;
+"@MMK_R_s2" = -30;
+"@MMK_R_u" = -20;
+"@MMK_R_z2" = -50;
+asterisk = 80;
+j = -25;
+parenright = 50;
+question = 50;
+x = -20;
+};
+"@MMK_L_g" = {
+"@MMK_R_c" = -10;
+"@MMK_R_g2" = 17;
+j = 20;
+};
+"@MMK_L_k" = {
+"@MMK_R_a2" = -30;
+"@MMK_R_c" = -13;
+"@MMK_R_s2" = -30;
+"@MMK_R_u" = -20;
+"@MMK_R_wgrave2" = -10;
+"@MMK_R_y2" = -20;
+};
+"@MMK_L_quotedblright" = {
+"@MMK_R_T2" = -120;
+"@MMK_R_V2" = -120;
+"@MMK_R_Wgrave2" = -120;
+"@MMK_R_Y2" = -120;
+j = 100;
+};
+"@MMK_L_quoteleft" = {
+"@MMK_R_A2" = -120;
+"@MMK_R_J2" = -120;
+};
+"@MMK_L_r" = {
+"@MMK_R_a2" = -13;
+"@MMK_R_c" = -13;
+"@MMK_R_comma2" = -60;
+"@MMK_R_y2" = -20;
+j = -13;
+x = -13;
+};
+"@MMK_L_s" = {
+"@MMK_R_v2" = -20;
+"@MMK_R_wgrave2" = -20;
+"@MMK_R_y2" = -20;
+x = -10;
+};
+"@MMK_L_seven" = {
+"@MMK_R_comma2" = -100;
+"@MMK_R_four" = -25;
+"@MMK_R_uni0326" = -60;
+};
+"@MMK_L_six" = {
+"@MMK_R_nine" = -45;
+"@MMK_R_seven2" = -25;
+};
+"@MMK_L_t" = {
+"@MMK_R_c" = -20;
+};
+"@MMK_L_v" = {
+"@MMK_R_a2" = -13;
+"@MMK_R_c" = -13;
+"@MMK_R_comma2" = -60;
+"@MMK_R_s2" = -20;
+"@MMK_R_y2" = -20;
+x = -20;
+};
+"@MMK_L_wgrave" = {
+"@MMK_R_a2" = -20;
+"@MMK_R_c" = -30;
+"@MMK_R_comma2" = -60;
+"@MMK_R_g2" = -23;
+"@MMK_R_s2" = -20;
+"@MMK_R_y2" = -20;
+j = -53;
+x = -20;
+};
+"@MMK_L_y" = {
+"@MMK_R_a2" = -20;
+"@MMK_R_c" = -20;
+"@MMK_R_comma2" = -60;
+"@MMK_R_v2" = -20;
+x = -15;
+};
+"@MMK_L_z" = {
+"@MMK_R_v2" = -20;
+};
+F = {
+"@MMK_R_A2" = -45;
+"@MMK_R_a2" = -50;
+"@MMK_R_c" = -60;
+"@MMK_R_comma2" = -60;
+"@MMK_R_i" = -40;
+"@MMK_R_m" = -40;
+"@MMK_R_u" = -40;
+j = -60;
+};
+P = {
+"@MMK_R_A2" = -45;
+"@MMK_R_Y2" = -25;
+"@MMK_R_a2" = -40;
+"@MMK_R_c" = -40;
+"@MMK_R_comma2" = -120;
+"@MMK_R_s2" = -25;
+j = -40;
+};
+X = {
+"@MMK_R_A2" = -20;
+"@MMK_R_C" = -23;
+"@MMK_R_c" = -13;
+j = -40;
+};
+bracketleft = {
+j = 80;
+};
+fi = {
+j = -20;
+};
+germandbls = {
+"@MMK_R_t2" = -20;
+};
+i = {
+j = -20;
+};
+idotbelow = {
+j = -20;
+};
+parenleft = {
+"@MMK_R_y2" = 60;
+};
+x = {
+"@MMK_R_c" = -13;
+"@MMK_R_u" = -10;
+"@MMK_R_v2" = -20;
+"@MMK_R_wgrave2" = -20;
+};
+};
+"7A4E2608-894C-42C3-A821-B6FEA079E459" = {
+"@MMK_L_A" = {
+"@MMK_R_B" = -20;
+"@MMK_R_C" = -40;
+"@MMK_R_T2" = -60;
+"@MMK_R_U2" = -40;
+"@MMK_R_V2" = -60;
+"@MMK_R_Wgrave2" = -100;
+"@MMK_R_Y2" = -60;
+"@MMK_R_v2" = -80;
+"@MMK_R_wgrave2" = -80;
+"@MMK_R_y2" = -60;
+};
+"@MMK_L_D" = {
+"@MMK_R_A2" = -40;
+"@MMK_R_T2" = -20;
+"@MMK_R_V2" = -30;
+"@MMK_R_Wgrave2" = -30;
+"@MMK_R_Y2" = -30;
+"@MMK_R_Z2" = -20;
+};
+"@MMK_L_G" = {
+"@MMK_R_V2" = -20;
+"@MMK_R_Wgrave2" = -20;
+"@MMK_R_Y2" = -20;
+};
+"@MMK_L_J" = {
+"@MMK_R_A2" = -20;
+};
+"@MMK_L_K" = {
+"@MMK_R_A2" = -20;
+"@MMK_R_C" = -20;
+"@MMK_R_S" = -30;
+"@MMK_R_T2" = -40;
+"@MMK_R_U2" = -40;
+"@MMK_R_V2" = -40;
+"@MMK_R_Wgrave2" = -40;
+"@MMK_R_Y2" = -40;
+"@MMK_R_a2" = -40;
+"@MMK_R_c" = -40;
+"@MMK_R_t2" = -20;
+"@MMK_R_v2" = -40;
+"@MMK_R_wgrave2" = -40;
+};
+"@MMK_L_L" = {
+"@MMK_R_A2" = -20;
+"@MMK_R_C" = -20;
+"@MMK_R_T2" = -80;
+"@MMK_R_U2" = -20;
+"@MMK_R_V2" = -80;
+"@MMK_R_Wgrave2" = -100;
+"@MMK_R_Y2" = -80;
+"@MMK_R_v2" = -40;
+"@MMK_R_wgrave2" = -40;
+"@MMK_R_y2" = -40;
+};
+"@MMK_L_R" = {
+"@MMK_R_A2" = -20;
+"@MMK_R_C" = -20;
+"@MMK_R_T2" = -40;
+"@MMK_R_U2" = -20;
+"@MMK_R_V2" = -40;
+"@MMK_R_Wgrave2" = -50;
+"@MMK_R_Y2" = -40;
+"@MMK_R_c" = -20;
+};
+"@MMK_L_T" = {
+"@MMK_R_A2" = -60;
+"@MMK_R_C" = -20;
+"@MMK_R_J2" = -60;
+"@MMK_R_a2" = -40;
+"@MMK_R_c" = -60;
+"@MMK_R_comma2" = -60;
+"@MMK_R_g2" = -60;
+"@MMK_R_m" = -20;
+"@MMK_R_s2" = -60;
+"@MMK_R_t2" = -40;
+"@MMK_R_u" = -40;
+"@MMK_R_v2" = -40;
+"@MMK_R_wgrave2" = -80;
+"@MMK_R_y2" = -40;
+"@MMK_R_z2" = -40;
+p = -40;
+};
+"@MMK_L_U" = {
+"@MMK_R_A2" = -40;
+};
+"@MMK_L_V" = {
+"@MMK_R_A2" = -60;
+"@MMK_R_C" = -30;
+"@MMK_R_J2" = -80;
+"@MMK_R_a2" = -60;
+"@MMK_R_c" = -60;
+"@MMK_R_comma2" = -120;
+"@MMK_R_s2" = -60;
+"@MMK_R_y2" = -40;
+"@MMK_R_z2" = -40;
+};
+"@MMK_L_Wgrave" = {
+"@MMK_R_A2" = -100;
+"@MMK_R_C" = -30;
+"@MMK_R_J2" = -80;
+"@MMK_R_a2" = -60;
+"@MMK_R_c" = -60;
+"@MMK_R_comma2" = -120;
+"@MMK_R_g2" = -60;
+"@MMK_R_s2" = -60;
+"@MMK_R_u" = -30;
+"@MMK_R_y2" = -40;
+"@MMK_R_z2" = -40;
+};
+"@MMK_L_Y" = {
+"@MMK_R_A2" = -60;
+"@MMK_R_C" = -30;
+"@MMK_R_J2" = -60;
+"@MMK_R_S" = -20;
+"@MMK_R_Z2" = -20;
+"@MMK_R_a2" = -80;
+"@MMK_R_c" = -60;
+"@MMK_R_comma2" = -120;
+"@MMK_R_m" = -40;
+"@MMK_R_s2" = -40;
+"@MMK_R_t2" = -40;
+"@MMK_R_u" = -40;
+"@MMK_R_v2" = -40;
+"@MMK_R_wgrave2" = -40;
+"@MMK_R_y2" = -40;
+"@MMK_R_z2" = -40;
+p = -40;
+};
+"@MMK_L_Z" = {
+"@MMK_R_C" = -20;
+};
+"@MMK_L_a" = {
+"@MMK_R_t2" = -20;
+"@MMK_R_v2" = -20;
+"@MMK_R_wgrave2" = -40;
+};
+"@MMK_L_b" = {
+"@MMK_R_g2" = -20;
+"@MMK_R_quoteleft2" = -60;
+"@MMK_R_v2" = -20;
+"@MMK_R_wgrave2" = -30;
+"@MMK_R_y2" = -20;
+};
+"@MMK_L_comma" = {
+"@MMK_R_T2" = -120;
+"@MMK_R_V2" = -120;
+"@MMK_R_Wgrave2" = -120;
+"@MMK_R_Y2" = -120;
+};
+"@MMK_L_e" = {
+"@MMK_R_v2" = -20;
+"@MMK_R_wgrave2" = -20;
+};
+"@MMK_L_f" = {
+"@MMK_R_a2" = -20;
+"@MMK_R_c" = -20;
+"@MMK_R_comma2" = -80;
+"@MMK_R_f2" = -80;
+"@MMK_R_g2" = -40;
+"@MMK_R_i" = -30;
+"@MMK_R_quoteleft2" = 80;
+"@MMK_R_s2" = -30;
+"@MMK_R_u" = -20;
+"@MMK_R_z2" = -50;
+};
+"@MMK_L_g" = {
+"@MMK_R_c" = -10;
+"@MMK_R_g2" = 10;
+};
+"@MMK_L_k" = {
+"@MMK_R_a2" = -30;
+"@MMK_R_c" = -20;
+"@MMK_R_s2" = -30;
+"@MMK_R_u" = -20;
+"@MMK_R_wgrave2" = -10;
+"@MMK_R_y2" = -20;
+};
+"@MMK_L_quotedblright" = {
+"@MMK_R_T2" = -120;
+"@MMK_R_V2" = -120;
+"@MMK_R_Wgrave2" = -120;
+"@MMK_R_Y2" = -120;
+};
+"@MMK_L_quoteleft" = {
+"@MMK_R_A2" = -120;
+"@MMK_R_J2" = -120;
+};
+"@MMK_L_r" = {
+"@MMK_R_a2" = -20;
+"@MMK_R_c" = -20;
+"@MMK_R_comma2" = -60;
+"@MMK_R_y2" = -20;
+};
+"@MMK_L_s" = {
+"@MMK_R_v2" = -20;
+"@MMK_R_wgrave2" = -20;
+"@MMK_R_y2" = -20;
+};
+"@MMK_L_seven" = {
+"@MMK_R_comma2" = -100;
+"@MMK_R_four" = -40;
+"@MMK_R_uni0326" = -60;
+};
+"@MMK_L_six" = {
+"@MMK_R_nine" = -60;
+"@MMK_R_seven2" = -40;
+};
+"@MMK_L_t" = {
+"@MMK_R_c" = -20;
+};
+"@MMK_L_v" = {
+"@MMK_R_a2" = -20;
+"@MMK_R_c" = -20;
+"@MMK_R_comma2" = -60;
+"@MMK_R_s2" = -20;
+"@MMK_R_y2" = -20;
+};
+"@MMK_L_wgrave" = {
+"@MMK_R_a2" = -20;
+"@MMK_R_c" = -30;
+"@MMK_R_comma2" = -60;
+"@MMK_R_g2" = -30;
+"@MMK_R_s2" = -20;
+"@MMK_R_y2" = -20;
+};
+"@MMK_L_y" = {
+"@MMK_R_a2" = -20;
+"@MMK_R_c" = -20;
+"@MMK_R_comma2" = -60;
+"@MMK_R_v2" = -20;
+};
+"@MMK_L_z" = {
+"@MMK_R_v2" = -20;
+};
+A = {
+X = -20;
+};
+Aacute = {
+X = -20;
+};
+Abreve = {
+X = -20;
+};
+Abreveacute = {
+X = -20;
+};
+Abrevedotbelow = {
+X = -20;
+};
+Abrevegrave = {
+X = -20;
+};
+Abrevehoi = {
+X = -20;
+};
+Abrevetilde = {
+X = -20;
+};
+Acircumflex = {
+X = -20;
+};
+Acircumflexacute = {
+X = -20;
+};
+Acircumflexdotbelow = {
+X = -20;
+};
+Acircumflexgrave = {
+X = -20;
+};
+Acircumflexhoi = {
+X = -20;
+};
+Acircumflextilde = {
+X = -20;
+};
+Adblgrave = {
+X = -20;
+};
+Adieresis = {
+X = -20;
+};
+Adotbelow = {
+X = -20;
+};
+Agrave = {
+X = -20;
+};
+Ahoi = {
+X = -20;
+};
+Ainvertedbreve = {
+X = -20;
+};
+Amacron = {
+X = -20;
+};
+Aogonek = {
+X = -20;
+};
+Aring = {
+X = -20;
+};
+Aringacute = {
+X = -20;
+};
+Atilde = {
+X = -20;
+};
+D = {
+X = -30;
+};
+Dcaron = {
+X = -30;
+};
+Dcroat = {
+X = -30;
+};
+Eth = {
+X = -30;
+};
+F = {
+A = -60;
+AE = -60;
+AEacute = -60;
+Aacute = -60;
+Abreve = -60;
+Abreveacute = -60;
+Abrevedotbelow = -60;
+Abrevegrave = -60;
+Abrevehoi = -60;
+Abrevetilde = -60;
+Acircumflex = -60;
+Acircumflexacute = -60;
+Acircumflexdotbelow = -60;
+Acircumflexgrave = -60;
+Acircumflexhoi = -60;
+Acircumflextilde = -60;
+Adblgrave = -60;
+Adieresis = -60;
+Adotbelow = -60;
+Agrave = -60;
+Ahoi = -60;
+Ainvertedbreve = -60;
+Amacron = -60;
+Aogonek = -60;
+Aring = -60;
+Aringacute = -60;
+Atilde = -60;
+a = -50;
+aacute = -50;
+abreve = -50;
+abreveacute = -50;
+abrevedotbelow = -50;
+abrevegrave = -50;
+abrevehoi = -50;
+abrevetilde = -50;
+acircumflex = -50;
+acircumflexacute = -50;
+acircumflexdotbelow = -50;
+acircumflexgrave = -50;
+acircumflexhoi = -50;
+acircumflextilde = -50;
+adblgrave = -50;
+adieresis = -50;
+adotbelow = -50;
+ae = -50;
+aeacute = -50;
+agrave = -50;
+ahoi = -50;
+ainvertedbreve = -50;
+amacron = -50;
+aogonek = -50;
+aring = -50;
+aringacute = -50;
+atilde = -50;
+c = -60;
+cacute = -60;
+ccaron = -60;
+ccedilla = -60;
+ccircumflex = -60;
+cdotaccent = -60;
+cent = -60;
+colon = -60;
+comma = -60;
+commercialminussign = -60;
+d = -60;
+dcaron = -60;
+dcroat = -60;
+dieresisbelowcomb = -60;
+dz = -60;
+dzcaron = -60;
+e = -60;
+eacute = -60;
+ebreve = -60;
+ecaron = -60;
+ecircumflex = -60;
+ecircumflexacute = -60;
+ecircumflexdotbelow = -60;
+ecircumflexgrave = -60;
+ecircumflexhoi = -60;
+ecircumflextilde = -60;
+edblgrave = -60;
+edieresis = -60;
+edotaccent = -60;
+edotbelow = -60;
+egrave = -60;
+ehoi = -60;
+einvertedbreve = -60;
+ellipsis = -60;
+emacron = -60;
+eng = -40;
+eogonek = -60;
+etilde = -60;
+i = -40;
+idotbelow = -40;
+ij = -40;
+j = -60;
+m = -40;
+n = -40;
+nacute = -40;
+ncaron = -40;
+ncommaaccent = -40;
+nj = -40;
+ntilde = -40;
+o = -60;
+oacute = -60;
+obreve = -60;
+ocircumflex = -60;
+ocircumflexacute = -60;
+ocircumflexdotbelow = -60;
+ocircumflexgrave = -60;
+ocircumflexhoi = -60;
+ocircumflextilde = -60;
+odblgrave = -60;
+odieresis = -60;
+odieresismacron = -60;
+odotaccentmacron = -60;
+odotbelow = -60;
+oe = -60;
+ograve = -60;
+ohoi = -60;
+ohorn = -60;
+ohornacute = -60;
+ohorndotbelow = -60;
+ohorngrave = -60;
+ohornhoi = -60;
+ohorntilde = -60;
+ohungarumlaut = -60;
+oinvertedbreve = -60;
+omacron = -60;
+oogonek = -60;
+oslash = -60;
+oslashacute = -60;
+otilde = -60;
+otildemacron = -60;
+period = -60;
+periodcentered = -60;
+q = -60;
+quotedblbase = -60;
+r = -40;
+racute = -40;
+rcaron = -40;
+rcommaaccent = -40;
+rdblgrave = -40;
+rinvertedbreve = -40;
+u = -40;
+uacute = -40;
+ubreve = -40;
+ucircumflex = -40;
+udblgrave = -40;
+udieresis = -40;
+udotbelow = -40;
+ugrave = -40;
+uhoi = -40;
+uhorn = -40;
+uhornacute = -40;
+uhorndotbelow = -40;
+uhorngrave = -40;
+uhornhoi = -40;
+uhorntilde = -40;
+uhungarumlaut = -40;
+uinvertedbreve = -40;
+umacron = -40;
+uogonek = -40;
+uring = -40;
+utilde = -40;
+};
+O = {
+X = -30;
+};
+Oacute = {
+X = -30;
+};
+Obreve = {
+X = -30;
+};
+Ocircumflex = {
+X = -30;
+};
+Ocircumflexacute = {
+X = -30;
+};
+Ocircumflexdotbelow = {
+X = -30;
+};
+Ocircumflexgrave = {
+X = -30;
+};
+Ocircumflexhoi = {
+X = -30;
+};
+Ocircumflextilde = {
+X = -30;
+};
+Odblgrave = {
+X = -30;
+};
+Odieresis = {
+X = -30;
+};
+Odieresismacron = {
+X = -30;
+};
+Odotaccentmacron = {
+X = -30;
+};
+Odotbelow = {
+X = -30;
+};
+Ograve = {
+X = -30;
+};
+Ohoi = {
+X = -30;
+};
+Ohorn = {
+X = -30;
+};
+Ohornacute = {
+X = -30;
+};
+Ohorndotbelow = {
+X = -30;
+};
+Ohorngrave = {
+X = -30;
+};
+Ohornhoi = {
+X = -30;
+};
+Ohorntilde = {
+X = -30;
+};
+Ohungarumlaut = {
+X = -30;
+};
+Oinvertedbreve = {
+X = -30;
+};
+Omacron = {
+X = -30;
+};
+Oogonek = {
+X = -30;
+};
+Oslash = {
+X = -30;
+};
+Oslashacute = {
+X = -30;
+};
+Otilde = {
+X = -30;
+};
+Otildemacron = {
+X = -30;
+};
+P = {
+A = -60;
+AE = -60;
+AEacute = -60;
+Aacute = -60;
+Abreve = -60;
+Abreveacute = -60;
+Abrevedotbelow = -60;
+Abrevegrave = -60;
+Abrevehoi = -60;
+Abrevetilde = -60;
+Acircumflex = -60;
+Acircumflexacute = -60;
+Acircumflexdotbelow = -60;
+Acircumflexgrave = -60;
+Acircumflexhoi = -60;
+Acircumflextilde = -60;
+Adblgrave = -60;
+Adieresis = -60;
+Adotbelow = -60;
+Agrave = -60;
+Ahoi = -60;
+Ainvertedbreve = -60;
+Amacron = -60;
+Aogonek = -60;
+Aring = -60;
+Aringacute = -60;
+Atilde = -60;
+Y = -40;
+Yacute = -40;
+Ycircumflex = -40;
+Ydieresis = -40;
+Ydotbelow = -40;
+Ygrave = -40;
+Yhoi = -40;
+Ymacron = -40;
+Ytilde = -40;
+a = -40;
+aacute = -40;
+abreve = -40;
+abreveacute = -40;
+abrevedotbelow = -40;
+abrevegrave = -40;
+abrevehoi = -40;
+abrevetilde = -40;
+acircumflex = -40;
+acircumflexacute = -40;
+acircumflexdotbelow = -40;
+acircumflexgrave = -40;
+acircumflexhoi = -40;
+acircumflextilde = -40;
+adblgrave = -40;
+adieresis = -40;
+adotbelow = -40;
+ae = -40;
+aeacute = -40;
+agrave = -40;
+ahoi = -40;
+ainvertedbreve = -40;
+amacron = -40;
+aogonek = -40;
+aring = -40;
+aringacute = -40;
+atilde = -40;
+c = -40;
+cacute = -40;
+ccaron = -40;
+ccedilla = -40;
+ccircumflex = -40;
+cdotaccent = -40;
+cent = -40;
+colon = -120;
+comma = -120;
+commercialminussign = -120;
+d = -40;
+dcaron = -40;
+dcroat = -40;
+dieresisbelowcomb = -120;
+dz = -40;
+dzcaron = -40;
+e = -40;
+eacute = -40;
+ebreve = -40;
+ecaron = -40;
+ecircumflex = -40;
+ecircumflexacute = -40;
+ecircumflexdotbelow = -40;
+ecircumflexgrave = -40;
+ecircumflexhoi = -40;
+ecircumflextilde = -40;
+edblgrave = -40;
+edieresis = -40;
+edotaccent = -40;
+edotbelow = -40;
+egrave = -40;
+ehoi = -40;
+einvertedbreve = -40;
+ellipsis = -120;
+emacron = -40;
+eogonek = -40;
+etilde = -40;
+j = -40;
+o = -40;
+oacute = -40;
+obreve = -40;
+ocircumflex = -40;
+ocircumflexacute = -40;
+ocircumflexdotbelow = -40;
+ocircumflexgrave = -40;
+ocircumflexhoi = -40;
+ocircumflextilde = -40;
+odblgrave = -40;
+odieresis = -40;
+odieresismacron = -40;
+odotaccentmacron = -40;
+odotbelow = -40;
+oe = -40;
+ograve = -40;
+ohoi = -40;
+ohorn = -40;
+ohornacute = -40;
+ohorndotbelow = -40;
+ohorngrave = -40;
+ohornhoi = -40;
+ohorntilde = -40;
+ohungarumlaut = -40;
+oinvertedbreve = -40;
+omacron = -40;
+oogonek = -40;
+oslash = -40;
+oslashacute = -40;
+otilde = -40;
+otildemacron = -40;
+period = -120;
+periodcentered = -120;
+q = -40;
+quotedblbase = -120;
+s = -40;
+sacute = -40;
+scaron = -40;
+scedilla = -40;
+scircumflex = -40;
+scommaaccent = -40;
+};
+Q = {
+X = -30;
+};
+R = {
+X = -20;
+j = -40;
+};
+Racute = {
+X = -20;
+j = -40;
+};
+Rcaron = {
+X = -20;
+j = -40;
+};
+Rcommaaccent = {
+X = -20;
+j = -40;
+};
+Rdblgrave = {
+X = -20;
+j = -40;
+};
+Rinvertedbreve = {
+X = -20;
+j = -40;
+};
+Schwa = {
+X = -30;
+};
+T = {
+j = -40;
+x = -40;
+};
+Tbar = {
+j = -40;
+x = -40;
+};
+Tcaron = {
+j = -40;
+x = -40;
+};
+Tcedilla = {
+j = -40;
+x = -40;
+};
+Tcommaaccent = {
+j = -40;
+x = -40;
+};
+X = {
+A = -20;
+AE = -20;
+AEacute = -20;
+Aacute = -20;
+Abreve = -20;
+Abreveacute = -20;
+Abrevedotbelow = -20;
+Abrevegrave = -20;
+Abrevehoi = -20;
+Abrevetilde = -20;
+Acircumflex = -20;
+Acircumflexacute = -20;
+Acircumflexdotbelow = -20;
+Acircumflexgrave = -20;
+Acircumflexhoi = -20;
+Acircumflextilde = -20;
+Adblgrave = -20;
+Adieresis = -20;
+Adotbelow = -20;
+Agrave = -20;
+Ahoi = -20;
+Ainvertedbreve = -20;
+Amacron = -20;
+Aogonek = -20;
+Aring = -20;
+Aringacute = -20;
+Atilde = -20;
+C = -30;
+Cacute = -30;
+Ccaron = -30;
+Ccedilla = -30;
+Ccircumflex = -30;
+Cdotaccent = -30;
+G = -30;
+Gbreve = -30;
+Gcaron = -30;
+Gcircumflex = -30;
+Gcommaaccent = -30;
+Gdotaccent = -30;
+O = -30;
+OE = -30;
+Oacute = -30;
+Obreve = -30;
+Ocircumflex = -30;
+Ocircumflexacute = -30;
+Ocircumflexdotbelow = -30;
+Ocircumflexgrave = -30;
+Ocircumflexhoi = -30;
+Ocircumflextilde = -30;
+Odblgrave = -30;
+Odieresis = -30;
+Odieresismacron = -30;
+Odotaccentmacron = -30;
+Odotbelow = -30;
+Ograve = -30;
+Ohoi = -30;
+Ohorn = -30;
+Ohornacute = -30;
+Ohorndotbelow = -30;
+Ohorngrave = -30;
+Ohornhoi = -30;
+Ohorntilde = -30;
+Ohungarumlaut = -30;
+Oinvertedbreve = -30;
+Omacron = -30;
+Oogonek = -30;
+Oslash = -30;
+Oslashacute = -30;
+Otilde = -30;
+Otildemacron = -30;
+Q = -30;
+Schwa = -30;
+c = -20;
+cacute = -20;
+ccaron = -20;
+ccedilla = -20;
+ccircumflex = -20;
+cdotaccent = -20;
+cent = -20;
+d = -20;
+dcaron = -20;
+dcroat = -20;
+dz = -20;
+dzcaron = -20;
+e = -20;
+eacute = -20;
+ebreve = -20;
+ecaron = -20;
+ecircumflex = -20;
+ecircumflexacute = -20;
+ecircumflexdotbelow = -20;
+ecircumflexgrave = -20;
+ecircumflexhoi = -20;
+ecircumflextilde = -20;
+edblgrave = -20;
+edieresis = -20;
+edotaccent = -20;
+edotbelow = -20;
+egrave = -20;
+ehoi = -20;
+einvertedbreve = -20;
+emacron = -20;
+eogonek = -20;
+etilde = -20;
+j = -40;
+o = -20;
+oacute = -20;
+obreve = -20;
+ocircumflex = -20;
+ocircumflexacute = -20;
+ocircumflexdotbelow = -20;
+ocircumflexgrave = -20;
+ocircumflexhoi = -20;
+ocircumflextilde = -20;
+odblgrave = -20;
+odieresis = -20;
+odieresismacron = -20;
+odotaccentmacron = -20;
+odotbelow = -20;
+oe = -20;
+ograve = -20;
+ohoi = -20;
+ohorn = -20;
+ohornacute = -20;
+ohorndotbelow = -20;
+ohorngrave = -20;
+ohornhoi = -20;
+ohorntilde = -20;
+ohungarumlaut = -20;
+oinvertedbreve = -20;
+omacron = -20;
+oogonek = -20;
+oslash = -20;
+oslashacute = -20;
+otilde = -20;
+otildemacron = -20;
+q = -20;
+};
+Y = {
+j = -40;
+x = -40;
+};
+Yacute = {
+j = -40;
+x = -40;
+};
+Ycircumflex = {
+j = -40;
+x = -40;
+};
+Ydieresis = {
+j = -40;
+x = -40;
+};
+Ydotbelow = {
+j = -40;
+x = -40;
+};
+Ygrave = {
+j = -40;
+x = -40;
+};
+Yhoi = {
+j = -40;
+x = -40;
+};
+Ymacron = {
+j = -40;
+x = -40;
+};
+Ytilde = {
+j = -40;
+x = -40;
+};
+b = {
+x = -20;
+};
+bracketleft = {
+j = 80;
+};
+colon = {
+j = 100;
+};
+comma = {
+j = 100;
+};
+commaaccentcomb = {
+j = 100;
+};
+commercialminussign = {
+j = 100;
+};
+dieresisbelowcomb = {
+j = 100;
+};
+ellipsis = {
+j = 100;
+};
+f = {
+asterisk = 80;
+j = -40;
+parenright = 50;
+question = 50;
+x = -20;
+};
+f_f = {
+asterisk = 80;
+j = -40;
+parenright = 50;
+question = 50;
+x = -20;
+};
+fi = {
+j = -20;
+};
+g = {
+j = 20;
+};
+gbreve = {
+j = 20;
+};
+gcaron = {
+j = 20;
+};
+gcircumflex = {
+j = 20;
+};
+gcommaaccent = {
+j = 20;
+};
+gdotaccent = {
+j = 20;
+};
+germandbls = {
+t = -20;
+tbar = -20;
+tcaron = -20;
+tcedilla = -20;
+tcommaaccent = -20;
+};
+i = {
+j = -20;
+};
+idotbelow = {
+j = -20;
+};
+o = {
+x = -20;
+};
+oacute = {
+x = -20;
+};
+obreve = {
+x = -20;
+};
+ocircumflex = {
+x = -20;
+};
+ocircumflexacute = {
+x = -20;
+};
+ocircumflexdotbelow = {
+x = -20;
+};
+ocircumflexgrave = {
+x = -20;
+};
+ocircumflexhoi = {
+x = -20;
+};
+ocircumflextilde = {
+x = -20;
+};
+odblgrave = {
+x = -20;
+};
+odieresis = {
+x = -20;
+};
+odieresismacron = {
+x = -20;
+};
+odotaccentmacron = {
+x = -20;
+};
+odotbelow = {
+x = -20;
+};
+ograve = {
+x = -20;
+};
+ohoi = {
+x = -20;
+};
+ohorn = {
+x = -20;
+};
+ohornacute = {
+x = -20;
+};
+ohorndotbelow = {
+x = -20;
+};
+ohorngrave = {
+x = -20;
+};
+ohornhoi = {
+x = -20;
+};
+ohorntilde = {
+x = -20;
+};
+ohungarumlaut = {
+x = -20;
+};
+oinvertedbreve = {
+x = -20;
+};
+omacron = {
+x = -20;
+};
+oogonek = {
+x = -20;
+};
+oslash = {
+x = -20;
+};
+oslashacute = {
+x = -20;
+};
+otilde = {
+x = -20;
+};
+otildemacron = {
+x = -20;
+};
+p = {
+x = -20;
+};
+parenleft = {
+y = 60;
+yacute = 60;
+ycircumflex = 60;
+ydieresis = 60;
+ydotbelow = 60;
+ygrave = 60;
+yhoi = 60;
+ymacron = 60;
+ytilde = 60;
+};
+period = {
+j = 100;
+};
+periodcentered = {
+j = 100;
+};
+periodcentered.loclCAT = {
+j = 100;
+};
+quotedblbase = {
+j = 100;
+};
+quotedblright = {
+j = 100;
+};
+quotesinglbase = {
+j = 100;
+};
+r = {
+j = -20;
+x = -20;
+};
+racute = {
+j = -20;
+x = -20;
+};
+rcaron = {
+j = -20;
+x = -20;
+};
+rcommaaccent = {
+j = -20;
+x = -20;
+};
+rdblgrave = {
+j = -20;
+x = -20;
+};
+rinvertedbreve = {
+j = -20;
+x = -20;
+};
+s = {
+x = -10;
+};
+sacute = {
+x = -10;
+};
+scaron = {
+x = -10;
+};
+scedilla = {
+x = -10;
+};
+scircumflex = {
+x = -10;
+};
+scommaaccent = {
+x = -10;
+};
+semicolon = {
+j = 100;
+};
+thorn = {
+x = -20;
+};
+v = {
+x = -20;
+};
+w = {
+x = -20;
+};
+wacute = {
+j = -60;
+x = -20;
+};
+wcircumflex = {
+j = -60;
+x = -20;
+};
+wdieresis = {
+j = -60;
+x = -20;
+};
+wgrave = {
+j = -60;
+x = -20;
+};
+x = {
+c = -20;
+cacute = -20;
+ccaron = -20;
+ccedilla = -20;
+ccircumflex = -20;
+cdotaccent = -20;
+cent = -20;
+d = -20;
+dcaron = -20;
+dcroat = -20;
+dz = -20;
+dzcaron = -20;
+e = -20;
+eacute = -20;
+ebreve = -20;
+ecaron = -20;
+ecircumflex = -20;
+ecircumflexacute = -20;
+ecircumflexdotbelow = -20;
+ecircumflexgrave = -20;
+ecircumflexhoi = -20;
+ecircumflextilde = -20;
+edblgrave = -20;
+edieresis = -20;
+edotaccent = -20;
+edotbelow = -20;
+egrave = -20;
+ehoi = -20;
+einvertedbreve = -20;
+emacron = -20;
+eogonek = -20;
+etilde = -20;
+o = -20;
+oacute = -20;
+obreve = -20;
+ocircumflex = -20;
+ocircumflexacute = -20;
+ocircumflexdotbelow = -20;
+ocircumflexgrave = -20;
+ocircumflexhoi = -20;
+ocircumflextilde = -20;
+odblgrave = -20;
+odieresis = -20;
+odieresismacron = -20;
+odotaccentmacron = -20;
+odotbelow = -20;
+oe = -20;
+ograve = -20;
+ohoi = -20;
+ohorn = -20;
+ohornacute = -20;
+ohorndotbelow = -20;
+ohorngrave = -20;
+ohornhoi = -20;
+ohorntilde = -20;
+ohungarumlaut = -20;
+oinvertedbreve = -20;
+omacron = -20;
+oogonek = -20;
+oslash = -20;
+oslashacute = -20;
+otilde = -20;
+otildemacron = -20;
+q = -20;
+u = -10;
+uacute = -10;
+ubreve = -10;
+ucircumflex = -10;
+udblgrave = -10;
+udieresis = -10;
+udotbelow = -10;
+ugrave = -10;
+uhoi = -10;
+uhorn = -10;
+uhornacute = -10;
+uhorndotbelow = -10;
+uhorngrave = -10;
+uhornhoi = -10;
+uhorntilde = -10;
+uhungarumlaut = -10;
+uinvertedbreve = -10;
+umacron = -10;
+uogonek = -10;
+uring = -10;
+utilde = -10;
+v = -20;
+w = -20;
+wacute = -20;
+wcircumflex = -20;
+wdieresis = -20;
+wgrave = -20;
+};
+};
+"BBA9C4CC-16BF-4D96-9809-7FD759381829" = {
+"@MMK_L_A" = {
+"@MMK_R_B" = -9;
+"@MMK_R_C" = -17;
+"@MMK_R_T2" = -37;
+"@MMK_R_U2" = -17;
+"@MMK_R_V2" = -37;
+"@MMK_R_Wgrave2" = -100;
+"@MMK_R_Y2" = -37;
+"@MMK_R_v2" = -80;
+"@MMK_R_wgrave2" = -80;
+"@MMK_R_y2" = -60;
+};
+"@MMK_L_D" = {
+"@MMK_R_A2" = -17;
+"@MMK_R_T2" = -20;
+"@MMK_R_V2" = -19;
+"@MMK_R_Wgrave2" = -41;
+"@MMK_R_Y2" = -19;
+"@MMK_R_Z2" = -20;
+};
+"@MMK_L_G" = {
+"@MMK_R_V2" = -20;
+"@MMK_R_Wgrave2" = -20;
+"@MMK_R_Y2" = -20;
+};
+"@MMK_L_J" = {
+"@MMK_R_A2" = -20;
+};
+"@MMK_L_K" = {
+"@MMK_R_A2" = -9;
+"@MMK_R_C" = -9;
+"@MMK_R_S" = -30;
+"@MMK_R_T2" = -40;
+"@MMK_R_U2" = -40;
+"@MMK_R_V2" = -40;
+"@MMK_R_Wgrave2" = -40;
+"@MMK_R_Y2" = -40;
+"@MMK_R_a2" = -40;
+"@MMK_R_c" = -17;
+"@MMK_R_t2" = -9;
+"@MMK_R_v2" = -17;
+"@MMK_R_wgrave2" = -40;
+};
+"@MMK_L_L" = {
+"@MMK_R_A2" = -20;
+"@MMK_R_C" = -9;
+"@MMK_R_T2" = -57;
+"@MMK_R_U2" = -20;
+"@MMK_R_V2" = -57;
+"@MMK_R_Wgrave2" = -100;
+"@MMK_R_Y2" = -57;
+"@MMK_R_v2" = -17;
+"@MMK_R_wgrave2" = -40;
+"@MMK_R_y2" = -40;
+};
+"@MMK_L_R" = {
+"@MMK_R_A2" = -9;
+"@MMK_R_C" = -9;
+"@MMK_R_T2" = -17;
+"@MMK_R_U2" = -9;
+"@MMK_R_V2" = -17;
+"@MMK_R_Wgrave2" = -50;
+"@MMK_R_Y2" = -17;
+"@MMK_R_c" = -9;
+};
+"@MMK_L_T" = {
+"@MMK_R_A2" = -37;
+"@MMK_R_C" = -20;
+"@MMK_R_J2" = -60;
+"@MMK_R_a2" = -17;
+"@MMK_R_c" = -37;
+"@MMK_R_comma2" = -60;
+"@MMK_R_g2" = -37;
+"@MMK_R_m" = -9;
+"@MMK_R_s2" = -60;
+"@MMK_R_t2" = -40;
+"@MMK_R_u" = -40;
+"@MMK_R_v2" = -17;
+"@MMK_R_wgrave2" = -80;
+"@MMK_R_y2" = -17;
+"@MMK_R_z2" = -17;
+p = -40;
+};
+"@MMK_L_U" = {
+"@MMK_R_A2" = -17;
+};
+"@MMK_L_V" = {
+"@MMK_R_A2" = -37;
+"@MMK_R_C" = -19;
+"@MMK_R_J2" = -57;
+"@MMK_R_a2" = -60;
+"@MMK_R_c" = -37;
+"@MMK_R_comma2" = -120;
+"@MMK_R_s2" = -60;
+"@MMK_R_y2" = -40;
+"@MMK_R_z2" = -40;
+};
+"@MMK_L_Wgrave" = {
+"@MMK_R_A2" = -100;
+"@MMK_R_C" = -30;
+"@MMK_R_J2" = -80;
+"@MMK_R_a2" = -60;
+"@MMK_R_c" = -83;
+"@MMK_R_comma2" = -120;
+"@MMK_R_g2" = -60;
+"@MMK_R_s2" = -60;
+"@MMK_R_u" = -30;
+"@MMK_R_y2" = -40;
+"@MMK_R_z2" = -40;
+};
+"@MMK_L_Y" = {
+"@MMK_R_A2" = -37;
+"@MMK_R_C" = -19;
+"@MMK_R_J2" = -37;
+"@MMK_R_S" = -20;
+"@MMK_R_Z2" = -20;
+"@MMK_R_a2" = -35;
+"@MMK_R_c" = -37;
+"@MMK_R_comma2" = -120;
+"@MMK_R_m" = -17;
+"@MMK_R_s2" = -17;
+"@MMK_R_t2" = -17;
+"@MMK_R_u" = -17;
+"@MMK_R_v2" = -17;
+"@MMK_R_wgrave2" = -40;
+"@MMK_R_y2" = -40;
+"@MMK_R_z2" = -40;
+p = -17;
+};
+"@MMK_L_Z" = {
+"@MMK_R_C" = -20;
+};
+"@MMK_L_a" = {
+"@MMK_R_t2" = -9;
+"@MMK_R_v2" = -9;
+"@MMK_R_wgrave2" = -40;
+};
+"@MMK_L_b" = {
+"@MMK_R_g2" = -9;
+"@MMK_R_quoteleft2" = -60;
+"@MMK_R_v2" = -9;
+"@MMK_R_wgrave2" = -30;
+"@MMK_R_y2" = -20;
+};
+"@MMK_L_comma" = {
+"@MMK_R_T2" = -120;
+"@MMK_R_V2" = -120;
+"@MMK_R_Wgrave2" = -120;
+"@MMK_R_Y2" = -120;
+};
+"@MMK_L_e" = {
+"@MMK_R_v2" = -20;
+"@MMK_R_wgrave2" = -20;
+};
+"@MMK_L_f" = {
+"@MMK_R_a2" = -9;
+"@MMK_R_c" = -9;
+"@MMK_R_comma2" = -80;
+"@MMK_R_f2" = -103;
+"@MMK_R_g2" = -40;
+"@MMK_R_i" = -30;
+"@MMK_R_quoteleft2" = 80;
+"@MMK_R_s2" = -30;
+"@MMK_R_u" = -20;
+"@MMK_R_z2" = -50;
+};
+"@MMK_L_g" = {
+"@MMK_R_c" = -10;
+"@MMK_R_g2" = 21;
+};
+"@MMK_L_k" = {
+"@MMK_R_a2" = -30;
+"@MMK_R_c" = -9;
+"@MMK_R_s2" = -30;
+"@MMK_R_u" = -20;
+"@MMK_R_wgrave2" = -10;
+"@MMK_R_y2" = -20;
+};
+"@MMK_L_quotedblright" = {
+"@MMK_R_T2" = -120;
+"@MMK_R_V2" = -120;
+"@MMK_R_Wgrave2" = -120;
+"@MMK_R_Y2" = -120;
+};
+"@MMK_L_quoteleft" = {
+"@MMK_R_A2" = -120;
+"@MMK_R_J2" = -120;
+};
+"@MMK_L_r" = {
+"@MMK_R_a2" = -9;
+"@MMK_R_c" = -9;
+"@MMK_R_comma2" = -60;
+"@MMK_R_y2" = -20;
+};
+"@MMK_L_s" = {
+"@MMK_R_v2" = -20;
+"@MMK_R_wgrave2" = -20;
+"@MMK_R_y2" = -20;
+};
+"@MMK_L_seven" = {
+"@MMK_R_comma2" = -100;
+"@MMK_R_four" = -17;
+"@MMK_R_uni0326" = -60;
+};
+"@MMK_L_six" = {
+"@MMK_R_nine" = -37;
+"@MMK_R_seven2" = -17;
+};
+"@MMK_L_t" = {
+"@MMK_R_c" = -20;
+};
+"@MMK_L_v" = {
+"@MMK_R_a2" = -9;
+"@MMK_R_c" = -9;
+"@MMK_R_comma2" = -60;
+"@MMK_R_s2" = -20;
+"@MMK_R_y2" = -20;
+};
+"@MMK_L_wgrave" = {
+"@MMK_R_a2" = -20;
+"@MMK_R_c" = -30;
+"@MMK_R_comma2" = -60;
+"@MMK_R_g2" = -19;
+"@MMK_R_s2" = -20;
+"@MMK_R_y2" = -20;
+};
+"@MMK_L_y" = {
+"@MMK_R_a2" = -20;
+"@MMK_R_c" = -20;
+"@MMK_R_comma2" = -60;
+"@MMK_R_v2" = -20;
+};
+"@MMK_L_z" = {
+"@MMK_R_v2" = -20;
+};
+A = {
+X = -20;
+};
+Aacute = {
+X = -20;
+};
+Abreve = {
+X = -20;
+};
+Abreveacute = {
+X = -20;
+};
+Abrevedotbelow = {
+X = -20;
+};
+Abrevegrave = {
+X = -20;
+};
+Abrevehoi = {
+X = -20;
+};
+Abrevetilde = {
+X = -20;
+};
+Acircumflex = {
+X = -20;
+};
+Acircumflexacute = {
+X = -20;
+};
+Acircumflexdotbelow = {
+X = -20;
+};
+Acircumflexgrave = {
+X = -20;
+};
+Acircumflexhoi = {
+X = -20;
+};
+Acircumflextilde = {
+X = -20;
+};
+Adblgrave = {
+X = -20;
+};
+Adieresis = {
+X = -20;
+};
+Adotbelow = {
+X = -20;
+};
+Agrave = {
+X = -20;
+};
+Ahoi = {
+X = -20;
+};
+Ainvertedbreve = {
+X = -20;
+};
+Amacron = {
+X = -20;
+};
+Aogonek = {
+X = -20;
+};
+Aring = {
+X = -20;
+};
+Aringacute = {
+X = -20;
+};
+Atilde = {
+X = -20;
+};
+D = {
+X = -19;
+};
+Dcaron = {
+X = -19;
+};
+Dcroat = {
+X = -19;
+};
+Eth = {
+X = -19;
+};
+F = {
+A = -37;
+AE = -37;
+AEacute = -37;
+Aacute = -37;
+Abreve = -37;
+Abreveacute = -37;
+Abrevedotbelow = -37;
+Abrevegrave = -37;
+Abrevehoi = -37;
+Abrevetilde = -37;
+Acircumflex = -37;
+Acircumflexacute = -37;
+Acircumflexdotbelow = -37;
+Acircumflexgrave = -37;
+Acircumflexhoi = -37;
+Acircumflextilde = -37;
+Adblgrave = -37;
+Adieresis = -37;
+Adotbelow = -37;
+Agrave = -37;
+Ahoi = -37;
+Ainvertedbreve = -37;
+Amacron = -37;
+Aogonek = -37;
+Aring = -37;
+Aringacute = -37;
+Atilde = -37;
+a = -50;
+aacute = -50;
+abreve = -50;
+abreveacute = -50;
+abrevedotbelow = -50;
+abrevegrave = -50;
+abrevehoi = -50;
+abrevetilde = -50;
+acircumflex = -50;
+acircumflexacute = -50;
+acircumflexdotbelow = -50;
+acircumflexgrave = -50;
+acircumflexhoi = -50;
+acircumflextilde = -50;
+adblgrave = -50;
+adieresis = -50;
+adotbelow = -50;
+ae = -50;
+aeacute = -50;
+agrave = -50;
+ahoi = -50;
+ainvertedbreve = -50;
+amacron = -50;
+aogonek = -50;
+aring = -50;
+aringacute = -50;
+atilde = -50;
+c = -60;
+cacute = -60;
+ccaron = -60;
+ccedilla = -60;
+ccircumflex = -60;
+cdotaccent = -60;
+cent = -60;
+colon = -60;
+comma = -60;
+commercialminussign = -60;
+d = -60;
+dcaron = -60;
+dcroat = -60;
+dieresisbelowcomb = -60;
+dz = -60;
+dzcaron = -60;
+e = -60;
+eacute = -60;
+ebreve = -60;
+ecaron = -60;
+ecircumflex = -60;
+ecircumflexacute = -60;
+ecircumflexdotbelow = -60;
+ecircumflexgrave = -60;
+ecircumflexhoi = -60;
+ecircumflextilde = -60;
+edblgrave = -60;
+edieresis = -60;
+edotaccent = -60;
+edotbelow = -60;
+egrave = -60;
+ehoi = -60;
+einvertedbreve = -60;
+ellipsis = -60;
+emacron = -60;
+eng = -40;
+eogonek = -60;
+etilde = -60;
+i = -40;
+idotbelow = -40;
+ij = -40;
+j = -60;
+m = -40;
+n = -40;
+nacute = -40;
+ncaron = -40;
+ncommaaccent = -40;
+nj = -40;
+ntilde = -40;
+o = -60;
+oacute = -60;
+obreve = -60;
+ocircumflex = -60;
+ocircumflexacute = -60;
+ocircumflexdotbelow = -60;
+ocircumflexgrave = -60;
+ocircumflexhoi = -60;
+ocircumflextilde = -60;
+odblgrave = -60;
+odieresis = -60;
+odieresismacron = -60;
+odotaccentmacron = -60;
+odotbelow = -60;
+oe = -60;
+ograve = -60;
+ohoi = -60;
+ohorn = -60;
+ohornacute = -60;
+ohorndotbelow = -60;
+ohorngrave = -60;
+ohornhoi = -60;
+ohorntilde = -60;
+ohungarumlaut = -60;
+oinvertedbreve = -60;
+omacron = -60;
+oogonek = -60;
+oslash = -60;
+oslashacute = -60;
+otilde = -60;
+otildemacron = -60;
+period = -60;
+periodcentered = -60;
+q = -60;
+quotedblbase = -60;
+r = -40;
+racute = -40;
+rcaron = -40;
+rcommaaccent = -40;
+rdblgrave = -40;
+rinvertedbreve = -40;
+u = -40;
+uacute = -40;
+ubreve = -40;
+ucircumflex = -40;
+udblgrave = -40;
+udieresis = -40;
+udotbelow = -40;
+ugrave = -40;
+uhoi = -40;
+uhorn = -40;
+uhornacute = -40;
+uhorndotbelow = -40;
+uhorngrave = -40;
+uhornhoi = -40;
+uhorntilde = -40;
+uhungarumlaut = -40;
+uinvertedbreve = -40;
+umacron = -40;
+uogonek = -40;
+uring = -40;
+utilde = -40;
+};
+K = {
+X = -23;
+};
+Kcommaaccent = {
+X = -23;
+};
+O = {
+X = -19;
+};
+Oacute = {
+X = -19;
+};
+Obreve = {
+X = -19;
+};
+Ocircumflex = {
+X = -19;
+};
+Ocircumflexacute = {
+X = -19;
+};
+Ocircumflexdotbelow = {
+X = -19;
+};
+Ocircumflexgrave = {
+X = -19;
+};
+Ocircumflexhoi = {
+X = -19;
+};
+Ocircumflextilde = {
+X = -19;
+};
+Odblgrave = {
+X = -19;
+};
+Odieresis = {
+X = -19;
+};
+Odieresismacron = {
+X = -19;
+};
+Odotaccentmacron = {
+X = -19;
+};
+Odotbelow = {
+X = -19;
+};
+Ograve = {
+X = -19;
+};
+Ohoi = {
+X = -19;
+};
+Ohorn = {
+X = -19;
+};
+Ohornacute = {
+X = -19;
+};
+Ohorndotbelow = {
+X = -19;
+};
+Ohorngrave = {
+X = -19;
+};
+Ohornhoi = {
+X = -19;
+};
+Ohorntilde = {
+X = -19;
+};
+Ohungarumlaut = {
+X = -19;
+};
+Oinvertedbreve = {
+X = -19;
+};
+Omacron = {
+X = -19;
+};
+Oogonek = {
+X = -19;
+};
+Oslash = {
+X = -19;
+};
+Oslashacute = {
+X = -19;
+};
+Otilde = {
+X = -19;
+};
+Otildemacron = {
+X = -19;
+};
+P = {
+A = -37;
+AE = -37;
+AEacute = -37;
+Aacute = -37;
+Abreve = -37;
+Abreveacute = -37;
+Abrevedotbelow = -37;
+Abrevegrave = -37;
+Abrevehoi = -37;
+Abrevetilde = -37;
+Acircumflex = -37;
+Acircumflexacute = -37;
+Acircumflexdotbelow = -37;
+Acircumflexgrave = -37;
+Acircumflexhoi = -37;
+Acircumflextilde = -37;
+Adblgrave = -37;
+Adieresis = -37;
+Adotbelow = -37;
+Agrave = -37;
+Ahoi = -37;
+Ainvertedbreve = -37;
+Amacron = -37;
+Aogonek = -37;
+Aring = -37;
+Aringacute = -37;
+Atilde = -37;
+Y = -17;
+Yacute = -17;
+Ycircumflex = -17;
+Ydieresis = -17;
+Ydotbelow = -17;
+Ygrave = -17;
+Yhoi = -17;
+Ymacron = -17;
+Ytilde = -17;
+a = -40;
+aacute = -40;
+abreve = -40;
+abreveacute = -40;
+abrevedotbelow = -40;
+abrevegrave = -40;
+abrevehoi = -40;
+abrevetilde = -40;
+acircumflex = -40;
+acircumflexacute = -40;
+acircumflexdotbelow = -40;
+acircumflexgrave = -40;
+acircumflexhoi = -40;
+acircumflextilde = -40;
+adblgrave = -40;
+adieresis = -40;
+adotbelow = -40;
+ae = -40;
+aeacute = -40;
+agrave = -40;
+ahoi = -40;
+ainvertedbreve = -40;
+amacron = -40;
+aogonek = -40;
+aring = -40;
+aringacute = -40;
+atilde = -40;
+c = -40;
+cacute = -40;
+ccaron = -40;
+ccedilla = -40;
+ccircumflex = -40;
+cdotaccent = -40;
+cent = -40;
+colon = -120;
+comma = -120;
+commercialminussign = -120;
+d = -40;
+dcaron = -40;
+dcroat = -40;
+dieresisbelowcomb = -120;
+dz = -40;
+dzcaron = -40;
+e = -40;
+eacute = -40;
+ebreve = -40;
+ecaron = -40;
+ecircumflex = -40;
+ecircumflexacute = -40;
+ecircumflexdotbelow = -40;
+ecircumflexgrave = -40;
+ecircumflexhoi = -40;
+ecircumflextilde = -40;
+edblgrave = -40;
+edieresis = -40;
+edotaccent = -40;
+edotbelow = -40;
+egrave = -40;
+ehoi = -40;
+einvertedbreve = -40;
+ellipsis = -120;
+emacron = -40;
+eogonek = -40;
+etilde = -40;
+j = -40;
+o = -40;
+oacute = -40;
+obreve = -40;
+ocircumflex = -40;
+ocircumflexacute = -40;
+ocircumflexdotbelow = -40;
+ocircumflexgrave = -40;
+ocircumflexhoi = -40;
+ocircumflextilde = -40;
+odblgrave = -40;
+odieresis = -40;
+odieresismacron = -40;
+odotaccentmacron = -40;
+odotbelow = -40;
+oe = -40;
+ograve = -40;
+ohoi = -40;
+ohorn = -40;
+ohornacute = -40;
+ohorndotbelow = -40;
+ohorngrave = -40;
+ohornhoi = -40;
+ohorntilde = -40;
+ohungarumlaut = -40;
+oinvertedbreve = -40;
+omacron = -40;
+oogonek = -40;
+oslash = -40;
+oslashacute = -40;
+otilde = -40;
+otildemacron = -40;
+period = -120;
+periodcentered = -120;
+q = -40;
+quotedblbase = -120;
+s = -17;
+sacute = -17;
+scaron = -17;
+scedilla = -17;
+scircumflex = -17;
+scommaaccent = -17;
+};
+Q = {
+X = -19;
+};
+R = {
+X = -9;
+j = -17;
+};
+Racute = {
+X = -9;
+j = -17;
+};
+Rcaron = {
+X = -9;
+j = -17;
+};
+Rcommaaccent = {
+X = -9;
+j = -17;
+};
+Rdblgrave = {
+X = -9;
+j = -17;
+};
+Rinvertedbreve = {
+X = -9;
+j = -17;
+};
+Schwa = {
+X = -19;
+};
+T = {
+j = -17;
+x = -17;
+};
+Tbar = {
+j = -17;
+x = -17;
+};
+Tcaron = {
+j = -17;
+x = -17;
+};
+Tcedilla = {
+j = -17;
+x = -17;
+};
+Tcommaaccent = {
+j = -17;
+x = -17;
+};
+X = {
+A = -20;
+AE = -20;
+AEacute = -20;
+Aacute = -20;
+Abreve = -20;
+Abreveacute = -20;
+Abrevedotbelow = -20;
+Abrevegrave = -20;
+Abrevehoi = -20;
+Abrevetilde = -20;
+Acircumflex = -20;
+Acircumflexacute = -20;
+Acircumflexdotbelow = -20;
+Acircumflexgrave = -20;
+Acircumflexhoi = -20;
+Acircumflextilde = -20;
+Adblgrave = -20;
+Adieresis = -20;
+Adotbelow = -20;
+Agrave = -20;
+Ahoi = -20;
+Ainvertedbreve = -20;
+Amacron = -20;
+Aogonek = -20;
+Aring = -20;
+Aringacute = -20;
+Atilde = -20;
+C = -19;
+Cacute = -19;
+Ccaron = -19;
+Ccedilla = -19;
+Ccircumflex = -19;
+Cdotaccent = -19;
+G = -19;
+Gbreve = -19;
+Gcaron = -19;
+Gcircumflex = -19;
+Gcommaaccent = -19;
+Gdotaccent = -19;
+O = -19;
+OE = -19;
+Oacute = -19;
+Obreve = -19;
+Ocircumflex = -19;
+Ocircumflexacute = -19;
+Ocircumflexdotbelow = -19;
+Ocircumflexgrave = -19;
+Ocircumflexhoi = -19;
+Ocircumflextilde = -19;
+Odblgrave = -19;
+Odieresis = -19;
+Odieresismacron = -19;
+Odotaccentmacron = -19;
+Odotbelow = -19;
+Ograve = -19;
+Ohoi = -19;
+Ohorn = -19;
+Ohornacute = -19;
+Ohorndotbelow = -19;
+Ohorngrave = -19;
+Ohornhoi = -19;
+Ohorntilde = -19;
+Ohungarumlaut = -19;
+Oinvertedbreve = -19;
+Omacron = -19;
+Oogonek = -19;
+Oslash = -19;
+Oslashacute = -19;
+Otilde = -19;
+Otildemacron = -19;
+Q = -19;
+Schwa = -19;
+c = -9;
+cacute = -9;
+ccaron = -9;
+ccedilla = -9;
+ccircumflex = -9;
+cdotaccent = -9;
+cent = -9;
+d = -9;
+dcaron = -9;
+dcroat = -9;
+dz = -9;
+dzcaron = -9;
+e = -9;
+eacute = -9;
+ebreve = -9;
+ecaron = -9;
+ecircumflex = -9;
+ecircumflexacute = -9;
+ecircumflexdotbelow = -9;
+ecircumflexgrave = -9;
+ecircumflexhoi = -9;
+ecircumflextilde = -9;
+edblgrave = -9;
+edieresis = -9;
+edotaccent = -9;
+edotbelow = -9;
+egrave = -9;
+ehoi = -9;
+einvertedbreve = -9;
+emacron = -9;
+eogonek = -9;
+etilde = -9;
+j = -40;
+o = -9;
+oacute = -9;
+obreve = -9;
+ocircumflex = -9;
+ocircumflexacute = -9;
+ocircumflexdotbelow = -9;
+ocircumflexgrave = -9;
+ocircumflexhoi = -9;
+ocircumflextilde = -9;
+odblgrave = -9;
+odieresis = -9;
+odieresismacron = -9;
+odotaccentmacron = -9;
+odotbelow = -9;
+oe = -9;
+ograve = -9;
+ohoi = -9;
+ohorn = -9;
+ohornacute = -9;
+ohorndotbelow = -9;
+ohorngrave = -9;
+ohornhoi = -9;
+ohorntilde = -9;
+ohungarumlaut = -9;
+oinvertedbreve = -9;
+omacron = -9;
+oogonek = -9;
+oslash = -9;
+oslashacute = -9;
+otilde = -9;
+otildemacron = -9;
+q = -9;
+};
+Y = {
+j = -17;
+x = -40;
+};
+Yacute = {
+j = -17;
+x = -40;
+};
+Ycircumflex = {
+j = -17;
+x = -40;
+};
+Ydieresis = {
+j = -17;
+x = -40;
+};
+Ydotbelow = {
+j = -17;
+x = -40;
+};
+Ygrave = {
+j = -17;
+x = -40;
+};
+Yhoi = {
+j = -17;
+x = -40;
+};
+Ymacron = {
+j = -17;
+x = -40;
+};
+Ytilde = {
+j = -17;
+x = -40;
+};
+b = {
+x = -9;
+};
+bracketleft = {
+j = 80;
+};
+colon = {
+j = 100;
+};
+comma = {
+j = 100;
+};
+commaaccentcomb = {
+j = 100;
+};
+commercialminussign = {
+j = 100;
+};
+dieresisbelowcomb = {
+j = 100;
+};
+ellipsis = {
+j = 100;
+};
+f = {
+asterisk = 80;
+j = -17;
+parenright = 50;
+question = 50;
+x = -20;
+};
+f_f = {
+asterisk = 80;
+j = -17;
+parenright = 50;
+question = 50;
+x = -20;
+};
+fi = {
+j = -20;
+};
+g = {
+j = 20;
+};
+gbreve = {
+j = 20;
+};
+gcaron = {
+j = 20;
+};
+gcircumflex = {
+j = 20;
+};
+gcommaaccent = {
+j = 20;
+};
+gdotaccent = {
+j = 20;
+};
+germandbls = {
+t = -20;
+tbar = -20;
+tcaron = -20;
+tcedilla = -20;
+tcommaaccent = -20;
+};
+i = {
+j = -20;
+};
+idotbelow = {
+j = -20;
+};
+o = {
+x = -9;
+};
+oacute = {
+x = -9;
+};
+obreve = {
+x = -9;
+};
+ocircumflex = {
+x = -9;
+};
+ocircumflexacute = {
+x = -9;
+};
+ocircumflexdotbelow = {
+x = -9;
+};
+ocircumflexgrave = {
+x = -9;
+};
+ocircumflexhoi = {
+x = -9;
+};
+ocircumflextilde = {
+x = -9;
+};
+odblgrave = {
+x = -9;
+};
+odieresis = {
+x = -9;
+};
+odieresismacron = {
+x = -9;
+};
+odotaccentmacron = {
+x = -9;
+};
+odotbelow = {
+x = -9;
+};
+ograve = {
+x = -9;
+};
+ohoi = {
+x = -9;
+};
+ohorn = {
+x = -9;
+};
+ohornacute = {
+x = -9;
+};
+ohorndotbelow = {
+x = -9;
+};
+ohorngrave = {
+x = -9;
+};
+ohornhoi = {
+x = -9;
+};
+ohorntilde = {
+x = -9;
+};
+ohungarumlaut = {
+x = -9;
+};
+oinvertedbreve = {
+x = -9;
+};
+omacron = {
+x = -9;
+};
+oogonek = {
+x = -9;
+};
+oslash = {
+x = -9;
+};
+oslashacute = {
+x = -9;
+};
+otilde = {
+x = -9;
+};
+otildemacron = {
+x = -9;
+};
+p = {
+x = -9;
+};
+parenleft = {
+y = 60;
+yacute = 60;
+ycircumflex = 60;
+ydieresis = 60;
+ydotbelow = 60;
+ygrave = 60;
+yhoi = 60;
+ymacron = 60;
+ytilde = 60;
+};
+period = {
+j = 100;
+};
+periodcentered = {
+j = 100;
+};
+periodcentered.loclCAT = {
+j = 100;
+};
+quotedblbase = {
+j = 100;
+};
+quotedblright = {
+j = 100;
+};
+quotesinglbase = {
+j = 100;
+};
+r = {
+j = -9;
+x = -9;
+};
+racute = {
+j = -9;
+x = -9;
+};
+rcaron = {
+j = -9;
+x = -9;
+};
+rcommaaccent = {
+j = -9;
+x = -9;
+};
+rdblgrave = {
+j = -9;
+x = -9;
+};
+rinvertedbreve = {
+j = -9;
+x = -9;
+};
+s = {
+x = -10;
+};
+sacute = {
+x = -10;
+};
+scaron = {
+x = -10;
+};
+scedilla = {
+x = -10;
+};
+scircumflex = {
+x = -10;
+};
+scommaaccent = {
+x = -10;
+};
+semicolon = {
+j = 100;
+};
+thorn = {
+x = -9;
+};
+v = {
+x = -20;
+};
+w = {
+x = -20;
+};
+wacute = {
+j = -49;
+x = -20;
+};
+wcircumflex = {
+j = -49;
+x = -20;
+};
+wdieresis = {
+j = -49;
+x = -20;
+};
+wgrave = {
+j = -49;
+x = -20;
+};
+x = {
+c = -9;
+cacute = -9;
+ccaron = -9;
+ccedilla = -9;
+ccircumflex = -9;
+cdotaccent = -9;
+cent = -9;
+d = -9;
+dcaron = -9;
+dcroat = -9;
+dz = -9;
+dzcaron = -9;
+e = -9;
+eacute = -9;
+ebreve = -9;
+ecaron = -9;
+ecircumflex = -9;
+ecircumflexacute = -9;
+ecircumflexdotbelow = -9;
+ecircumflexgrave = -9;
+ecircumflexhoi = -9;
+ecircumflextilde = -9;
+edblgrave = -9;
+edieresis = -9;
+edotaccent = -9;
+edotbelow = -9;
+egrave = -9;
+ehoi = -9;
+einvertedbreve = -9;
+emacron = -9;
+eogonek = -9;
+etilde = -9;
+o = -9;
+oacute = -9;
+obreve = -9;
+ocircumflex = -9;
+ocircumflexacute = -9;
+ocircumflexdotbelow = -9;
+ocircumflexgrave = -9;
+ocircumflexhoi = -9;
+ocircumflextilde = -9;
+odblgrave = -9;
+odieresis = -9;
+odieresismacron = -9;
+odotaccentmacron = -9;
+odotbelow = -9;
+oe = -9;
+ograve = -9;
+ohoi = -9;
+ohorn = -9;
+ohornacute = -9;
+ohorndotbelow = -9;
+ohorngrave = -9;
+ohornhoi = -9;
+ohorntilde = -9;
+ohungarumlaut = -9;
+oinvertedbreve = -9;
+omacron = -9;
+oogonek = -9;
+oslash = -9;
+oslashacute = -9;
+otilde = -9;
+otildemacron = -9;
+q = -9;
+u = -10;
+uacute = -10;
+ubreve = -10;
+ucircumflex = -10;
+udblgrave = -10;
+udieresis = -10;
+udotbelow = -10;
+ugrave = -10;
+uhoi = -10;
+uhorn = -10;
+uhornacute = -10;
+uhorndotbelow = -10;
+uhorngrave = -10;
+uhornhoi = -10;
+uhorntilde = -10;
+uhungarumlaut = -10;
+uinvertedbreve = -10;
+umacron = -10;
+uogonek = -10;
+uring = -10;
+utilde = -10;
+v = -20;
+w = -20;
+wacute = -20;
+wcircumflex = -20;
+wdieresis = -20;
+wgrave = -20;
+};
+y = {
+x = -23;
+};
+yacute = {
+x = -23;
+};
+ycircumflex = {
+x = -23;
+};
+ydieresis = {
+x = -23;
+};
+ydotbelow = {
+x = -23;
+};
+ygrave = {
+x = -23;
+};
+yhoi = {
+x = -23;
+};
+ymacron = {
+x = -23;
+};
+ytilde = {
+x = -23;
+};
+};
+};
+metrics = (
+{
+type = ascender;
+},
+{
+name = base;
+},
+{
+type = "cap height";
+},
+{
+type = descender;
+},
+{
+type = "italic angle";
+},
+{
+type = "x-height";
+}
+);
+properties = (
+{
+key = copyrights;
+values = (
+{
+language = dflt;
+value = "Copyright 2024 The Madhuban Project Authors (https://github.com/magictype/madhuban)\nCopyright 2024 The Srinaga Project Authors";
+}
+);
+},
+{
+key = designerURL;
+value = jaiki.in;
+},
+{
+key = designers;
+values = (
+{
+language = dflt;
+value = "Jaikishan Patel, Magic Type, Richard Sepsi, Cristiano Sobral";
+}
+);
+},
+{
+key = licenseURL;
+value = "https://scripts.sil.org/OFL";
+},
+{
+key = licenses;
+values = (
+{
+language = dflt;
+value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL\nThis Font Software is licensed under the SIL Open Font License, Version 1.1.\n\nThis license is copied below, and is also available with a FAQ at:\n\nhttp://scripts.sil.org/OFL\n";
+}
+);
+},
+{
+key = manufacturerURL;
+value = magictype.in;
+},
+{
+key = manufacturers;
+values = (
+{
+language = dflt;
+value = "The Srinaga Project Authors";
+}
+);
+}
+);
+stems = (
+{
+horizontal = 1;
+name = H1;
+},
+{
+horizontal = 1;
+name = H2;
+},
+{
+horizontal = 1;
+name = H3;
+},
+{
+horizontal = 1;
+name = Hstem;
+},
+{
+name = V1;
+},
+{
+name = V2;
+},
+{
+name = Vstem;
+}
+);
+unitsPerEm = 1000;
+userData = {
+GSDimensionPlugin.Dimensions = {
+"BBA9C4CC-16BF-4D96-9809-7FD759381829" = {
+HV = 73;
+HH = 63;
+OV = 73;
+OH = 63;
+oV = 68;
+oH = 60;
+nV = 68;
+tH = 60;
+};
+"2FEAAE27-63B5-41AA-B98F-0872FA373B5B" = {
+HV = 73;
+HH = 63;
+OV = 73;
+OH = 63;
+oV = 68;
+oH = 60;
+nV = 68;
+tH = 60;
+};
+"7A4E2608-894C-42C3-A821-B6FEA079E459" = {
+HV = 167;
+HH = 147;
+OV = 168;
+OH = 146;
+oV = 160;
+oH = 138;
+nV = 158;
+tH = 138;
+};
+};
+};
+versionMajor = 3;
+versionMinor = 100;
+}

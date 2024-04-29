@@ -1,0 +1,184 @@
+{
+glyphname = breveinvertedcomb;
+layers = (
+{
+anchors = (
+{
+name = _t.uni0302_1;
+position = "{-200, 502}";
+},
+{
+name = _t.uni0302_1_2;
+position = "{-200, 502}";
+},
+{
+name = _m.uni0302_1;
+position = "{-200, 502}";
+},
+{
+name = _t.uni0302;
+position = "{-200, 502}";
+},
+{
+name = t.uni0302;
+position = "{-164, 756}";
+}
+);
+hints = (
+{
+horizontal = 1;
+place = (674,85);
+type = Stem;
+},
+{
+place = (-445,84);
+type = Stem;
+},
+{
+place = (-192,84);
+type = Stem;
+}
+);
+layerId = "7A4E2608-894C-42C3-A821-B6FEA079E459";
+shapes = (
+{
+closed = 1;
+nodes = (
+(-71,611,l),
+(-58,705,o),
+(-110,759,o),
+(-219,759,cs),
+(-328,759,o),
+(-395,705,o),
+(-408,611,c),
+(-324,611,l),
+(-318,652,o),
+(-286,674,o),
+(-231,674,cs),
+(-176,674,o),
+(-149,652,o),
+(-155,611,c)
+);
+}
+);
+width = 0;
+},
+{
+anchors = (
+{
+name = _t.uni0302_1;
+position = "{-197, 502}";
+},
+{
+name = _t.uni0302_1_2;
+position = "{-197, 502}";
+},
+{
+name = _m.uni0302_1;
+position = "{-197, 502}";
+},
+{
+name = _t.uni0302;
+position = "{-197, 502}";
+},
+{
+name = t.uni0302;
+position = "{-161, 756}";
+}
+);
+hints = (
+{
+horizontal = 1;
+place = (681,62);
+type = Stem;
+}
+);
+layerId = "2FEAAE27-63B5-41AA-B98F-0872FA373B5B";
+shapes = (
+{
+closed = 1;
+nodes = (
+(-45,595,l),
+(-31,690,o),
+(-81,743,o),
+(-184,743,cs),
+(-287,743,o),
+(-351,690,o),
+(-365,595,c),
+(-305,595,l),
+(-296,652,o),
+(-257,681,o),
+(-193,681,cs),
+(-128,681,o),
+(-97,652,o),
+(-106,595,c)
+);
+}
+);
+width = 0;
+},
+{
+anchors = (
+{
+name = _t.uni0302_1;
+position = "{-196, 502}";
+},
+{
+name = _t.uni0302_1_2;
+position = "{-196, 502}";
+},
+{
+name = _m.uni0302_1;
+position = "{-196, 502}";
+},
+{
+name = _t.uni0302;
+position = "{-196, 502}";
+},
+{
+name = t.uni0302;
+position = "{-160, 756}";
+}
+);
+hints = (
+{
+horizontal = 1;
+place = (685,50);
+type = Stem;
+},
+{
+place = (-376,48);
+type = Stem;
+},
+{
+place = (-114,49);
+type = Stem;
+}
+);
+layerId = "BBA9C4CC-16BF-4D96-9809-7FD759381829";
+shapes = (
+{
+closed = 1;
+nodes = (
+(-32,587,l),
+(-18,683,o),
+(-66,735,o),
+(-167,735,cs),
+(-267,735,o),
+(-329,683,o),
+(-343,587,c),
+(-295,587,l),
+(-285,652,o),
+(-242,685,o),
+(-174,685,cs),
+(-104,685,o),
+(-71,652,o),
+(-81,587,c)
+);
+}
+);
+width = 0;
+}
+);
+unicode = 785;
+}

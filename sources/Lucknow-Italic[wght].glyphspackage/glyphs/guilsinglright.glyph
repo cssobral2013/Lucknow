@@ -1,0 +1,69 @@
+{
+glyphname = guilsinglright;
+layers = (
+{
+hints = (
+{
+place = (70,269);
+type = Stem;
+}
+);
+layerId = "7A4E2608-894C-42C3-A821-B6FEA079E459";
+shapes = (
+{
+closed = 1;
+nodes = (
+(334,314,l),
+(230,493,l),
+(90,493,l),
+(194,314,l),
+(40,136,l),
+(180,136,l)
+);
+}
+);
+width = 409;
+},
+{
+layerId = "2FEAAE27-63B5-41AA-B98F-0872FA373B5B";
+shapes = (
+{
+closed = 1;
+nodes = (
+(288,314,l),
+(184,493,l),
+(89,493,l),
+(193,314,l),
+(39,136,l),
+(134,136,l)
+);
+}
+);
+width = 362;
+},
+{
+hints = (
+{
+place = (68,202);
+type = Stem;
+}
+);
+layerId = "BBA9C4CC-16BF-4D96-9809-7FD759381829";
+shapes = (
+{
+closed = 1;
+nodes = (
+(265,314,l),
+(161,493,l),
+(88,493,l),
+(192,314,l),
+(38,136,l),
+(111,136,l)
+);
+}
+);
+width = 338;
+}
+);
+unicode = 8250;
+}

@@ -1,0 +1,84 @@
+{
+glyphname = Elcyr;
+layers = (
+{
+hints = (
+{
+horizontal = 1;
+place = (-10,21);
+target = up;
+type = BottomGhost;
+}
+);
+layerId = "7A4E2608-894C-42C3-A821-B6FEA079E459";
+shapes = (
+{
+closed = 1;
+nodes = (
+(-20,-10,l),
+(168,-10,l),
+(409,428,l),
+(527,-10,l),
+(716,-10,l),
+(487,700,l),
+(407,700,l)
+);
+}
+);
+width = 796;
+},
+{
+hints = (
+{
+horizontal = 1;
+place = (-10,21);
+target = up;
+type = BottomGhost;
+}
+);
+layerId = "2FEAAE27-63B5-41AA-B98F-0872FA373B5B";
+shapes = (
+{
+closed = 1;
+nodes = (
+(-13,-10,l),
+(100,-10,l),
+(416,531,l),
+(580,-10,l),
+(693,-10,l),
+(464,700,l),
+(414,700,l)
+);
+}
+);
+width = 780;
+},
+{
+hints = (
+{
+horizontal = 1;
+place = (-10,21);
+target = up;
+type = BottomGhost;
+}
+);
+layerId = "BBA9C4CC-16BF-4D96-9809-7FD759381829";
+shapes = (
+{
+closed = 1;
+nodes = (
+(-10,-10,l),
+(66,-10,l),
+(419,582,l),
+(606,-10,l),
+(682,-10,l),
+(452,700,l),
+(417,700,l)
+);
+}
+);
+width = 772;
+}
+);
+unicode = 1051;
+}

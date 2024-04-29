@@ -1,0 +1,168 @@
+{
+glyphname = hungarumlautcomb;
+layers = (
+{
+anchors = (
+{
+name = _t.uni0946_1;
+position = "{-442, 490}";
+},
+{
+name = _t.uni0946_1_2;
+position = "{-442, 490}";
+},
+{
+name = _t.uni0946_1_3;
+position = "{-442, 490}";
+},
+{
+name = _t.uni0946;
+position = "{-442, 490}";
+},
+{
+name = _m.uni0946;
+position = "{-442, 490}";
+},
+{
+name = _m.uni0946_2;
+position = "{-442, 490}";
+},
+{
+name = m.uni0946_2;
+position = "{-358, 809}";
+}
+);
+layerId = "62CCE428-27AF-4174-8C32-8EDF06C2E6AE";
+shapes = (
+{
+closed = 1;
+nodes = (
+(-310,757,l),
+(-205,757,l),
+(-338,555,l),
+(-433,555,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(-478,759,l),
+(-373,759,l),
+(-506,557,l),
+(-601,557,l)
+);
+}
+);
+width = 0;
+},
+{
+anchors = (
+{
+name = _t.uni0946_1;
+position = "{-442, 490}";
+},
+{
+name = _t.uni0946_1_2;
+position = "{-442, 490}";
+},
+{
+name = _t.uni0946_1_3;
+position = "{-442, 490}";
+},
+{
+name = _t.uni0946;
+position = "{-442, 490}";
+},
+{
+name = _m.uni0946;
+position = "{-442, 490}";
+},
+{
+name = _m.uni0946_2;
+position = "{-442, 490}";
+},
+{
+name = m.uni0946_2;
+position = "{-358, 809}";
+}
+);
+layerId = "7A295977-FA7A-4808-B07F-0795E8A98AF6";
+shapes = (
+{
+closed = 1;
+nodes = (
+(-235,733,l),
+(-166,733,l),
+(-305,531,l),
+(-364,531,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(-391,735,l),
+(-322,735,l),
+(-461,533,l),
+(-520,533,l)
+);
+}
+);
+width = 0;
+},
+{
+anchors = (
+{
+name = _t.uni0946_1;
+position = "{-442, 490}";
+},
+{
+name = _t.uni0946_1_2;
+position = "{-442, 490}";
+},
+{
+name = _t.uni0946_1_3;
+position = "{-442, 490}";
+},
+{
+name = _t.uni0946;
+position = "{-442, 490}";
+},
+{
+name = _m.uni0946;
+position = "{-442, 490}";
+},
+{
+name = _m.uni0946_2;
+position = "{-442, 490}";
+},
+{
+name = m.uni0946_2;
+position = "{-358, 809}";
+}
+);
+layerId = "FBBD23DC-4A32-4E17-882F-E93472546798";
+shapes = (
+{
+closed = 1;
+nodes = (
+(-235,733,l),
+(-166,733,l),
+(-305,531,l),
+(-364,531,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(-391,735,l),
+(-322,735,l),
+(-461,533,l),
+(-520,533,l)
+);
+}
+);
+width = 0;
+}
+);
+unicode = 779;
+}

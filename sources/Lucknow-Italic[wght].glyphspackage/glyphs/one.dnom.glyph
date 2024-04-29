@@ -1,0 +1,88 @@
+{
+glyphname = one.dnom;
+layers = (
+{
+hints = (
+{
+horizontal = 1;
+place = (0,21);
+target = up;
+type = BottomGhost;
+},
+{
+place = (113,83);
+type = Stem;
+}
+);
+layerId = "7A4E2608-894C-42C3-A821-B6FEA079E459";
+shapes = (
+{
+closed = 1;
+nodes = (
+(16,298,l),
+(6,230,l),
+(100,259,l),
+(64,0,l),
+(147,0,l),
+(197,355,l)
+);
+}
+);
+width = 241;
+},
+{
+hints = (
+{
+horizontal = 1;
+place = (0,21);
+target = up;
+type = BottomGhost;
+}
+);
+layerId = "2FEAAE27-63B5-41AA-B98F-0872FA373B5B";
+shapes = (
+{
+closed = 1;
+nodes = (
+(17,306,l),
+(10,261,l),
+(105,293,l),
+(63,0,l),
+(115,0,l),
+(165,355,l)
+);
+}
+);
+width = 218;
+},
+{
+hints = (
+{
+horizontal = 1;
+place = (0,21);
+target = up;
+type = BottomGhost;
+},
+{
+place = (112,36);
+type = Stem;
+}
+);
+layerId = "BBA9C4CC-16BF-4D96-9809-7FD759381829";
+shapes = (
+{
+closed = 1;
+nodes = (
+(17,310,l),
+(12,277,l),
+(107,310,l),
+(63,0,l),
+(99,0,l),
+(149,355,l)
+);
+}
+);
+width = 206;
+}
+);
+}

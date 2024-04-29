@@ -1,0 +1,168 @@
+{
+glyphname = numero;
+layers = (
+{
+anchors = (
+{
+name = t.uni0941;
+position = "{1033, 365}";
+},
+{
+name = t.uni0946_1;
+position = "{1033, 710}";
+},
+{
+name = t.uni0335;
+position = "{1012, 530}";
+},
+{
+name = t.uni0328;
+position = "{1097, 366}";
+},
+{
+name = t.uni031B;
+position = "{1167, 651}";
+}
+);
+layerId = "62CCE428-27AF-4174-8C32-8EDF06C2E6AE";
+shapes = (
+{
+alignment = -1;
+ref = N;
+},
+{
+alignment = -1;
+pos = (772,-409);
+ref = macron;
+},
+{
+alignment = -1;
+pos = (819,366);
+ref = o;
+scale = (0.683,0.683);
+}
+);
+width = 1259;
+},
+{
+anchors = (
+{
+name = t.uni0941;
+position = "{1033, 365}";
+},
+{
+name = t.uni0335;
+position = "{1012, 530}";
+},
+{
+name = t.uni0328;
+position = "{1097, 366}";
+},
+{
+name = t.uni031B;
+position = "{1167, 651}";
+},
+{
+name = m.uni0328_2;
+position = "{1084, 367}";
+},
+{
+name = m.uni0941_2;
+position = "{1020, 366}";
+},
+{
+name = t.uni031B_3;
+position = "{1154, 654}";
+},
+{
+name = t.uni0335_2;
+position = "{1020, 536}";
+},
+{
+name = t.uni0946_1_3;
+position = "{1020, 714}";
+}
+);
+layerId = "7A295977-FA7A-4808-B07F-0795E8A98AF6";
+shapes = (
+{
+alignment = -1;
+ref = N;
+},
+{
+alignment = -1;
+pos = (762,-388);
+ref = macron;
+},
+{
+alignment = -1;
+pos = (803,366);
+ref = o;
+scale = (0.683,0.683);
+}
+);
+width = 1259;
+},
+{
+anchors = (
+{
+name = t.uni0941;
+position = "{1033, 365}";
+},
+{
+name = t.uni0335;
+position = "{1012, 530}";
+},
+{
+name = t.uni0328;
+position = "{1097, 366}";
+},
+{
+name = t.uni031B;
+position = "{1167, 651}";
+},
+{
+name = m.uni0328_2;
+position = "{1076, 367}";
+},
+{
+name = m.uni0941_2;
+position = "{1012, 366}";
+},
+{
+name = t.uni031B_3;
+position = "{1146, 654}";
+},
+{
+name = t.uni0335_2;
+position = "{1012, 536}";
+},
+{
+name = t.uni0946_1_3;
+position = "{1012, 714}";
+}
+);
+layerId = "FBBD23DC-4A32-4E17-882F-E93472546798";
+shapes = (
+{
+alignment = -1;
+ref = N;
+},
+{
+alignment = -1;
+pos = (757,-377);
+ref = macron;
+},
+{
+alignment = -1;
+pos = (795,366);
+ref = o;
+scale = (0.683,0.683);
+}
+);
+width = 1259;
+}
+);
+leftKerningGroup = B;
+unicode = 8470;
+}

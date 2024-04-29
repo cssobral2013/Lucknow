@@ -1,0 +1,83 @@
+{
+glyphname = Wacute;
+layers = (
+{
+anchors = (
+{
+name = m.uni0941_2;
+position = "{634, 0}";
+},
+{
+name = t.uni0946_1_3;
+position = "{635, 1013}";
+}
+);
+layerId = "62CCE428-27AF-4174-8C32-8EDF06C2E6AE";
+shapes = (
+{
+alignment = -1;
+ref = W;
+},
+{
+alignment = -1;
+pos = (970,206);
+ref = acutecomb;
+}
+);
+width = 1268;
+},
+{
+anchors = (
+{
+name = m.uni0941_2;
+position = "{634, 0}";
+},
+{
+name = m.uni0946_2;
+position = "{592, 1029}";
+}
+);
+layerId = "7A295977-FA7A-4808-B07F-0795E8A98AF6";
+shapes = (
+{
+alignment = -1;
+ref = W;
+},
+{
+alignment = -1;
+pos = (927,222);
+ref = acutecomb;
+}
+);
+width = 1252;
+},
+{
+anchors = (
+{
+name = m.uni0941_2;
+position = "{634, 0}";
+},
+{
+name = m.uni0946_2;
+position = "{570, 1037}";
+}
+);
+layerId = "FBBD23DC-4A32-4E17-882F-E93472546798";
+shapes = (
+{
+alignment = -1;
+ref = W;
+},
+{
+alignment = -1;
+pos = (905,230);
+ref = acutecomb;
+}
+);
+width = 1244;
+}
+);
+leftKerningGroup = Wacute;
+rightKerningGroup = Wacute2;
+unicode = 7810;
+}

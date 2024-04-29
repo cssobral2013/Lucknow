@@ -1,0 +1,81 @@
+{
+glyphname = strokelongcomb;
+layers = (
+{
+anchors = (
+{
+name = _t.uni0335;
+position = "{-400, 346}";
+},
+{
+name = _t.uni0335_2;
+position = "{-400, 346}";
+}
+);
+layerId = "62CCE428-27AF-4174-8C32-8EDF06C2E6AE";
+shapes = (
+{
+closed = 1;
+nodes = (
+(-665,388,l),
+(-136,388,l),
+(-136,304,l),
+(-665,304,l)
+);
+}
+);
+width = 0;
+},
+{
+anchors = (
+{
+name = _t.uni0335;
+position = "{-400, 346}";
+},
+{
+name = _t.uni0335_2;
+position = "{-400, 346}";
+}
+);
+layerId = "7A295977-FA7A-4808-B07F-0795E8A98AF6";
+shapes = (
+{
+closed = 1;
+nodes = (
+(-630,364,l),
+(-101,364,l),
+(-101,296,l),
+(-630,296,l)
+);
+}
+);
+width = 0;
+},
+{
+anchors = (
+{
+name = _t.uni0335;
+position = "{-400, 346}";
+},
+{
+name = _t.uni0335_2;
+position = "{-400, 346}";
+}
+);
+layerId = "FBBD23DC-4A32-4E17-882F-E93472546798";
+shapes = (
+{
+closed = 1;
+nodes = (
+(-612,352,l),
+(-83,352,l),
+(-83,292,l),
+(-612,292,l)
+);
+}
+);
+width = 0;
+}
+);
+unicode = 822;
+}

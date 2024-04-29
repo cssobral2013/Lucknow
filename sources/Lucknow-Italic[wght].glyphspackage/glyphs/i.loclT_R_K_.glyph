@@ -1,0 +1,194 @@
+{
+glyphname = i.loclTRK;
+layers = (
+{
+anchors = (
+{
+name = b.uni0321_2;
+position = "{62, 0}";
+},
+{
+name = m.uni0302_1;
+position = "{151, 646}";
+},
+{
+name = b.uni0328;
+position = "{77, 0}";
+}
+);
+hints = (
+{
+horizontal = 1;
+place = (0,21);
+target = up;
+type = BottomGhost;
+},
+{
+horizontal = 1;
+place = (564,143);
+type = Stem;
+},
+{
+place = (57,159);
+type = Stem;
+}
+);
+layerId = "7A4E2608-894C-42C3-A821-B6FEA079E459";
+shapes = (
+{
+closed = 1;
+nodes = (
+(78,500,l),
+(8,0,l),
+(167,0,l),
+(237,500,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(217,564,o),
+(253,594,o),
+(259,635,cs),
+(265,679,o),
+(237,707,o),
+(190,707,cs),
+(144,707,o),
+(106,677,o),
+(100,635,cs),
+(94,593,o),
+(125,564,o),
+(170,564,cs)
+);
+}
+);
+width = 273;
+},
+{
+anchors = (
+{
+name = b.uni0321_2;
+position = "{62, 0}";
+},
+{
+name = m.uni0302_1;
+position = "{151, 646}";
+},
+{
+name = b.uni0328;
+position = "{77, 0}";
+}
+);
+hints = (
+{
+horizontal = 1;
+place = (0,21);
+target = up;
+type = BottomGhost;
+},
+{
+horizontal = 1;
+place = (569,124);
+type = Stem;
+}
+);
+layerId = "2FEAAE27-63B5-41AA-B98F-0872FA373B5B";
+shapes = (
+{
+closed = 1;
+nodes = (
+(93,500,l),
+(23,0,l),
+(122,0,l),
+(192,500,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(189,569,o),
+(218,594,o),
+(224,630,c),
+(229,668,o),
+(208,693,o),
+(170,693,cs),
+(133,693,o),
+(103,668,o),
+(97,630,c),
+(93,595,o),
+(115,569,o),
+(153,569,cs)
+);
+}
+);
+width = 241;
+},
+{
+anchors = (
+{
+name = b.uni0321_2;
+position = "{62, 0}";
+},
+{
+name = m.uni0302_1;
+position = "{151, 646}";
+},
+{
+name = b.uni0328;
+position = "{77, 0}";
+}
+);
+hints = (
+{
+horizontal = 1;
+place = (0,21);
+target = up;
+type = BottomGhost;
+},
+{
+horizontal = 1;
+place = (571,114);
+type = Stem;
+},
+{
+place = (57,110);
+type = Stem;
+},
+{
+place = (79,69);
+type = Stem;
+}
+);
+layerId = "BBA9C4CC-16BF-4D96-9809-7FD759381829";
+shapes = (
+{
+closed = 1;
+nodes = (
+(100,500,l),
+(30,0,l),
+(99,0,l),
+(169,500,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(175,571,o),
+(201,593,o),
+(206,627,cs),
+(211,661,o),
+(193,685,o),
+(160,685,cs),
+(127,685,o),
+(101,662,o),
+(96,627,cs),
+(92,595,o),
+(110,571,o),
+(144,571,cs)
+);
+}
+);
+width = 225;
+}
+);
+}
