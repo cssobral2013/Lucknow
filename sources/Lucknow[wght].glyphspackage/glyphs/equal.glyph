@@ -2,24 +2,24 @@
 glyphname = equal;
 layers = (
 {
-layerId = "E5F094ED-45EA-480E-BC3C-862AD7D27802";
+layerId = "DF169942-312F-4CB9-BFF4-C95DA1EFA8DD";
 shapes = (
 {
 closed = 1;
 nodes = (
 (629,241,l),
-(629,157,l),
+(84,241,l),
 (84,157,l),
-(84,241,l)
+(629,157,l)
 );
 },
 {
 closed = 1;
 nodes = (
 (629,482,l),
-(629,398,l),
+(84,482,l),
 (84,398,l),
-(84,482,l)
+(629,398,l)
 );
 }
 );

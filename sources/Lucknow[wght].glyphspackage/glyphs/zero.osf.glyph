@@ -2,7 +2,7 @@
 glyphname = zero.osf;
 layers = (
 {
-layerId = "72BDA083-B3C3-4444-A72D-7A06DB42C04D";
+layerId = "84F707B8-E6F6-4560-9E91-EBCBB3F7C032";
 shapes = (
 {
 closed = 1;
@@ -44,7 +44,7 @@ nodes = (
 (606,249,cs),
 (606,300,o),
 (594,344,o),
-(571,383,cs),
+(571,383,c),
 (523,460,o),
 (435,505,o),
 (323,505,cs)
@@ -54,7 +54,7 @@ nodes = (
 width = 648;
 },
 {
-layerId = "E5F094ED-45EA-480E-BC3C-862AD7D27802";
+layerId = "DF169942-312F-4CB9-BFF4-C95DA1EFA8DD";
 shapes = (
 {
 closed = 1;
@@ -96,7 +96,7 @@ nodes = (
 (574,249,cs),
 (574,300,o),
 (563,345,o),
-(542,384,cs),
+(542,384,c),
 (498,461,o),
 (418,505,o),
 (316,505,cs)
@@ -106,7 +106,7 @@ nodes = (
 width = 632;
 },
 {
-layerId = "29E3C8E8-2B44-49C3-BAE8-24201C487834";
+layerId = "85DC3871-BA98-4DCB-A963-6B42D2E15F96";
 shapes = (
 {
 closed = 1;
