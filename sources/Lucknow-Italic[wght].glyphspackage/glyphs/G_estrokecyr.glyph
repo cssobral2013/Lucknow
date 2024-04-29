@@ -2,140 +2,78 @@
 glyphname = Gestrokecyr;
 layers = (
 {
-hints = (
-{
-horizontal = 1;
-place = (0,21);
-target = up;
-type = BottomGhost;
-},
-{
-horizontal = 1;
-place = (257,144);
-type = Stem;
-},
-{
-horizontal = 1;
-place = (556,144);
-type = Stem;
-},
-{
-place = (90,144);
-type = Stem;
-}
-);
-layerId = "7A4E2608-894C-42C3-A821-B6FEA079E459";
+layerId = "F0E59F11-1D58-42A6-80E9-36273FBB34FC";
 shapes = (
 {
 closed = 1;
 nodes = (
-(41,0,l),
-(185,0,l),
-(263,556,l),
-(561,556,l),
-(581,700,l),
-(139,700,l)
+(144,700,l),
+(602,700,l),
+(582,556,l),
+(268,556,l),
+(190,0,l),
+(46,0,l)
 );
 },
 {
 closed = 1;
 nodes = (
-(7,257,l),
-(357,257,l),
-(377,401,l),
-(27,401,l)
+(28,401,l),
+(389,401,l),
+(369,257,l),
+(8,257,l)
 );
 }
 );
 width = 561;
 },
 {
-hints = (
-{
-horizontal = 1;
-place = (0,21);
-target = up;
-type = BottomGhost;
-},
-{
-horizontal = 1;
-place = (308,89);
-type = Stem;
-},
-{
-horizontal = 1;
-place = (611,89);
-type = Stem;
-}
-);
-layerId = "2FEAAE27-63B5-41AA-B98F-0872FA373B5B";
+layerId = "3B93B69D-E33D-48F3-A278-6EAB673A7F94";
 shapes = (
 {
 closed = 1;
 nodes = (
-(41,0,l),
-(130,0,l),
-(216,611,l),
-(533,611,l),
-(545,700,l),
-(139,700,l)
+(142,700,l),
+(565,700,l),
+(553,611,l),
+(220,611,l),
+(134,0,l),
+(44,0,l)
 );
 },
 {
 closed = 1;
 nodes = (
-(13,308,l),
-(316,308,l),
-(328,397,l),
-(26,397,l)
+(25,398,l),
+(339,398,l),
+(326,308,l),
+(12,308,l)
 );
 }
 );
 width = 517;
 },
 {
-hints = (
-{
-horizontal = 1;
-place = (0,21);
-target = up;
-type = BottomGhost;
-},
-{
-horizontal = 1;
-place = (334,62);
-type = Stem;
-},
-{
-horizontal = 1;
-place = (638,62);
-type = Stem;
-},
-{
-place = (90,62);
-type = Stem;
-}
-);
-layerId = "BBA9C4CC-16BF-4D96-9809-7FD759381829";
+layerId = "0D25A9BA-90DE-440E-BC4F-74EEDE6C6E67";
 shapes = (
 {
 closed = 1;
 nodes = (
-(41,0,l),
-(103,0,l),
-(193,638,l),
-(519,638,l),
-(527,700,l),
-(139,700,l)
+(141,700,l),
+(546,700,l),
+(538,638,l),
+(196,638,l),
+(106,0,l),
+(43,0,l)
 );
 },
 {
 closed = 1;
 nodes = (
-(16,334,l),
-(295,334,l),
-(304,396,l),
-(25,396,l)
+(23,396,l),
+(314,396,l),
+(305,334,l),
+(14,334,l)
 );
 }
 );

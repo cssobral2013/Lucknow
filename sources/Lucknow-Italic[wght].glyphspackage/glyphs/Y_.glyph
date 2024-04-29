@@ -4,36 +4,28 @@ layers = (
 {
 anchors = (
 {
-name = m.uni0302_1;
-position = "{335, 670}";
-}
-);
-hints = (
-{
-horizontal = 1;
-place = (0,21);
-target = up;
-type = BottomGhost;
+name = mark0;
+position = "{-40, 0}";
 },
 {
-place = (250,168);
-type = Stem;
+name = mark1;
+position = "{251, 670}";
 }
 );
-layerId = "7A4E2608-894C-42C3-A821-B6FEA079E459";
+layerId = "F0E59F11-1D58-42A6-80E9-36273FBB34FC";
 shapes = (
 {
 closed = 1;
 nodes = (
-(498,700,l),
-(354,494,l),
-(270,700,l),
-(70,700,l),
-(250,350,l),
-(201,0,l),
-(369,0,l),
-(418,350,l),
-(696,700,l)
+(428,350,l),
+(379,0,l),
+(211,0,l),
+(260,350,l),
+(68,700,l),
+(278,700,l),
+(364,494,l),
+(509,700,l),
+(718,700,l)
 );
 }
 );
@@ -42,36 +34,28 @@ width = 671;
 {
 anchors = (
 {
-name = m.uni0302_1;
-position = "{336, 670}";
-}
-);
-hints = (
-{
-horizontal = 1;
-place = (0,21);
-target = up;
-type = BottomGhost;
+name = mark0;
+position = "{-40, 0}";
 },
 {
-place = (259,105);
-type = Stem;
+name = mark1;
+position = "{251, 670}";
 }
 );
-layerId = "2FEAAE27-63B5-41AA-B98F-0872FA373B5B";
+layerId = "3B93B69D-E33D-48F3-A278-6EAB673A7F94";
 shapes = (
 {
 closed = 1;
 nodes = (
-(518,700,l),
-(325,447,l),
-(203,700,l),
-(79,700,l),
-(259,350,l),
-(210,0,l),
-(315,0,l),
-(364,350,l),
-(642,700,l)
+(373,350,l),
+(324,0,l),
+(219,0,l),
+(268,350,l),
+(76,700,l),
+(207,700,l),
+(334,447,l),
+(532,700,l),
+(663,700,l)
 );
 }
 );
@@ -80,43 +64,35 @@ width = 624;
 {
 anchors = (
 {
-name = m.uni0302_1;
-position = "{336, 670}";
-}
-);
-hints = (
-{
-horizontal = 1;
-place = (0,21);
-target = up;
-type = BottomGhost;
+name = mark0;
+position = "{-40, 0}";
 },
 {
-place = (263,73);
-type = Stem;
+name = mark1;
+position = "{251, 670}";
 }
 );
-layerId = "BBA9C4CC-16BF-4D96-9809-7FD759381829";
+layerId = "0D25A9BA-90DE-440E-BC4F-74EEDE6C6E67";
 shapes = (
 {
 closed = 1;
 nodes = (
-(527,700,l),
-(310,423,l),
-(169,700,l),
-(83,700,l),
-(263,350,l),
-(214,0,l),
-(287,0,l),
-(336,350,l),
-(614,700,l)
+(345,350,l),
+(296,0,l),
+(223,0,l),
+(272,350,l),
+(80,700,l),
+(171,700,l),
+(319,423,l),
+(544,700,l),
+(635,700,l)
 );
 }
 );
 width = 600;
 }
 );
-leftKerningGroup = Y2;
-rightKerningGroup = Y;
+leftKerningGroup = _Y;
+rightKerningGroup = _Y;
 unicode = 89;
 }

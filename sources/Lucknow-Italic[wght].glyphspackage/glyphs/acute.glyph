@@ -2,75 +2,48 @@
 glyphname = acute;
 layers = (
 {
-hints = (
-{
-horizontal = 1;
-place = (554,203);
-type = Stem;
-},
-{
-place = (88,217);
-type = Stem;
-}
-);
-layerId = "7A4E2608-894C-42C3-A821-B6FEA079E459";
+layerId = "F0E59F11-1D58-42A6-80E9-36273FBB34FC";
 shapes = (
 {
-closed = 1;
-nodes = (
-(117,554,l),
-(208,554,l),
-(362,757,l),
-(262,757,l)
-);
+alignment = -1;
+pos = (471,0);
+ref = acutecomb;
 }
 );
 width = 406;
 },
 {
-hints = (
+anchors = (
 {
-horizontal = 1;
-place = (538,203);
-type = Stem;
+name = _mark1;
+position = "{99, 451}";
+},
+{
+name = _mark1.1;
+position = "{99, 451}";
+},
+{
+name = _mark1.2;
+position = "{99, 451}";
 }
 );
-layerId = "2FEAAE27-63B5-41AA-B98F-0872FA373B5B";
+layerId = "3B93B69D-E33D-48F3-A278-6EAB673A7F94";
 shapes = (
 {
-closed = 1;
-nodes = (
-(115,538,l),
-(183,538,l),
-(341,741,l),
-(265,741,l)
-);
+alignment = -1;
+pos = (414,0);
+ref = acutecomb;
 }
 );
 width = 378;
 },
 {
-hints = (
-{
-horizontal = 1;
-place = (530,203);
-type = Stem;
-},
-{
-place = (89,188);
-type = Stem;
-}
-);
-layerId = "BBA9C4CC-16BF-4D96-9809-7FD759381829";
+layerId = "0D25A9BA-90DE-440E-BC4F-74EEDE6C6E67";
 shapes = (
 {
-closed = 1;
-nodes = (
-(114,530,l),
-(170,530,l),
-(331,733,l),
-(266,733,l)
-);
+alignment = -1;
+pos = (385,0);
+ref = acutecomb;
 }
 );
 width = 364;

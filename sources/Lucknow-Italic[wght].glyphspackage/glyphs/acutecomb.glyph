@@ -4,46 +4,27 @@ layers = (
 {
 anchors = (
 {
-name = _t.uni0302_1;
-position = "{-248, 450}";
+name = _mark1;
+position = "{-315, 451}";
 },
 {
-name = _t.uni0302_1_2;
-position = "{-248, 450}";
+name = _mark1.1;
+position = "{-315, 451}";
 },
 {
-name = _m.uni0302_1;
-position = "{-248, 450}";
-},
-{
-name = _t.uni0302;
-position = "{-248, 450}";
-},
-{
-name = t.uni0302;
-position = "{-206, 750}";
+name = _mark1.2;
+position = "{-315, 451}";
 }
 );
-hints = (
-{
-horizontal = 1;
-place = (554,203);
-type = Stem;
-},
-{
-place = (-407,217);
-type = Stem;
-}
-);
-layerId = "7A4E2608-894C-42C3-A821-B6FEA079E459";
+layerId = "F0E59F11-1D58-42A6-80E9-36273FBB34FC";
 shapes = (
 {
 closed = 1;
 nodes = (
-(-378,554,l),
-(-288,554,l),
-(-133,757,l),
-(-233,757,l)
+(-134,757,l),
+(-295,555,l),
+(-390,555,l),
+(-239,757,l)
 );
 }
 );
@@ -52,42 +33,27 @@ width = 0;
 {
 anchors = (
 {
-name = _t.uni0302_1;
-position = "{-247, 450}";
+name = _mark1;
+position = "{-315, 451}";
 },
 {
-name = _t.uni0302_1_2;
-position = "{-247, 450}";
+name = _mark1.1;
+position = "{-315, 451}";
 },
 {
-name = _m.uni0302_1;
-position = "{-247, 450}";
-},
-{
-name = _t.uni0302;
-position = "{-247, 450}";
-},
-{
-name = t.uni0302;
-position = "{-205, 750}";
+name = _mark1.2;
+position = "{-315, 451}";
 }
 );
-hints = (
-{
-horizontal = 1;
-place = (538,203);
-type = Stem;
-}
-);
-layerId = "2FEAAE27-63B5-41AA-B98F-0872FA373B5B";
+layerId = "3B93B69D-E33D-48F3-A278-6EAB673A7F94";
 shapes = (
 {
 closed = 1;
 nodes = (
-(-325,538,l),
-(-258,538,l),
-(-99,741,l),
-(-176,741,l)
+(-98,741,l),
+(-263,539,l),
+(-334,539,l),
+(-179,741,l)
 );
 }
 );
@@ -96,46 +62,27 @@ width = 0;
 {
 anchors = (
 {
-name = _t.uni0302_1;
-position = "{-247, 450}";
+name = _mark1;
+position = "{-315, 451}";
 },
 {
-name = _t.uni0302_1_2;
-position = "{-247, 450}";
+name = _mark1.1;
+position = "{-315, 451}";
 },
 {
-name = _m.uni0302_1;
-position = "{-247, 450}";
-},
-{
-name = _t.uni0302;
-position = "{-247, 450}";
-},
-{
-name = t.uni0302;
-position = "{-205, 750}";
+name = _mark1.2;
+position = "{-315, 451}";
 }
 );
-hints = (
-{
-horizontal = 1;
-place = (530,203);
-type = Stem;
-},
-{
-place = (-324,188);
-type = Stem;
-}
-);
-layerId = "BBA9C4CC-16BF-4D96-9809-7FD759381829";
+layerId = "0D25A9BA-90DE-440E-BC4F-74EEDE6C6E67";
 shapes = (
 {
 closed = 1;
 nodes = (
-(-299,530,l),
-(-243,530,l),
-(-82,733,l),
-(-147,733,l)
+(-80,733,l),
+(-247,531,l),
+(-306,531,l),
+(-149,733,l)
 );
 }
 );

@@ -2,156 +2,37 @@
 glyphname = four.lf;
 layers = (
 {
-hints = (
-{
-horizontal = 1;
-place = (0,21);
-target = up;
-type = BottomGhost;
-},
-{
-horizontal = 1;
-place = (147,146);
-type = Stem;
-},
-{
-place = (328,17);
-type = Stem;
-},
-{
-place = (472,17);
-type = Stem;
-}
-);
-layerId = "7A4E2608-894C-42C3-A821-B6FEA079E459";
+layerId = "F0E59F11-1D58-42A6-80E9-36273FBB34FC";
 shapes = (
 {
-closed = 1;
-nodes = (
-(464,293,l),
-(444,147,l),
-(561,147,l),
-(581,293,l)
-);
-},
-{
-closed = 1;
-nodes = (
-(440,0,l),
-(538,700,l),
-(418,700,l),
-(2,231,l),
-(-9,147,l),
-(317,147,l),
-(337,293,l),
-(150,293,l),
-(156,277,l),
-(371,528,l),
-(355,538,l),
-(279,0,l)
-);
+alignment = -1;
+pos = (-40,0);
+ref = four;
 }
 );
 width = 629;
 },
 {
-hints = (
-{
-horizontal = 1;
-place = (0,21);
-target = up;
-type = BottomGhost;
-},
-{
-horizontal = 1;
-place = (186,91);
-type = Stem;
-}
-);
-layerId = "2FEAAE27-63B5-41AA-B98F-0872FA373B5B";
+layerId = "3B93B69D-E33D-48F3-A278-6EAB673A7F94";
 shapes = (
 {
-closed = 1;
-nodes = (
-(409,277,l),
-(397,186,l),
-(513,186,l),
-(526,277,l)
-);
-},
-{
-closed = 1;
-nodes = (
-(387,0,l),
-(485,700,l),
-(425,700,l),
-(11,238,l),
-(4,186,l),
-(330,186,l),
-(342,277,l),
-(99,277,l),
-(109,246,l),
-(392,563,l),
-(367,573,l),
-(286,0,l)
-);
+alignment = -1;
+pos = (-40,0);
+ref = four;
 }
 );
 width = 589;
 },
 {
-hints = (
-{
-horizontal = 1;
-place = (0,21);
-target = up;
-type = BottomGhost;
-},
-{
-horizontal = 1;
-place = (206,63);
-type = Stem;
-},
-{
-place = (339,17);
-type = Stem;
-},
-{
-place = (393,17);
-type = Stem;
-}
-);
-layerId = "BBA9C4CC-16BF-4D96-9809-7FD759381829";
+layerId = "0D25A9BA-90DE-440E-BC4F-74EEDE6C6E67";
 shapes = (
 {
-closed = 1;
-nodes = (
-(382,269,l),
-(373,206,l),
-(489,206,l),
-(498,269,l)
-);
-},
-{
-closed = 1;
-nodes = (
-(361,0,l),
-(459,700,l),
-(428,700,l),
-(15,242,l),
-(10,206,l),
-(336,206,l),
-(345,269,l),
-(73,269,l),
-(85,230,l),
-(402,580,l),
-(373,591,l),
-(290,0,l)
-);
+alignment = -1;
+pos = (-40,0);
+ref = four;
 }
 );
 width = 569;
 }
 );
-leftKerningGroup = four;
 }

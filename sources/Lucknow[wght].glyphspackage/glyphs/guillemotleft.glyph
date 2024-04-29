@@ -2,35 +2,25 @@
 glyphname = guillemotleft;
 layers = (
 {
-layerId = "62CCE428-27AF-4174-8C32-8EDF06C2E6AE";
+layerId = "72BDA083-B3C3-4444-A72D-7A06DB42C04D";
 shapes = (
 {
-closed = 1;
-nodes = (
-(199,136,l),
-(346,136,l),
-(210,314,l),
-(346,493,l),
-(199,493,l),
-(63,314,l)
-);
+alignment = -1;
+pos = (409,0);
+ref = guilsinglright;
+scale = (-1,1);
 },
 {
-closed = 1;
-nodes = (
-(461,136,l),
-(608,136,l),
-(472,314,l),
-(608,493,l),
-(461,493,l),
-(325,314,l)
-);
+alignment = -1;
+pos = (671,0);
+ref = guilsinglright;
+scale = (-1,1);
 }
 );
 width = 671;
 },
 {
-layerId = "7A295977-FA7A-4808-B07F-0795E8A98AF6";
+layerId = "E5F094ED-45EA-480E-BC3C-862AD7D27802";
 shapes = (
 {
 closed = 1;
@@ -58,7 +48,7 @@ nodes = (
 width = 528;
 },
 {
-layerId = "FBBD23DC-4A32-4E17-882F-E93472546798";
+layerId = "29E3C8E8-2B44-49C3-BAE8-24201C487834";
 shapes = (
 {
 closed = 1;

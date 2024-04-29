@@ -4,92 +4,34 @@ layers = (
 {
 anchors = (
 {
-name = b.uni0321_2;
-position = "{239, 0}";
+name = mark0;
+position = "{247, 0}";
 },
 {
-name = m.uni0302_1;
-position = "{331, 662}";
+name = mark1;
+position = "{246, 662}";
 },
 {
-name = b.uni0328;
-position = "{409, 0}";
+name = mark0.1;
+position = "{423, 0}";
 },
 {
-name = t.uni031B_3;
-position = "{462, 472}";
+name = mark0.2;
+position = "{410, 472}";
 }
 );
-hints = (
-{
-horizontal = 1;
-place = (-11,138);
-type = Stem;
-},
-{
-horizontal = 1;
-place = (0,21);
-target = up;
-type = BottomGhost;
-},
-{
-horizontal = 1;
-place = (585,85);
-type = Stem;
-},
-{
-place = (58,159);
-type = Stem;
-},
-{
-place = (397,159);
-type = Stem;
-}
-);
-layerId = "7A4E2608-894C-42C3-A821-B6FEA079E459";
+layerId = "F0E59F11-1D58-42A6-80E9-36273FBB34FC";
 shapes = (
 {
-closed = 1;
-nodes = (
-(224,-11,o),
-(262,2,o),
-(302,26,c),
-(340,51,o),
-(369,82,o),
-(385,116,c),
-(400,222,l),
-(368,163,o),
-(314,127,o),
-(262,127,cs),
-(211,127,o),
-(191,162,o),
-(199,220,cs),
-(238,500,l),
-(79,500,l),
-(40,220,ls),
-(18,64,o),
-(69,-11,o),
-(188,-11,cs)
-);
+alignment = -1;
+pos = (-40,0);
+ref = u;
 },
 {
-closed = 1;
-nodes = (
-(348,0,l),
-(507,0,l),
-(577,500,l),
-(418,500,l),
-(360,85,l)
-);
-},
-{
-closed = 1;
-nodes = (
-(166,585,l),
-(516,585,l),
-(528,670,l),
-(178,670,l)
-);
+alignment = -1;
+pos = (629,-29);
+ref = macroncomb;
+scale = (1.01,1.01);
 }
 );
 width = 624;
@@ -97,84 +39,30 @@ width = 624;
 {
 anchors = (
 {
-name = b.uni0321_2;
-position = "{238, 0}";
+name = mark0;
+position = "{207, 0}";
 },
 {
-name = m.uni0302_1;
-position = "{330, 662}";
+name = mark0.1;
+position = "{383, 0}";
 },
 {
-name = b.uni0328;
-position = "{407, 0}";
-},
-{
-name = t.uni031B_3;
-position = "{460, 472}";
+name = mark0.2;
+position = "{370, 472}";
 }
 );
-hints = (
-{
-horizontal = 1;
-place = (-11,86);
-type = Stem;
-},
-{
-horizontal = 1;
-place = (0,21);
-target = up;
-type = BottomGhost;
-},
-{
-horizontal = 1;
-place = (585,60);
-type = Stem;
-}
-);
-layerId = "2FEAAE27-63B5-41AA-B98F-0872FA373B5B";
+layerId = "3B93B69D-E33D-48F3-A278-6EAB673A7F94";
 shapes = (
 {
-closed = 1;
-nodes = (
-(244,-11,o),
-(283,2,o),
-(323,26,c),
-(361,51,o),
-(392,81,o),
-(416,116,c),
-(427,194,l),
-(373,119,o),
-(307,75,o),
-(239,75,cs),
-(170,75,o),
-(142,127,o),
-(156,221,cs),
-(195,500,l),
-(96,500,l),
-(57,221,ls),
-(36,68,o),
-(88,-11,o),
-(204,-11,cs)
-);
+alignment = -1;
+pos = (-40,0);
+ref = u;
 },
 {
-closed = 1;
-nodes = (
-(374,0,l),
-(473,0,l),
-(543,500,l),
-(444,500,l),
-(386,85,l)
-);
-},
-{
-closed = 1;
-nodes = (
-(161,585,l),
-(509,585,l),
-(517,645,l),
-(170,645,l)
-);
+alignment = -1;
+pos = (590,-13);
+ref = macroncomb;
+scale = (1.01,1.01);
 }
 );
 width = 608;
@@ -182,97 +70,39 @@ width = 608;
 {
 anchors = (
 {
-name = b.uni0321_2;
-position = "{238, 0}";
+name = mark0;
+position = "{247, 0}";
 },
 {
-name = m.uni0302_1;
-position = "{330, 662}";
+name = mark1;
+position = "{246, 662}";
 },
 {
-name = b.uni0328;
-position = "{406, 0}";
+name = mark0.1;
+position = "{423, 0}";
 },
 {
-name = t.uni031B_3;
-position = "{459, 472}";
+name = mark0.2;
+position = "{410, 472}";
 }
 );
-hints = (
-{
-horizontal = 1;
-place = (-11,60);
-type = Stem;
-},
-{
-horizontal = 1;
-place = (0,21);
-target = up;
-type = BottomGhost;
-},
-{
-horizontal = 1;
-place = (585,48);
-type = Stem;
-},
-{
-place = (84,68);
-type = Stem;
-},
-{
-place = (436,69);
-type = Stem;
-}
-);
-layerId = "BBA9C4CC-16BF-4D96-9809-7FD759381829";
+layerId = "0D25A9BA-90DE-440E-BC4F-74EEDE6C6E67";
 shapes = (
 {
-closed = 1;
-nodes = (
-(254,-11,o),
-(293,2,o),
-(333,26,cs),
-(372,51,o),
-(404,80,o),
-(431,116,c),
-(440,180,l),
-(376,97,o),
-(303,49,o),
-(227,49,cs),
-(149,49,o),
-(118,109,o),
-(134,221,cs),
-(173,500,l),
-(105,500,l),
-(66,221,ls),
-(45,70,o),
-(98,-11,o),
-(212,-11,cs)
-);
+alignment = -1;
+pos = (-40,0);
+ref = u;
 },
 {
-closed = 1;
-nodes = (
-(387,0,l),
-(456,0,l),
-(526,500,l),
-(457,500,l),
-(399,85,l)
-);
-},
-{
-closed = 1;
-nodes = (
-(159,585,l),
-(505,585,l),
-(512,633,l),
-(166,633,l)
-);
+alignment = -1;
+pos = (570,-5);
+ref = macroncomb;
+scale = (1.01,1.01);
 }
 );
 width = 600;
 }
 );
-leftKerningGroup = u;
+leftKerningGroup = _u;
 unicode = 363;
 }

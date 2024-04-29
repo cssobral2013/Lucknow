@@ -2,146 +2,49 @@
 glyphname = Imacroncyr;
 layers = (
 {
-hints = (
-{
-horizontal = 1;
-place = (0,21);
-target = up;
-type = BottomGhost;
-},
-{
-horizontal = 1;
-place = (808,84);
-type = Stem;
-},
-{
-place = (92,168);
-type = Stem;
-},
-{
-place = (578,168);
-type = Stem;
-}
-);
-layerId = "7A4E2608-894C-42C3-A821-B6FEA079E459";
+layerId = "F0E59F11-1D58-42A6-80E9-36273FBB34FC";
 shapes = (
 {
-closed = 1;
-nodes = (
-(141,700,l),
-(43,0,l),
-(189,0,l),
-(591,441,l),
-(529,0,l),
-(697,0,l),
-(795,700,l),
-(647,700,l),
-(247,259,l),
-(309,700,l)
-);
+alignment = -1;
+pos = (-40,0);
+ref = Icyr;
 },
 {
-closed = 1;
-nodes = (
-(315,808,l),
-(655,808,l),
-(666,892,l),
-(326,892,l)
-);
+alignment = -1;
+pos = (770,200);
+ref = macroncomb;
 }
 );
 width = 838;
 },
 {
-hints = (
-{
-horizontal = 1;
-place = (0,21);
-target = up;
-type = BottomGhost;
-},
-{
-horizontal = 1;
-place = (775,60);
-type = Stem;
-}
-);
-layerId = "2FEAAE27-63B5-41AA-B98F-0872FA373B5B";
+layerId = "3B93B69D-E33D-48F3-A278-6EAB673A7F94";
 shapes = (
 {
-closed = 1;
-nodes = (
-(159,699,l),
-(61,0,l),
-(144,0,l),
-(648,527,l),
-(574,0,l),
-(679,0,l),
-(777,699,l),
-(692,699,l),
-(190,172,l),
-(264,699,l)
-);
+alignment = -1;
+pos = (-40,0);
+ref = Icyr;
 },
 {
-closed = 1;
-nodes = (
-(330,775,l),
-(669,775,l),
-(677,835,l),
-(337,835,l)
-);
+alignment = -1;
+pos = (753,183);
+ref = macroncomb;
 }
 );
 width = 838;
 },
 {
-hints = (
-{
-horizontal = 1;
-place = (0,21);
-target = up;
-type = BottomGhost;
-},
-{
-horizontal = 1;
-place = (759,48);
-type = Stem;
-},
-{
-place = (119,73);
-type = Stem;
-},
-{
-place = (645,74);
-type = Stem;
-}
-);
-layerId = "BBA9C4CC-16BF-4D96-9809-7FD759381829";
+layerId = "0D25A9BA-90DE-440E-BC4F-74EEDE6C6E67";
 shapes = (
 {
-closed = 1;
-nodes = (
-(168,699,l),
-(70,0,l),
-(122,0,l),
-(676,570,l),
-(596,0,l),
-(670,0,l),
-(768,699,l),
-(715,699,l),
-(161,129,l),
-(241,699,l)
-);
+alignment = -1;
+pos = (-40,0);
+ref = Icyr;
 },
 {
-closed = 1;
-nodes = (
-(337,759,l),
-(676,759,l),
-(682,807,l),
-(343,807,l)
-);
+alignment = -1;
+pos = (744,175);
+ref = macroncomb;
 }
 );
 width = 838;

@@ -2,145 +2,49 @@
 glyphname = iotatonos;
 layers = (
 {
-hints = (
-{
-horizontal = 1;
-place = (0,21);
-target = up;
-type = BottomGhost;
-},
-{
-place = (94,144);
-type = Stem;
-}
-);
-layerId = "7A4E2608-894C-42C3-A821-B6FEA079E459";
+layerId = "F0E59F11-1D58-42A6-80E9-36273FBB34FC";
 shapes = (
 {
-closed = 1;
-nodes = (
-(115,500,l),
-(73,201,ls),
-(66,146,o),
-(79,98,o),
-(111,59,cs),
-(144,20,o),
-(187,0,o),
-(242,0,cs),
-(267,0,l),
-(287,144,l),
-(263,144,ls),
-(248,144,o),
-(236,150,o),
-(228,161,cs),
-(219,172,o),
-(215,185,o),
-(217,201,cs),
-(259,500,l)
-);
+alignment = -1;
+pos = (-40,0);
+ref = iota;
 },
 {
-closed = 1;
-nodes = (
-(120,555,l),
-(263,555,l),
-(421,757,l),
-(271,757,l)
-);
+alignment = -1;
+pos = (-72,0);
+ref = tonos;
 }
 );
 width = 289;
 },
 {
-hints = (
-{
-horizontal = 1;
-place = (0,90);
-type = Stem;
-}
-);
-layerId = "2FEAAE27-63B5-41AA-B98F-0872FA373B5B";
+layerId = "3B93B69D-E33D-48F3-A278-6EAB673A7F94";
 shapes = (
 {
-closed = 1;
-nodes = (
-(109,500,l),
-(61,157,ls),
-(55,113,o),
-(65,76,o),
-(90,46,cs),
-(115,15,o),
-(149,0,o),
-(191,0,cs),
-(214,0,l),
-(227,90,l),
-(204,90,ls),
-(187,90,o),
-(174,97,o),
-(163,110,cs),
-(152,122,o),
-(148,138,o),
-(150,157,c),
-(198,500,l)
-);
+alignment = -1;
+pos = (-40,0);
+ref = iota;
 },
 {
-closed = 1;
-nodes = (
-(119,540,l),
-(201,540,l),
-(360,741,l),
-(270,741,l)
-);
+alignment = -1;
+pos = (-54,0);
+ref = tonos;
 }
 );
 width = 254;
 },
 {
-hints = (
-{
-horizontal = 1;
-place = (0,63);
-type = Stem;
-},
-{
-place = (85,62);
-type = Stem;
-}
-);
-layerId = "BBA9C4CC-16BF-4D96-9809-7FD759381829";
+layerId = "0D25A9BA-90DE-440E-BC4F-74EEDE6C6E67";
 shapes = (
 {
-closed = 1;
-nodes = (
-(106,500,l),
-(55,135,ls),
-(50,97,o),
-(58,65,o),
-(80,40,c),
-(101,13,o),
-(130,0,o),
-(166,0,cs),
-(188,0,l),
-(197,63,l),
-(175,63,ls),
-(157,63,o),
-(143,70,o),
-(131,84,cs),
-(119,97,o),
-(114,114,o),
-(117,135,cs),
-(168,500,l)
-);
+alignment = -1;
+pos = (-40,0);
+ref = iota;
 },
 {
-closed = 1;
-nodes = (
-(118,532,l),
-(170,532,l),
-(330,733,l),
-(270,733,l)
-);
+alignment = -1;
+pos = (-45,0);
+ref = tonos;
 }
 );
 width = 237;

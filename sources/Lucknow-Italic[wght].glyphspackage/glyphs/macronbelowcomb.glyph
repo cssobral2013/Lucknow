@@ -4,43 +4,24 @@ layers = (
 {
 anchors = (
 {
-name = _b.uni0321;
-position = "{-334, 0}";
+name = _mark0;
+position = "{-340, 0}";
 },
 {
-name = _m.uni0321;
-position = "{-334, 0}";
+name = _mark0.1;
+position = "{-340, 0}";
 },
 {
-name = _b.uni0321_2;
-position = "{-334, 0}";
-},
-{
-name = _b.uni0321_3;
-position = "{-334, 0}";
-},
-{
-name = b.uni0321_3;
-position = "{-357, -165}";
+name = _mark0.2;
+position = "{-340, 0}";
 }
 );
-hints = (
-{
-horizontal = 1;
-place = (-163,68);
-type = Stem;
-}
-);
-layerId = "7A4E2608-894C-42C3-A821-B6FEA079E459";
+layerId = "F0E59F11-1D58-42A6-80E9-36273FBB34FC";
 shapes = (
 {
-closed = 1;
-nodes = (
-(-562,-163,l),
-(-223,-163,l),
-(-213,-95,l),
-(-552,-95,l)
-);
+alignment = -1;
+pos = (-146,-759);
+ref = macroncomb;
 }
 );
 width = 0;
@@ -48,43 +29,36 @@ width = 0;
 {
 anchors = (
 {
-name = _b.uni0321;
-position = "{-334, 0}";
+name = _mark0;
+position = "{-340, 0}";
 },
 {
-name = _m.uni0321;
-position = "{-334, 0}";
+name = _mark0.1;
+position = "{-340, 0}";
 },
 {
-name = _b.uni0321_2;
-position = "{-334, 0}";
+name = _mark0.2;
+position = "{-340, 0}";
 },
 {
-name = _b.uni0321_3;
-position = "{-334, 0}";
+name = _mark1;
+position = "{-485, -279}";
 },
 {
-name = b.uni0321_3;
-position = "{-357, -165}";
+name = _mark1.1;
+position = "{-485, -279}";
+},
+{
+name = _mark1.2;
+position = "{-485, -279}";
 }
 );
-hints = (
-{
-horizontal = 1;
-place = (-172,55);
-type = Stem;
-}
-);
-layerId = "2FEAAE27-63B5-41AA-B98F-0872FA373B5B";
+layerId = "3B93B69D-E33D-48F3-A278-6EAB673A7F94";
 shapes = (
 {
-closed = 1;
-nodes = (
-(-545,-172,l),
-(-206,-172,l),
-(-198,-117,l),
-(-537,-117,l)
-);
+alignment = -1;
+pos = (-147,-759);
+ref = macroncomb;
 }
 );
 width = 0;
@@ -92,43 +66,24 @@ width = 0;
 {
 anchors = (
 {
-name = _b.uni0321;
-position = "{-334, 0}";
+name = _mark0;
+position = "{-340, 0}";
 },
 {
-name = _m.uni0321;
-position = "{-334, 0}";
+name = _mark0.1;
+position = "{-340, 0}";
 },
 {
-name = _b.uni0321_2;
-position = "{-334, 0}";
-},
-{
-name = _b.uni0321_3;
-position = "{-334, 0}";
-},
-{
-name = b.uni0321_3;
-position = "{-357, -165}";
+name = _mark0.2;
+position = "{-340, 0}";
 }
 );
-hints = (
-{
-horizontal = 1;
-place = (-176,49);
-type = Stem;
-}
-);
-layerId = "BBA9C4CC-16BF-4D96-9809-7FD759381829";
+layerId = "0D25A9BA-90DE-440E-BC4F-74EEDE6C6E67";
 shapes = (
 {
-closed = 1;
-nodes = (
-(-536,-176,l),
-(-197,-176,l),
-(-190,-127,l),
-(-529,-127,l)
-);
+alignment = -1;
+pos = (-147,-759);
+ref = macroncomb;
 }
 );
 width = 0;

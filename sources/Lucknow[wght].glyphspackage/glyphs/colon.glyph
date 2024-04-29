@@ -2,47 +2,22 @@
 glyphname = colon;
 layers = (
 {
-layerId = "62CCE428-27AF-4174-8C32-8EDF06C2E6AE";
+layerId = "72BDA083-B3C3-4444-A72D-7A06DB42C04D";
 shapes = (
 {
-closed = 1;
-nodes = (
-(108,304,o),
-(63,343,o),
-(63,398,cs),
-(63,452,o),
-(106,492,o),
-(168,492,cs),
-(229,492,o),
-(272,453,o),
-(272,398,cs),
-(272,343,o),
-(229,304,o),
-(168,304,cs)
-);
+alignment = -1;
+pos = (0,314);
+ref = period;
 },
 {
-closed = 1;
-nodes = (
-(108,-10,o),
-(63,29,o),
-(63,84,cs),
-(63,138,o),
-(106,178,o),
-(168,178,cs),
-(229,178,o),
-(272,139,o),
-(272,84,cs),
-(272,29,o),
-(229,-10,o),
-(168,-10,cs)
-);
+alignment = -1;
+ref = period;
 }
 );
 width = 335;
 },
 {
-layerId = "7A295977-FA7A-4808-B07F-0795E8A98AF6";
+layerId = "E5F094ED-45EA-480E-BC3C-862AD7D27802";
 shapes = (
 {
 closed = 1;
@@ -82,7 +57,7 @@ nodes = (
 width = 228;
 },
 {
-layerId = "FBBD23DC-4A32-4E17-882F-E93472546798";
+layerId = "29E3C8E8-2B44-49C3-BAE8-24201C487834";
 shapes = (
 {
 closed = 1;

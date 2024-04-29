@@ -4,42 +4,27 @@ layers = (
 {
 anchors = (
 {
-name = _t.uni0302_1;
-position = "{-265, 479}";
+name = _mark1;
+position = "{-338, 480}";
 },
 {
-name = _t.uni0302_1_2;
-position = "{-265, 479}";
+name = _mark1.1;
+position = "{-338, 480}";
 },
 {
-name = _m.uni0302_1;
-position = "{-265, 479}";
-},
-{
-name = _t.uni0302;
-position = "{-265, 479}";
-},
-{
-name = t.uni0302;
-position = "{-238, 670}";
+name = _mark1.2;
+position = "{-338, 480}";
 }
 );
-hints = (
-{
-horizontal = 1;
-place = (607,85);
-type = Stem;
-}
-);
-layerId = "7A4E2608-894C-42C3-A821-B6FEA079E459";
+layerId = "F0E59F11-1D58-42A6-80E9-36273FBB34FC";
 shapes = (
 {
 closed = 1;
 nodes = (
-(-477,607,l),
-(-138,607,l),
 (-126,692,l),
-(-465,692,l)
+(-138,608,l),
+(-495,608,l),
+(-483,692,l)
 );
 }
 );
@@ -48,42 +33,27 @@ width = 0;
 {
 anchors = (
 {
-name = _t.uni0302_1;
-position = "{-265, 479}";
+name = _mark1;
+position = "{-338, 480}";
 },
 {
-name = _t.uni0302_1_2;
-position = "{-265, 479}";
+name = _mark1.1;
+position = "{-338, 480}";
 },
 {
-name = _m.uni0302_1;
-position = "{-265, 479}";
-},
-{
-name = _t.uni0302;
-position = "{-265, 479}";
-},
-{
-name = t.uni0302;
-position = "{-238, 670}";
+name = _mark1.2;
+position = "{-338, 480}";
 }
 );
-hints = (
-{
-horizontal = 1;
-place = (591,61);
-type = Stem;
-}
-);
-layerId = "2FEAAE27-63B5-41AA-B98F-0872FA373B5B";
+layerId = "3B93B69D-E33D-48F3-A278-6EAB673A7F94";
 shapes = (
 {
 closed = 1;
 nodes = (
-(-445,591,l),
-(-106,591,l),
-(-97,652,l),
-(-436,652,l)
+(-96,652,l),
+(-105,592,l),
+(-462,592,l),
+(-453,652,l)
 );
 }
 );
@@ -92,42 +62,27 @@ width = 0;
 {
 anchors = (
 {
-name = _t.uni0302_1;
-position = "{-265, 479}";
+name = _mark1;
+position = "{-338, 480}";
 },
 {
-name = _t.uni0302_1_2;
-position = "{-265, 479}";
+name = _mark1.1;
+position = "{-338, 480}";
 },
 {
-name = _m.uni0302_1;
-position = "{-265, 479}";
-},
-{
-name = _t.uni0302;
-position = "{-265, 479}";
-},
-{
-name = t.uni0302;
-position = "{-238, 670}";
+name = _mark1.2;
+position = "{-338, 480}";
 }
 );
-hints = (
-{
-horizontal = 1;
-place = (583,49);
-type = Stem;
-}
-);
-layerId = "BBA9C4CC-16BF-4D96-9809-7FD759381829";
+layerId = "0D25A9BA-90DE-440E-BC4F-74EEDE6C6E67";
 shapes = (
 {
 closed = 1;
 nodes = (
-(-429,583,l),
-(-90,583,l),
-(-83,632,l),
-(-422,632,l)
+(-81,632,l),
+(-88,584,l),
+(-445,584,l),
+(-438,632,l)
 );
 }
 );
