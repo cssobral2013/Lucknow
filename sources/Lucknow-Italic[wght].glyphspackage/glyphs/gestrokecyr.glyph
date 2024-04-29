@@ -2,7 +2,7 @@
 glyphname = gestrokecyr;
 layers = (
 {
-layerId = "6377F2BA-02BD-49C5-9B81-A1BD44C27745";
+layerId = "452014E6-FE56-49E1-9353-01B400A3FB86";
 shapes = (
 {
 closed = 1;
@@ -176,7 +176,7 @@ nodes = (
 width = 450;
 },
 {
-layerId = "4D5D236C-3626-44C9-B9AA-2206EC1912DB";
+layerId = "75D2F12C-E99F-40C8-813D-9BB93C453F0E";
 shapes = (
 {
 closed = 1;
@@ -350,7 +350,7 @@ nodes = (
 width = 440;
 },
 {
-layerId = "09BE0123-C991-42EB-87B9-55839D2F6983";
+layerId = "2029F050-97EB-4300-B314-0D9E32070F1C";
 shapes = (
 {
 closed = 1;
