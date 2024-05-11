@@ -2,7 +2,7 @@
 glyphname = geupcyr;
 layers = (
 {
-layerId = "452014E6-FE56-49E1-9353-01B400A3FB86";
+layerId = "5F1069EF-7233-42B2-A641-1D5303479095";
 shapes = (
 {
 closed = 1;
@@ -21,7 +21,7 @@ nodes = (
 width = 393;
 },
 {
-layerId = "75D2F12C-E99F-40C8-813D-9BB93C453F0E";
+layerId = "8E1BB1C9-5399-4481-B652-0152E5DB95F4";
 shapes = (
 {
 closed = 1;
@@ -40,7 +40,7 @@ nodes = (
 width = 405;
 },
 {
-layerId = "2029F050-97EB-4300-B314-0D9E32070F1C";
+layerId = "DD0681D4-613B-4E2A-9B2E-3AB0BAB5AD9A";
 shapes = (
 {
 closed = 1;
