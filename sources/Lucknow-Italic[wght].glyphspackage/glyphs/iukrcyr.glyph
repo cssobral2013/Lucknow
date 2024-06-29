@@ -2,11 +2,16 @@
 glyphname = iukrcyr;
 layers = (
 {
-layerId = "5F1069EF-7233-42B2-A641-1D5303479095";
+anchors = (
+{
+name = m.uni0941_2;
+position = "{105, 0}";
+}
+);
+layerId = "5719F410-C0E5-43AE-88FA-B4FFDEE24CB8";
 shapes = (
 {
 alignment = -1;
-pos = (-40,0);
 ref = i;
 }
 );
@@ -15,30 +20,30 @@ width = 294;
 {
 anchors = (
 {
-name = mark0;
-position = "{49, 0}";
-},
-{
-name = mark1;
-position = "{-80, 0}";
+name = m.uni0941_2;
+position = "{105, 0}";
 }
 );
-layerId = "8E1BB1C9-5399-4481-B652-0152E5DB95F4";
+layerId = "749AE4FF-5243-4D3F-AC67-AE9DCC0EE297";
 shapes = (
 {
 alignment = -1;
-pos = (-40,0);
 ref = i;
 }
 );
 width = 294;
 },
 {
-layerId = "DD0681D4-613B-4E2A-9B2E-3AB0BAB5AD9A";
+anchors = (
+{
+name = m.uni0941_2;
+position = "{105, 0}";
+}
+);
+layerId = "9DBD663E-71C9-4E39-B4BC-5CF5923FD470";
 shapes = (
 {
 alignment = -1;
-pos = (-40,0);
 ref = i;
 }
 );

@@ -4,28 +4,28 @@ layers = (
 {
 anchors = (
 {
-name = mark0;
-position = "{-40, 0}";
+name = m.uni0941_2;
+position = "{294, 0}";
 },
 {
-name = mark1;
-position = "{251, 670}";
+name = t.uni0946_1_3;
+position = "{394, 702}";
 }
 );
-layerId = "5F1069EF-7233-42B2-A641-1D5303479095";
+layerId = "5719F410-C0E5-43AE-88FA-B4FFDEE24CB8";
 shapes = (
 {
 closed = 1;
 nodes = (
-(428,350,l),
-(379,0,l),
-(211,0,l),
-(260,350,l),
-(68,700,l),
-(278,700,l),
-(364,494,l),
-(509,700,l),
-(718,700,l)
+(718.,700,l),
+(509.,700,l),
+(363.571,494,l),
+(278.,700,l),
+(68.,700,l),
+(259.,350,l),
+(209,0,l),
+(377,0,l),
+(427.,350,l)
 );
 }
 );
@@ -34,28 +34,28 @@ width = 671;
 {
 anchors = (
 {
-name = mark0;
-position = "{-40, 0}";
+name = m.uni0941_2;
+position = "{294, 0}";
 },
 {
-name = mark1;
-position = "{251, 670}";
+name = t.uni0946_1_3;
+position = "{394, 702}";
 }
 );
-layerId = "8E1BB1C9-5399-4481-B652-0152E5DB95F4";
+layerId = "749AE4FF-5243-4D3F-AC67-AE9DCC0EE297";
 shapes = (
 {
 closed = 1;
 nodes = (
-(373,350,l),
-(324,0,l),
-(219,0,l),
-(268,350,l),
-(76,700,l),
-(207,700,l),
-(334,447,l),
-(532,700,l),
-(663,700,l)
+(663.,700,l),
+(532.,700,l),
+(333.857,447,l),
+(207.,700,l),
+(76.,700,l),
+(267.,350,l),
+(217,0,l),
+(322,0,l),
+(372.,350,l)
 );
 }
 );
@@ -64,35 +64,35 @@ width = 624;
 {
 anchors = (
 {
-name = mark0;
-position = "{-40, 0}";
+name = m.uni0941_2;
+position = "{294, 0}";
 },
 {
-name = mark1;
-position = "{251, 670}";
+name = t.uni0946_1_3;
+position = "{394, 702}";
 }
 );
-layerId = "DD0681D4-613B-4E2A-9B2E-3AB0BAB5AD9A";
+layerId = "9DBD663E-71C9-4E39-B4BC-5CF5923FD470";
 shapes = (
 {
 closed = 1;
 nodes = (
-(345,350,l),
-(296,0,l),
-(223,0,l),
-(272,350,l),
-(80,700,l),
-(171,700,l),
-(319,423,l),
-(544,700,l),
-(635,700,l)
+(635.,700,l),
+(544.,700,l),
+(318.429,423,l),
+(171.,700,l),
+(80.,700,l),
+(271.,350,l),
+(221,0,l),
+(294,0,l),
+(344.,350,l)
 );
 }
 );
 width = 600;
 }
 );
-leftKerningGroup = _Y;
-rightKerningGroup = _Y;
+leftKerningGroup = Y;
+rightKerningGroup = Y2;
 unicode = 89;
 }

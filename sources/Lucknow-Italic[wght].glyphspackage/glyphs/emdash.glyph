@@ -2,45 +2,45 @@
 glyphname = emdash;
 layers = (
 {
-layerId = "5F1069EF-7233-42B2-A641-1D5303479095";
+layerId = "5719F410-C0E5-43AE-88FA-B4FFDEE24CB8";
 shapes = (
 {
 closed = 1;
 nodes = (
-(922,356,l),
-(904,231,l),
-(55,231,l),
-(73,356,l)
+(72,356,l),
+(54,231,l),
+(903,231,l),
+(921,356,l)
 );
 }
 );
 width = 975;
 },
 {
-layerId = "8E1BB1C9-5399-4481-B652-0152E5DB95F4";
+layerId = "749AE4FF-5243-4D3F-AC67-AE9DCC0EE297";
 shapes = (
 {
 closed = 1;
 nodes = (
-(864,340,l),
-(851,246,l),
-(58,246,l),
-(71,340,l)
+(70,340,l),
+(56,246,l),
+(849,246,l),
+(863,340,l)
 );
 }
 );
 width = 919;
 },
 {
-layerId = "DD0681D4-613B-4E2A-9B2E-3AB0BAB5AD9A";
+layerId = "9DBD663E-71C9-4E39-B4BC-5CF5923FD470";
 shapes = (
 {
 closed = 1;
 nodes = (
-(835,332,l),
-(824,254,l),
-(59,254,l),
-(70,332,l)
+(68,332,l),
+(57,254,l),
+(822,254,l),
+(833,332,l)
 );
 }
 );

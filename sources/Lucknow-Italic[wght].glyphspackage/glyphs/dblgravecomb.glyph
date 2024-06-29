@@ -4,37 +4,43 @@ layers = (
 {
 anchors = (
 {
-name = _mark1;
-position = "{-352, 488}";
+name = _t.uni0946_1;
+position = "{-340, 532}";
 },
 {
-name = _mark1.1;
-position = "{-352, 488}";
+name = _t.uni0946_1_2;
+position = "{-340, 532}";
 },
 {
-name = _mark1.2;
-position = "{-352, 488}";
+name = _t.uni0946_1_3;
+position = "{-340, 532}";
+},
+{
+name = _t.uni0946;
+position = "{-340, 532}";
+},
+{
+name = _m.uni0946;
+position = "{-340, 532}";
+},
+{
+name = _m.uni0946_2;
+position = "{-340, 532}";
+},
+{
+name = m.uni0946_2;
+position = "{-301, 803}";
 }
 );
-layerId = "5F1069EF-7233-42B2-A641-1D5303479095";
+layerId = "5719F410-C0E5-43AE-88FA-B4FFDEE24CB8";
 shapes = (
 {
-closed = 1;
-nodes = (
-(-762,799,l),
-(-601,597,l),
-(-506,597,l),
-(-657,799,l)
-);
-},
-{
-closed = 1;
-nodes = (
-(-930,801,l),
-(-769,599,l),
-(-674,599,l),
-(-825,801,l)
-);
+alignment = -1;
+angle = 180;
+pos = (-895,42);
+ref = hungarumlautcomb;
+scale = (1,-1);
+slant = (16.37,0);
 }
 );
 width = 0;
@@ -42,37 +48,43 @@ width = 0;
 {
 anchors = (
 {
-name = _mark1;
-position = "{-352, 488}";
+name = _t.uni0946_1;
+position = "{-266, 532}";
 },
 {
-name = _mark1.1;
-position = "{-352, 488}";
+name = _t.uni0946_1_2;
+position = "{-266, 532}";
 },
 {
-name = _mark1.2;
-position = "{-352, 488}";
+name = _t.uni0946_1_3;
+position = "{-266, 532}";
+},
+{
+name = _t.uni0946;
+position = "{-266, 532}";
+},
+{
+name = _m.uni0946;
+position = "{-266, 532}";
+},
+{
+name = _m.uni0946_2;
+position = "{-340, 532}";
+},
+{
+name = m.uni0946_2;
+position = "{-304, 851}";
 }
 );
-layerId = "8E1BB1C9-5399-4481-B652-0152E5DB95F4";
+layerId = "749AE4FF-5243-4D3F-AC67-AE9DCC0EE297";
 shapes = (
 {
-closed = 1;
-nodes = (
-(-705,783,l),
-(-540,581,l),
-(-469,581,l),
-(-624,783,l)
-);
-},
-{
-closed = 1;
-nodes = (
-(-657,785,l),
-(-492,583,l),
-(-421,583,l),
-(-576,785,l)
-);
+alignment = -1;
+angle = 180;
+pos = (-820,42);
+ref = hungarumlautcomb;
+scale = (1,-1);
+slant = (16.37,0);
 }
 );
 width = 0;
@@ -80,37 +92,43 @@ width = 0;
 {
 anchors = (
 {
-name = _mark1;
-position = "{-352, 488}";
+name = _t.uni0946_1;
+position = "{-229, 532}";
 },
 {
-name = _mark1.1;
-position = "{-352, 488}";
+name = _t.uni0946_1_2;
+position = "{-229, 532}";
 },
 {
-name = _mark1.2;
-position = "{-352, 488}";
+name = _t.uni0946_1_3;
+position = "{-229, 532}";
+},
+{
+name = _t.uni0946;
+position = "{-229, 532}";
+},
+{
+name = _m.uni0946;
+position = "{-229, 532}";
+},
+{
+name = _m.uni0946_2;
+position = "{-340, 532}";
+},
+{
+name = m.uni0946_2;
+position = "{-267, 851}";
 }
 );
-layerId = "DD0681D4-613B-4E2A-9B2E-3AB0BAB5AD9A";
+layerId = "9DBD663E-71C9-4E39-B4BC-5CF5923FD470";
 shapes = (
 {
-closed = 1;
-nodes = (
-(-676,775,l),
-(-509,573,l),
-(-450,573,l),
-(-607,775,l)
-);
-},
-{
-closed = 1;
-nodes = (
-(-520,777,l),
-(-353,575,l),
-(-294,575,l),
-(-451,777,l)
-);
+alignment = -1;
+angle = 180;
+pos = (-783,42);
+ref = hungarumlautcomb;
+scale = (1,-1);
+slant = (16.37,0);
 }
 );
 width = 0;

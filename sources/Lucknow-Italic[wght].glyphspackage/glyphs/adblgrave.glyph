@@ -4,31 +4,29 @@ layers = (
 {
 anchors = (
 {
-name = mark0;
-position = "{208, 0}";
+name = m.uni0941_2;
+position = "{231, 0}";
 },
 {
-name = mark1;
-position = "{210, 729}";
+name = t.uni0946_1_3;
+position = "{356, 784}";
 },
 {
-name = mark0.1;
-position = "{414, 0}";
+name = m.uni0328_2;
+position = "{466, -2}";
 }
 );
-layerId = "5F1069EF-7233-42B2-A641-1D5303479095";
+layerId = "5719F410-C0E5-43AE-88FA-B4FFDEE24CB8";
 shapes = (
 {
 alignment = -1;
-pos = (-40,0);
 ref = a;
 },
 {
 alignment = -1;
-angle = 180;
-pos = (-43,18);
-ref = hungarumlautcomb;
-scale = (1.01,-1.01);
+pos = (660,-26);
+ref = dblgravecomb;
+scale = (1.01,1.01);
 }
 );
 width = 561;
@@ -36,27 +34,29 @@ width = 561;
 {
 anchors = (
 {
-name = mark0;
-position = "{168, 0}";
+name = m.uni0941_2;
+position = "{231, 0}";
 },
 {
-name = mark0.1;
-position = "{374, 0}";
+name = m.uni0328_2;
+position = "{466, -2}";
+},
+{
+name = m.uni0946_2;
+position = "{328, 825}";
 }
 );
-layerId = "8E1BB1C9-5399-4481-B652-0152E5DB95F4";
+layerId = "749AE4FF-5243-4D3F-AC67-AE9DCC0EE297";
 shapes = (
 {
 alignment = -1;
-pos = (-40,0);
 ref = a;
 },
 {
 alignment = -1;
-angle = 180;
-pos = (-51,24);
-ref = hungarumlautcomb;
-scale = (1.01,-1.01);
+pos = (609,-19);
+ref = dblgravecomb;
+scale = (1.01,1.01);
 }
 );
 width = 537;
@@ -64,37 +64,35 @@ width = 537;
 {
 anchors = (
 {
-name = mark0;
-position = "{208, 0}";
+name = m.uni0941_2;
+position = "{231, 0}";
 },
 {
-name = mark1;
-position = "{210, 729}";
+name = m.uni0328_2;
+position = "{466, -2}";
 },
 {
-name = mark0.1;
-position = "{414, 0}";
+name = m.uni0946_2;
+position = "{288, 783}";
 }
 );
-layerId = "DD0681D4-613B-4E2A-9B2E-3AB0BAB5AD9A";
+layerId = "9DBD663E-71C9-4E39-B4BC-5CF5923FD470";
 shapes = (
 {
 alignment = -1;
-pos = (-40,0);
 ref = a;
 },
 {
 alignment = -1;
-angle = 180;
-pos = (-55,27);
-ref = hungarumlautcomb;
-scale = (1.01,-1.01);
+pos = (584,-15);
+ref = dblgravecomb;
+scale = (1.01,1.01);
 }
 );
 width = 525;
 }
 );
-leftKerningGroup = _a;
-rightKerningGroup = _a1;
+leftKerningGroup = a2;
+rightKerningGroup = a;
 unicode = 513;
 }

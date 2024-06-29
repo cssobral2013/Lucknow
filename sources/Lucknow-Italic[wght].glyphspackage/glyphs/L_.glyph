@@ -4,34 +4,30 @@ layers = (
 {
 anchors = (
 {
-name = mark0;
-position = "{244, 0}";
+name = t.uni0946_1_3;
+position = "{224, 702}";
 },
 {
-name = mark1;
-position = "{98, 670}";
+name = t.uni0335_2;
+position = "{188, 388}";
 },
 {
-name = mark0.1;
-position = "{107, 370}";
-},
-{
-name = mark0.2;
-position = "{313, 756}";
+name = t.uni031B_3;
+position = "{484, 792}";
 }
 );
-layerId = "5F1069EF-7233-42B2-A641-1D5303479095";
+layerId = "5719F410-C0E5-43AE-88FA-B4FFDEE24CB8";
 shapes = (
 {
 closed = 1;
 nodes = (
-(526,147,l),
-(505,0,l),
-(44,0,l),
-(142,700,l),
-(309,700,l),
-(225,100,l),
-(185,147,l)
+(183.,147,l),
+(223.286,100,l),
+(309.,700,l),
+(142.,700,l),
+(42,0,l),
+(503,0,l),
+(524.,147,l)
 );
 }
 );
@@ -40,34 +36,30 @@ width = 566;
 {
 anchors = (
 {
-name = mark0;
-position = "{244, 0}";
+name = t.uni0946_1_3;
+position = "{224, 702}";
 },
 {
-name = mark1;
-position = "{98, 670}";
+name = t.uni0335_2;
+position = "{188, 388}";
 },
 {
-name = mark0.1;
-position = "{107, 370}";
-},
-{
-name = mark0.2;
-position = "{313, 756}";
+name = t.uni031B_3;
+position = "{484, 792}";
 }
 );
-layerId = "8E1BB1C9-5399-4481-B652-0152E5DB95F4";
+layerId = "749AE4FF-5243-4D3F-AC67-AE9DCC0EE297";
 shapes = (
 {
 closed = 1;
 nodes = (
-(502,91,l),
-(489,0,l),
-(60,0,l),
-(158,700,l),
-(262,700,l),
-(170,44,l),
-(130,91,l)
+(128.,91,l),
+(168.286,44,l),
+(262.,700,l),
+(158.,700,l),
+(58,0,l),
+(487,0,l),
+(500.,91,l)
 );
 }
 );
@@ -76,41 +68,37 @@ width = 550;
 {
 anchors = (
 {
-name = mark0;
-position = "{244, 0}";
+name = t.uni0946_1_3;
+position = "{224, 702}";
 },
 {
-name = mark1;
-position = "{98, 670}";
+name = t.uni0335_2;
+position = "{188, 388}";
 },
 {
-name = mark0.1;
-position = "{107, 370}";
-},
-{
-name = mark0.2;
-position = "{313, 756}";
+name = t.uni031B_3;
+position = "{484, 792}";
 }
 );
-layerId = "DD0681D4-613B-4E2A-9B2E-3AB0BAB5AD9A";
+layerId = "9DBD663E-71C9-4E39-B4BC-5CF5923FD470";
 shapes = (
 {
 closed = 1;
 nodes = (
-(490,63,l),
-(481,0,l),
-(68,0,l),
-(166,700,l),
-(239,700,l),
-(143,16,l),
-(102,63,l)
+(100.,63,l),
+(141.286,16,l),
+(239.,700,l),
+(166.,700,l),
+(66,0,l),
+(479,0,l),
+(488.,63,l)
 );
 }
 );
 width = 542;
 }
 );
-leftKerningGroup = _B;
-rightKerningGroup = _L;
+leftKerningGroup = B;
+rightKerningGroup = L;
 unicode = 76;
 }

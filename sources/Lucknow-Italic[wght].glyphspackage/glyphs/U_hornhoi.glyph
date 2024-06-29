@@ -4,58 +4,64 @@ layers = (
 {
 anchors = (
 {
-name = mark0;
-position = "{348, -10}";
+name = m.uni0941_2;
+position = "{366, -10}";
 },
 {
-name = mark1;
-position = "{349, 952}";
+name = t.uni0946_1_3;
+position = "{511, 998}";
 },
 {
-name = mark0.1;
-position = "{441, 0}";
+name = m.uni0328_2;
+position = "{486, 6}";
 },
 {
-name = mark0.2;
-position = "{700, 725}";
+name = t.uni031B_3;
+position = "{850, 738}";
 }
 );
-layerId = "5F1069EF-7233-42B2-A641-1D5303479095";
+layerId = "5719F410-C0E5-43AE-88FA-B4FFDEE24CB8";
 shapes = (
 {
 alignment = -1;
-pos = (-40,0);
-ref = U;
+ref = Uhorn;
 },
 {
 alignment = -1;
-pos = (636,226);
-ref = horncomb;
-},
-{
-alignment = -1;
-pos = (713,170);
+pos = (753,170);
 ref = hookabovecomb;
 }
 );
 width = 821;
 },
 {
-layerId = "8E1BB1C9-5399-4481-B652-0152E5DB95F4";
+anchors = (
+{
+name = m.uni0941_2;
+position = "{366, -10}";
+},
+{
+name = m.uni0328_2;
+position = "{486, 6}";
+},
+{
+name = t.uni031B_3;
+position = "{850, 738}";
+},
+{
+name = m.uni0946_2;
+position = "{475, 1014}";
+}
+);
+layerId = "749AE4FF-5243-4D3F-AC67-AE9DCC0EE297";
 shapes = (
 {
 alignment = -1;
-pos = (-40,0);
-ref = U;
+ref = Uhorn;
 },
 {
 alignment = -1;
-pos = (631,243);
-ref = horncomb;
-},
-{
-alignment = -1;
-pos = (678,186);
+pos = (719,186);
 ref = hookabovecomb;
 }
 );
@@ -64,44 +70,38 @@ width = 817;
 {
 anchors = (
 {
-name = mark0;
-position = "{348, -10}";
+name = m.uni0941_2;
+position = "{366, -10}";
 },
 {
-name = mark1;
-position = "{349, 952}";
+name = m.uni0328_2;
+position = "{486, 6}";
 },
 {
-name = mark0.1;
-position = "{441, 0}";
+name = t.uni031B_3;
+position = "{850, 738}";
 },
 {
-name = mark0.2;
-position = "{700, 725}";
+name = m.uni0946_2;
+position = "{457, 1022}";
 }
 );
-layerId = "DD0681D4-613B-4E2A-9B2E-3AB0BAB5AD9A";
+layerId = "9DBD663E-71C9-4E39-B4BC-5CF5923FD470";
 shapes = (
 {
 alignment = -1;
-pos = (-40,0);
-ref = U;
+ref = Uhorn;
 },
 {
 alignment = -1;
-pos = (628,251);
-ref = horncomb;
-},
-{
-alignment = -1;
-pos = (660,194);
+pos = (701,194);
 ref = hookabovecomb;
 }
 );
 width = 815;
 }
 );
-leftKerningGroup = _U;
-rightKerningGroup = _U;
+leftKerningGroup = U2;
+rightKerningGroup = U;
 unicode = 7916;
 }

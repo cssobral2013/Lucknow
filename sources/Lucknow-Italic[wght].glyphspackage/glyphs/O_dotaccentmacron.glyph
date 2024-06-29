@@ -2,43 +2,20 @@
 glyphname = Odotaccentmacron;
 layers = (
 {
-anchors = (
-{
-name = mark0;
-position = "{378, -10}";
-},
-{
-name = mark1;
-position = "{368, 1044}";
-},
-{
-name = mark0.1;
-position = "{370, 334}";
-},
-{
-name = mark0.2;
-position = "{472, 0}";
-},
-{
-name = mark0.3;
-position = "{616, 580}";
-}
-);
-layerId = "5F1069EF-7233-42B2-A641-1D5303479095";
+layerId = "5719F410-C0E5-43AE-88FA-B4FFDEE24CB8";
 shapes = (
 {
 alignment = -1;
-pos = (-40,0);
 ref = O;
 },
 {
 alignment = -1;
-pos = (710,205);
+pos = (750,205);
 ref = dotaccentcomb;
 },
 {
 alignment = -1;
-pos = (800,371);
+pos = (840,371);
 ref = macroncomb;
 }
 );
@@ -47,37 +24,24 @@ width = 859;
 {
 anchors = (
 {
-name = mark0;
-position = "{338, -10}";
-},
-{
-name = mark0.1;
-position = "{330, 334}";
-},
-{
-name = mark0.2;
-position = "{432, 0}";
-},
-{
-name = mark0.3;
-position = "{576, 580}";
+name = m.uni0946_2;
+position = "{510, 1110}";
 }
 );
-layerId = "8E1BB1C9-5399-4481-B652-0152E5DB95F4";
+layerId = "749AE4FF-5243-4D3F-AC67-AE9DCC0EE297";
 shapes = (
 {
 alignment = -1;
-pos = (-40,0);
 ref = O;
 },
 {
 alignment = -1;
-pos = (677,221);
+pos = (718,221);
 ref = dotaccentcomb;
 },
 {
 alignment = -1;
-pos = (767,387);
+pos = (807,387);
 ref = macroncomb;
 }
 );
@@ -86,48 +50,31 @@ width = 859;
 {
 anchors = (
 {
-name = mark0;
-position = "{378, -10}";
-},
-{
-name = mark1;
-position = "{368, 1044}";
-},
-{
-name = mark0.1;
-position = "{370, 334}";
-},
-{
-name = mark0.2;
-position = "{472, 0}";
-},
-{
-name = mark0.3;
-position = "{616, 580}";
+name = m.uni0946_2;
+position = "{493, 1118}";
 }
 );
-layerId = "DD0681D4-613B-4E2A-9B2E-3AB0BAB5AD9A";
+layerId = "9DBD663E-71C9-4E39-B4BC-5CF5923FD470";
 shapes = (
 {
 alignment = -1;
-pos = (-40,0);
 ref = O;
 },
 {
 alignment = -1;
-pos = (661,229);
+pos = (701,229);
 ref = dotaccentcomb;
 },
 {
 alignment = -1;
-pos = (750,395);
+pos = (790,395);
 ref = macroncomb;
 }
 );
 width = 859;
 }
 );
-leftKerningGroup = _C;
-rightKerningGroup = _D;
+leftKerningGroup = C;
+rightKerningGroup = D;
 unicode = 560;
 }

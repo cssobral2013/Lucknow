@@ -2,27 +2,64 @@
 glyphname = ellipsis;
 layers = (
 {
-layerId = "578F755D-994C-42C1-BB23-8F906AA68774";
+layerId = "198774C1-CC10-42B9-85F8-E7CE679A5159";
 shapes = (
 {
-alignment = -1;
-ref = period;
+closed = 1;
+nodes = (
+(229,-10,o),
+(272,29,o),
+(272,84,cs),
+(272,139,o),
+(229,178,o),
+(168,178,cs),
+(106,178,o),
+(63,138,o),
+(63,84,cs),
+(63,29,o),
+(108,-10,o),
+(168,-10,cs)
+);
 },
 {
-alignment = -1;
-pos = (262,0);
-ref = period;
+closed = 1;
+nodes = (
+(491,-10,o),
+(534,29,o),
+(534,84,cs),
+(534,139,o),
+(491,178,o),
+(430,178,cs),
+(368,178,o),
+(325,138,o),
+(325,84,cs),
+(325,29,o),
+(370,-10,o),
+(430,-10,cs)
+);
 },
 {
-alignment = -1;
-pos = (524,0);
-ref = period;
+closed = 1;
+nodes = (
+(753,-10,o),
+(796,29,o),
+(796,84,cs),
+(796,139,o),
+(753,178,o),
+(692,178,cs),
+(630,178,o),
+(587,138,o),
+(587,84,cs),
+(587,29,o),
+(632,-10,o),
+(692,-10,cs)
+);
 }
 );
 width = 859;
 },
 {
-layerId = "DBD1B0BE-353E-4EBF-B6EE-D0152B0FB6BB";
+layerId = "D316A020-56DB-4308-AD51-D49B9BC7B732";
 shapes = (
 {
 closed = 1;
@@ -79,7 +116,7 @@ nodes = (
 width = 692;
 },
 {
-layerId = "EEBEDCE0-4D70-4EE0-A037-F223D2B7A84D";
+layerId = "DA1743F1-FF62-465F-8D09-7851030965A4";
 shapes = (
 {
 closed = 1;

@@ -4,38 +4,31 @@ layers = (
 {
 anchors = (
 {
-name = mark0;
-position = "{247, 0}";
+name = m.uni0941_2;
+position = "{266, 0}";
 },
 {
-name = mark1;
-position = "{246, 754}";
+name = t.uni0946_1_3;
+position = "{382, 798}";
 },
 {
-name = mark0.1;
-position = "{423, 0}";
+name = m.uni0328_2;
+position = "{484, 0}";
 },
 {
-name = mark0.2;
-position = "{496, 529}";
+name = t.uni031B_3;
+position = "{608, 538}";
 }
 );
-layerId = "5F1069EF-7233-42B2-A641-1D5303479095";
+layerId = "5719F410-C0E5-43AE-88FA-B4FFDEE24CB8";
 shapes = (
 {
 alignment = -1;
-pos = (-40,0);
-ref = u;
+ref = uhorn;
 },
 {
 alignment = -1;
-pos = (392,22);
-ref = horncomb;
-scale = (1.01,1.01);
-},
-{
-alignment = -1;
-pos = (588,-38);
+pos = (628,-38);
 ref = hookabovecomb;
 scale = (1.01,1.01);
 }
@@ -43,22 +36,33 @@ scale = (1.01,1.01);
 width = 624;
 },
 {
-layerId = "8E1BB1C9-5399-4481-B652-0152E5DB95F4";
+anchors = (
+{
+name = m.uni0941_2;
+position = "{266, 0}";
+},
+{
+name = m.uni0328_2;
+position = "{484, 0}";
+},
+{
+name = t.uni031B_3;
+position = "{608, 538}";
+},
+{
+name = m.uni0946_2;
+position = "{342, 814}";
+}
+);
+layerId = "749AE4FF-5243-4D3F-AC67-AE9DCC0EE297";
 shapes = (
 {
 alignment = -1;
-pos = (-40,0);
-ref = u;
+ref = uhorn;
 },
 {
 alignment = -1;
-pos = (390,38);
-ref = horncomb;
-scale = (1.01,1.01);
-},
-{
-alignment = -1;
-pos = (549,-22);
+pos = (589,-22);
 ref = hookabovecomb;
 scale = (1.01,1.01);
 }
@@ -68,38 +72,31 @@ width = 608;
 {
 anchors = (
 {
-name = mark0;
-position = "{247, 0}";
+name = m.uni0941_2;
+position = "{266, 0}";
 },
 {
-name = mark1;
-position = "{246, 754}";
+name = m.uni0328_2;
+position = "{484, 0}";
 },
 {
-name = mark0.1;
-position = "{423, 0}";
+name = t.uni031B_3;
+position = "{608, 538}";
 },
 {
-name = mark0.2;
-position = "{496, 529}";
+name = m.uni0946_2;
+position = "{322, 822}";
 }
 );
-layerId = "DD0681D4-613B-4E2A-9B2E-3AB0BAB5AD9A";
+layerId = "9DBD663E-71C9-4E39-B4BC-5CF5923FD470";
 shapes = (
 {
 alignment = -1;
-pos = (-40,0);
-ref = u;
+ref = uhorn;
 },
 {
 alignment = -1;
-pos = (389,46);
-ref = horncomb;
-scale = (1.01,1.01);
-},
-{
-alignment = -1;
-pos = (529,-14);
+pos = (569,-14);
 ref = hookabovecomb;
 scale = (1.01,1.01);
 }
@@ -107,6 +104,6 @@ scale = (1.01,1.01);
 width = 600;
 }
 );
-leftKerningGroup = _u;
+leftKerningGroup = u;
 unicode = 7917;
 }

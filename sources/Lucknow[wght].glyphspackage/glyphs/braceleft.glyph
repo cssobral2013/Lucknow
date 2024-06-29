@@ -2,7 +2,7 @@
 glyphname = braceleft;
 layers = (
 {
-layerId = "578F755D-994C-42C1-BB23-8F906AA68774";
+layerId = "198774C1-CC10-42B9-85F8-E7CE679A5159";
 shapes = (
 {
 alignment = -1;
@@ -14,7 +14,7 @@ scale = (-1,1);
 width = 473;
 },
 {
-layerId = "DBD1B0BE-353E-4EBF-B6EE-D0152B0FB6BB";
+layerId = "D316A020-56DB-4308-AD51-D49B9BC7B732";
 shapes = (
 {
 alignment = -1;
@@ -26,7 +26,7 @@ scale = (-1,1);
 width = 441;
 },
 {
-layerId = "EEBEDCE0-4D70-4EE0-A037-F223D2B7A84D";
+layerId = "DA1743F1-FF62-465F-8D09-7851030965A4";
 shapes = (
 {
 alignment = -1;

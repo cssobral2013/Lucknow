@@ -956,7 +956,25 @@ zeta
 );
 featurePrefixes = (
 {
-code = "#/> classes
+code = "#> classes
+#/> otclasses
+@case = [zero one two three four five six seven eight nine zero.lf one.lf two.lf three.lf four.lf five.lf six.lf seven.lf eight.lf nine.lf];
+@case_onum = [zero.osf one.osf two.osf three.osf four.osf five.osf six.osf seven.osf eight.osf nine.osf zero.tosf one.tosf two.tosf three.tosf four.tosf five.tosf six.tosf seven.tosf eight.tosf nine.tosf];
+@ccmp = [gravecomb acutecomb circumflexcomb tildecomb macroncomb brevecomb dotaccentcomb dieresiscomb ringcomb hungarumlautcomb caroncomb commaturnedabovecomb hookabovecomb dblgravecomb breveinvertedcomb];
+@dnom_frac = [zero.dnom one.dnom two.dnom three.dnom four.dnom five.dnom six.dnom seven.dnom eight.dnom nine.dnom];
+@dnom_frac_lnum_numr_ordn = [zero one two three four five six seven eight nine];
+@frac_numr = [zero.numr one.numr two.numr three.numr four.numr five.numr six.numr seven.numr eight.numr nine.numr];
+@lnum = [zero.osf one.osf two.osf three.osf four.osf five.osf six.osf seven.osf eight.osf nine.osf];
+@mkmk = [commaaccentcomb cedillacomb dotbelowcomb dieresisbelowcomb macronbelowcomb palatalhookcomb];
+@mkmk2 = [gravecomb acutecomb circumflexcomb tildecomb macroncomb brevecomb dotaccentcomb dieresiscomb ringcomb hungarumlautcomb caroncomb commaturnedabovecomb hookabovecomb dblgravecomb breveinvertedcomb brevebelowcomb brevecomb_acutecomb brevecomb_gravecomb brevecomb_hookabovecomb brevecomb_tildecomb circumflexcomb_acutecomb circumflexcomb_gravecomb circumflexcomb_hookabovecomb circumflexcomb_tildecomb];
+@mkmk3 = [horncomb caroncomb.alt];
+@onum = [zero one two three four five six seven eight nine zero.tf one.tf two.tf three.tf four.tf five.tf six.tf seven.tf eight.tf nine.tf];
+@pnum_tnum = [zero.tf one.tf two.tf three.tf four.tf five.tf six.tf seven.tf eight.tf nine.tf zero.tosf one.tosf two.tosf three.tosf four.tosf five.tosf six.tosf seven.tosf eight.tosf nine.tosf];
+@pnum_tnum2 = [zero one two three four five six seven eight nine zero.osf one.osf two.osf three.osf four.osf five.osf six.osf seven.osf eight.osf nine.osf];
+#/< otclasses
+#< classes
+
+#/> classes
 #/> otclasses
 @case = [zero one two three four five six seven eight nine zero.lf one.lf two.lf three.lf four.lf five.lf six.lf seven.lf eight.lf nine.lf];
 @case_onum = [zero.osf one.osf two.osf three.osf four.osf five.osf six.osf seven.osf eight.osf nine.osf zero.tosf one.tosf two.tosf three.tosf four.tosf five.tosf six.tosf seven.tosf eight.tosf nine.tosf];
@@ -4182,7 +4200,7 @@ guides = (
 position = "{0, 250}";
 }
 );
-id = "EEBEDCE0-4D70-4EE0-A037-F223D2B7A84D";
+id = "DA1743F1-FF62-465F-8D09-7851030965A4";
 metricValues = (
 {
 pos = 950;
@@ -4294,7 +4312,7 @@ guides = (
 position = "{0, 250}";
 }
 );
-id = "DBD1B0BE-353E-4EBF-B6EE-D0152B0FB6BB";
+id = "D316A020-56DB-4308-AD51-D49B9BC7B732";
 metricValues = (
 {
 pos = 950;
@@ -4404,7 +4422,7 @@ guides = (
 position = "{0, 250}";
 }
 );
-id = "578F755D-994C-42C1-BB23-8F906AA68774";
+id = "198774C1-CC10-42B9-85F8-E7CE679A5159";
 metricValues = (
 {
 pos = 950;
@@ -4484,7 +4502,7 @@ weightClass = ExtraBold;
 }
 );
 kerningLTR = {
-"578F755D-994C-42C1-BB23-8F906AA68774" = {
+"198774C1-CC10-42B9-85F8-E7CE679A5159" = {
 "@MMK_L_A2" = {
 "@MMK_R_B" = -20;
 "@MMK_R_C" = -40;
@@ -4787,7 +4805,7 @@ x = {
 "@MMK_R_wacute2" = -20;
 };
 };
-"DBD1B0BE-353E-4EBF-B6EE-D0152B0FB6BB" = {
+"D316A020-56DB-4308-AD51-D49B9BC7B732" = {
 "@MMK_L_A2" = {
 "@MMK_R_B" = -15;
 "@MMK_R_C" = -30;
@@ -5092,7 +5110,7 @@ x = {
 "@MMK_R_wacute2" = -20;
 };
 };
-"EEBEDCE0-4D70-4EE0-A037-F223D2B7A84D" = {
+"DA1743F1-FF62-465F-8D09-7851030965A4" = {
 "@MMK_L_A2" = {
 "@MMK_R_B" = -9;
 "@MMK_R_C" = -17;
@@ -5468,7 +5486,7 @@ value = "The Lucknow Project Authors";
 unitsPerEm = 1000;
 userData = {
 GSDimensionPlugin.Dimensions = {
-"EEBEDCE0-4D70-4EE0-A037-F223D2B7A84D" = {
+"DA1743F1-FF62-465F-8D09-7851030965A4" = {
 HV = 160;
 HH = 140;
 OV = 160;
@@ -5478,7 +5496,7 @@ oH = 130;
 nV = 150;
 tH = 130;
 };
-"DBD1B0BE-353E-4EBF-B6EE-D0152B0FB6BB" = {
+"D316A020-56DB-4308-AD51-D49B9BC7B732" = {
 HV = 160;
 HH = 140;
 OV = 160;
@@ -5488,7 +5506,7 @@ oH = 130;
 nV = 150;
 tH = 130;
 };
-"578F755D-994C-42C1-BB23-8F906AA68774" = {
+"198774C1-CC10-42B9-85F8-E7CE679A5159" = {
 HV = 160;
 HH = 140;
 OV = 160;
