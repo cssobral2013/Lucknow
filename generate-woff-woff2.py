@@ -2,6 +2,20 @@ from fontTools.ttLib import TTFont
 
 '''Generate WOFF from TTF or OTF font.'''
 
+srcPath  = './ttf/Lucknow-Thin.ttf'
+woffPath = './web/Lucknow-Thin.woff'
+
+with TTFont(srcPath) as font:
+    font.flavor = 'woff'
+    font.save(woffPath)
+
+srcPath  = './ttf/Lucknow-ThinItalic.ttf'
+woffPath = './web/Lucknow-ThinItalic.woff'
+
+with TTFont(srcPath) as font:
+    font.flavor = 'woff'
+    font.save(woffPath)
+
 srcPath  = './ttf/Lucknow-ExtraLight.ttf'
 woffPath = './web/Lucknow-ExtraLight.woff'
 
@@ -123,9 +137,37 @@ with TTFont(srcPath) as font:
     font.flavor = 'woff'
     font.save(woffPath)    
 
+srcPath  = './ttf/Lucknow-Black.ttf'
+woffPath = './web/Lucknow-Black.woff'
+
+with TTFont(srcPath) as font:
+    font.flavor = 'woff'
+    font.save(woffPath)    
+
     
+srcPath  = './ttf/Lucknow-BlackItalic.ttf'
+woffPath = './web/Lucknow-BlackItalic.woff'
+
+with TTFont(srcPath) as font:
+    font.flavor = 'woff'
+    font.save(woffPath)      
 
 '''Generate WOFF2 from TTF or OTF font.'''
+
+srcPath  = './ttf/Lucknow-Thin.ttf'
+woff2Path = './web/Lucknow-Thin.woff2'
+
+with TTFont(srcPath) as font:
+    font.flavor = 'woff2'
+    font.save(woff2Path)
+
+srcPath  = './ttf/Lucknow-ThinItalic.ttf'
+woff2Path = './web/Lucknow-ThinItalic.woff2'
+
+with TTFont(srcPath) as font:
+    font.flavor = 'woff2'
+    font.save(woff2Path)
+
 
 srcPath  = './ttf/Lucknow-ExtraLight.ttf'
 woff2Path = './web/Lucknow-ExtraLight.woff2'
@@ -251,3 +293,18 @@ woff2Path = './web/Lucknow-ExtraBoldItalic.woff2'
 with TTFont(srcPath) as font:
     font.flavor = 'woff2'
     font.save(woff2Path)    
+    
+srcPath  = './ttf/Lucknow-Black.ttf'
+woff2Path = './web/Lucknow-Black.woff2'
+
+with TTFont(srcPath) as font:
+    font.flavor = 'woff2'
+    font.save(woff2Path)    
+
+    
+srcPath  = './ttf/Lucknow-BlackItalic.ttf'
+woff2Path = './web/Lucknow-BlackItalic.woff2'
+
+with TTFont(srcPath) as font:
+    font.flavor = 'woff2'
+    font.save(woff2Path)  

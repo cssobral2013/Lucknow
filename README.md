@@ -1,7 +1,7 @@
-Lucknow is based off of Madhuban and Unageo. Main changes include:
+Lucknow is based off of Gully and Unageo. Main changes include:
 
 - Imported Greek/Cyrillic support from Unageo;
-- Upscaled caps height to 700 and x-height to 500;
 - Remastered to 7 weights plus matching italics;
-- Removed Devanagari support;
+- Uniformized overshoots in 6, 7, and 9;
+- Changed 'a' and 'g' to double-storey;
 - Some others.

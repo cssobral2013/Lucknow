@@ -1,5 +1,15 @@
 @font-face {
     font-family: 'Lucknow';
+    src: url('web/Lucknow-Thin.woff2') format('woff2'),
+        url('web/Lucknow-Thin.woff') format('woff'),
+        url('ttf/Lucknow-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Lucknow';
     src: url('web/Lucknow-ExtraLight.woff2') format('woff2'),
         url('web/Lucknow-ExtraLight.woff') format('woff'),
         url('ttf/Lucknow-ExtraLight.ttf') format('truetype');
@@ -68,6 +78,25 @@
     font-display: swap;
 }
 
+@font-face {
+    font-family: 'Lucknow';
+    src: url('web/Lucknow-Black.woff2') format('woff2'),
+        url('web/Lucknow-Black.woff') format('woff'),
+        url('ttf/Lucknow-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Lucknow';
+    src: url('web/Lucknow-ThinItalic.woff2') format('woff2'),
+        url('web/Lucknow-ThinItalic.woff') format('woff'),
+        url('ttf/Lucknow-ThinItalic.ttf') format('truetype');
+    font-weight: 100;
+    font-style: italic;
+    font-display: swap;
+}
 
 @font-face {
     font-family: 'Lucknow';
@@ -135,6 +164,16 @@
         url('web/Lucknow-ExtraBoldItalic.woff') format('woff'),
         url('ttf/Lucknow-ExtraBoldItalic.ttf') format('truetype');
     font-weight: 800;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Lucknow';
+    src: url('web/Lucknow-BlackItalic.woff2') format('woff2'),
+        url('web/Lucknow-BlackItalic.woff') format('woff'),
+        url('ttf/Lucknow-BlackItalic.ttf') format('truetype');
+    font-weight: 900;
     font-style: italic;
     font-display: swap;
 }
